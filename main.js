@@ -26,7 +26,7 @@ const CODE_VERSION_API_ENDPOINT_PREFIX = '/api/code-versions/';
 const AUTH_FINGERPRINT_COOKIE_NAME = '_alp_fp';
 
 // Timing and Polling Configuration
-const MAX_EXPORT_WAIT_MINUTES = 10;
+const MAX_EXPORT_WAIT_MINUTES = 30;
 const EXPORT_POLL_INTERVAL_MS = 30000;
 
 // MAIN EXECUTION FLOW
