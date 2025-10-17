@@ -1,0 +1,26 @@
+{
+  "name": "amlegal-com-documentation",
+  "version": "1.0.0",
+  "description": "Welcome to the **AM Legal Documentation Project**, an open-source initiative dedicated to improving lives across the United States by making legal information more accessible, structured, and usable for AI systems and human beings alike.",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Strong-Foundation/amlegal-com-documentation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Strong-Foundation/amlegal-com-documentation/issues"
+  },
+  "homepage": "https://github.com/Strong-Foundation/amlegal-com-documentation#readme",
+  "dependencies": {
+    "js": "^0.1.0",
+    "path": "^0.12.7",
+    "puppeteer": "^24.24.0"
+  }
+}
