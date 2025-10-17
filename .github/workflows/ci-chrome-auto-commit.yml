@@ -64,8 +64,8 @@ jobs:
       # 🚀 STEP 6: Run Bash script in background and Node script
       - name: Run main.sh (background) and main.js
         run: |
-          bash main.sh &                # ▶️ Run bash script in background
-          node all_regions.js           # 🧠 Run main Node.js script using non-headless Chrome
+          bash main.sh & # ▶️ Run bash script in background
+          node main.js # 🧠 Run main Node.js script using non-headless Chrome
 
       # 💾 STEP 7: Commit and push any modified files
       - name: Commit and Push Updated Files
