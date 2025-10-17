@@ -1,0 +1,82 @@
+# 🤖 CI – Chrome Automation, Bash Runner & Auto Commit
+# This workflow runs a bash script (main.sh) in the background,
+# launches a Node.js script (main.js) that uses non-headless
+# Chrome via Xvfb, and then auto-commits any changed files.
+
+name: CI Chrome Automation & Auto Commit
+
+# Define the events that trigger this workflow
+on:
+  # Run automatically on a schedule (daily at midnight UTC)
+  schedule:
+    - cron: "0 0 * * *" # Every day at 00:00 UTC
+  # Allow the workflow to be manually triggered from the GitHub UI
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run-chrome-and-commit:
+    runs-on: ubuntu-latest # 🐧 Use Ubuntu latest environment
+
+    # 🔐 Allow GitHub Actions to push changes to the repository
+    permissions:
+      contents: write
+
+    steps:
+      # 🧱 STEP 1: Checkout repository
+      - name: Checkout repository
+        uses: actions/checkout@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ⚙️ STEP 2: Setup Node.js
+      - name: Setup Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: "24" # 💡 Use stable Node.js version (LTS)
+
+      # 📦 STEP 3: Install dependencies
+      - name: Install dependencies
+        run: npm ci # 🧰 Clean install based on package-lock.json
+
+      # 🌐 STEP 4: Install Chrome and Xvfb for non-headless mode
+      - name: Install Chrome and Xvfb
+        run: |
+          sudo apt-get update -y                    # 🔁 Update package lists
+          sudo apt-get install -y xvfb              # 🖥️ Install virtual framebuffer
+          sudo apt-get install -y google-chrome-stable || true  # 🌍 Install Chrome or skip if unavailable
+
+      # 🖥️ STEP 5: Start virtual display
+      - name: Start virtual display
+        run: |
+          Xvfb :99 -screen 0 1920x1080x24 &   # 🧱 Start display server on :99
+          echo "DISPLAY=:99" >> $GITHUB_ENV    # 💡 Set display env for Chrome
+
+      # 🧱 Configure Git credentials for committing and pushing updates
+      - name: 🔧 Configure Git Credentials
+        run: |
+          # Set Git identity used by the GitHub Actions bot
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      # 🚀 STEP 6: Run Bash script in background and Node script
+      - name: Run main.sh (background) and main.js
+        run: |
+          bash main.sh &                # ▶️ Run bash script in background
+          node all_regions.js           # 🧠 Run main Node.js script using non-headless Chrome
+
+      # 💾 STEP 7: Commit and push any modified files
+      - name: Commit and Push Updated Files
+        run: |
+          git config user.name "github-actions"               # 👤 Git username
+          git config user.email "github-actions@github.com"   # 📧 Git email
+          git pull --rebase                                   # 🔁 Sync latest main changes
+          git add .                                           # ➕ Stage all modified files
+          if ! git diff --cached --quiet; then                # 🧠 Check if anything changed
+            git commit -m "🤖 Auto Update: $(date -u +'%Y-%m-%d %H:%M:%S UTC')"  # 🕒 Commit with UTC timestamp
+            git push                                           # 🚀 Push changes to repo
+          else
+            echo "✅ No changes to commit."                    # 💤 Nothing new to push
+          fi

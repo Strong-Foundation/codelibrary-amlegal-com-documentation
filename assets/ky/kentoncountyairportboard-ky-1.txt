@@ -1,0 +1,2766 @@
+KENTON COUNTY AIRPORT BOARD
+RULES AND REGULATIONS
+2025 S-1 Supplement contains:
+Local legislation current through Ord. 2025-01, passed 1-20-2025
+Published by:
+American Legal Publishing
+525 Vine Street, Suite 310
+Cincinnati, Ohio 45202
+Tel: (800) 445-5588
+Internet: http://www.amlegal.com
+RULE 100.00: DEFINITIONS
+RULE 100.00: DEFINITIONS
+   ACCIDENT. Any event or incident causing personal injury or property damage.
+   AGENCY. Any airline, tenant, contractor, or other person or entity having an
+agreement with the Airport Board to do business on the airport, including any
+subtenant or subcontractor thereof.
+   AIR OPERATIONS AREAS (AOA). That portion of the airport, specified in the
+Airport Security Program in which security measures specified in 49 C.F.R. Part
+1542 are carried out. This area includes the area used for aircraft landing,
+parking, enplaning, and deplaning of passengers and all areas so designated by
+the Chief Executive Officer of the airport, aircraft movement areas, aircraft
+parking areas, loading ramps, and safety areas for use by aircraft regulated
+under 49 C.F.R. Parts 1544 or 1546, and any adjacent areas (such as general
+aviation areas) that are not separated by adequate security systems, measures,
+or procedures. This area does not include the secured area.
+   AIRCRAFT. Any and all machines or contrivances used for navigation or flight
+in air or space.
+   AIRCRAFT FUEL SERVICING HYDRANT VEHICLE. A vehicle equipped with facilities
+to transfer fuel between a fuel hydrant and an aircraft.
+   AIRCRAFT FUEL SERVICING TANK VEHICLE. A self-propelled vehicle having a
+cargo tank for the transportation of aviation fuel.
+   AIRCRAFT OPERATOR. Any person, company, or organization who uses, causes to
+be used, or allows use of an aircraft for air navigation or ground movements.
+   AIRPORT. All land and improvements within the geographic boundary lines of
+the Cincinnati/Northern Kentucky International Airport, Boone County, Kentucky.
+   AIRPORT FIRE CHIEF. The Chief of the Aircraft Rescue and Firefighting
+Department employed by the Board and responsible for the day-to-day operations
+of the Aircraft Rescue and Firefighting Department under the general
+supervision of the CEO, COO or such other designated representative of the
+Board.
+   AIRPORT POLICE. Those persons employed by the Board and who are charged with
+the responsibility of maintaining public order, safety, and welfare and the
+enforcement of these Rules and Regulations pursuant to KRS 183.880.
+   AIRCRAFT RESCUE AND FIREFIGHTING DEPARTMENT or ARFF. The department at the
+airport vested with the responsibility for the prevention, extinguishment,
+suppression, and control of fires at the airport.
+   AIRPORT SECURITY COORDINATOR. Person employed by the Board and under the
+direction of the CEO, and charged with the authority and responsibility to
+implement and enforce the ASP, or such employee’s designated representative.
+   AIRPORT SECURITY PROGRAM or ASP. A security program approved by TSA under
+§ 1542.101 of 49 C.F.R. Chapter XII.
+   AIRPORT TENANT(S). Individuals, partnerships, corporations, or other
+business entities, and their agents, employees, and subtenants, that occupy or
+control part or all of areas, buildings, or other facilities at the airport,
+which they lease from the Board.
+   AUTHORIZED PERSONS. Those persons authorized with a personnel identification
+badge issued by the Airport Security Coordinator, or designated representative,
+to have access to all or certain identified areas of the SIDA. No person under
+the age of 15 years shall be issued a personnel identification badge.
+   AUTONOMOUS VEHICLE. Any vehicle or equipment navigated or maneuvered without
+the need for human control or intervention under a range of situations and/or
+conditions.
+   BOARD. The Kenton County Airport Board.
+   CHIEF EXECUTIVE OFFICER or CEO. The person responsible for the operation and
+management of the airport, and is appointed by the Board.
+   CHIEF OPERATIONS OFFICER or COO. The person responsible for the day-to-day
+operations of the airport under general supervision of the CEO.
+   COMMERCIAL. Of, relating to, or connected with the actual or proposed sale,
+gift, exchange, or solicitation therefor of goods, services, productions, or
+property or rights of any kind, whether for profit or not. A sale or exchange
+is not COMMERCIAL if the sale or exchange is made by or on behalf of an
+organization which is a federally tax exempt organization to which
+contributions are deductible in determining taxable income for federal tax
+purposes, and if the sale or exchange is made pursuant to said organization’s
+tax exempt purposes and if the transaction is in compliance with other
+applicable sections of these Rules and Regulations.
+   CONTROL TOWER. The aircraft control center operated by the Federal Aviation
+Administration of the United States government and located on the airport.
+   DEADMAN FLOW CONTROL. A device that needs a positive action by a person to
+allow the flow of fuel.
+   ENGINE RUN-UP. Any activity by an aircraft operator, other than aircraft
+taxi, take-off, or landing that requires engine power above idle.
+      (1)   ENGINE RUN-UP POLICY. The policy established by the Chief Executive
+Officer providing procedures to perform an engine run-up for maintenance or
+operating an Aircraft, as such policy may be amended and supplemented from time
+to time.
+      (2)   EXTENDED FULL-POWER RUN-UP. A full-power run-up that lasts longer
+than two minutes in duration.
+      (3)   FULL-POWER RUN-UP. An engine run-up that utilizes more than 80% of
+engine power.
+   ESCORT. A person authorized to accompany or monitor the activities of an
+individual who does not have unescorted access authority into or within a
+secured area of SIDA, and/or AOA.
+   FAA. The Federal Aviation Administration of the United States government.
+   FIREARM. Any item from which a projectile may be fired by the force of an
+explosion, including, but not limited to, starter pistols, compressed airguns,
+BB guns, and flare pistols.
+   HEARING OFFICER. A designated representative who will conduct hearings
+pursuant to the provisions of these Rules and Regulations.
+   MOVEMENT AREA. The taxiways, runways, and other areas of the AOA at the
+airport that are under the control of the control tower.
+   NON-MOVEMENT AREA. All other portions of the AOA at the airport outside of
+the movement area.
+   PERSON. Any individual, partnership, firm, corporation, unincorporated
+association, or any legal entity.
+   PERSONAL IDENTIFICATION NUMBER (PIN). The individual access entry number
+that works in conjunction with the airport issued personnel identification
+badge to allow entry into restricted areas.
+   PERSONNEL IDENTIFICATION BADGE (BADGE OR IDENTIFICATION BADGE).
+Identification for authorized persons containing the individual’s name, company
+name and photograph and include airport-issued personnel identification badges
+issued by the Board to an authorized person for performance of the person’s job
+duties within the SIDA.
+   PUBLIC AREA or PUBLIC AREAS. Area or areas of the airport under the
+exclusive control and supervision of the Board to which or into which members
+of the general public have uninhibited access subject only to the Rules and
+Regulations of the Board.
+   QUALIFIED PERSONNEL. A pilot who is type-rated to operate a designated
+aircraft or a person who is properly designated by the aircraft operator
+pursuant to the Surface Movement Training Policy.
+   RAMP AND APRON AREA. Areas of the airport designated for the purpose of
+unloading and loading passengers, baggage, freight, mail, supplies, and other
+cargo, to and from aircraft, for the purpose of performing such fueling and
+other ramp services or for the purpose of parking mobile equipment, actively
+used in connection with ramp operations, subject to reasonable rules and
+regulations regarding the use and operation of such equipment.
+   RAMP CITATION. A citation written by airport police and given to a person
+for safety or security violations. RAMP CITATIONS are on a form developed and
+prescribed by airport police. See Rule 900.00 for applicable penalties and
+enforcement.
+   RESTRICTED AREA. Used interchangeably with SIDA, and includes any area not
+open to the general public.
+   REVOCATION. The discontinuance of a person’s ability to access restricted
+areas. This includes, but is not limited to, revoking or restricting the
+person’s identification badge.
+   SECURED AREA. The portion of the airport, specified in the Airport Security
+Program, in which certain security measures specified in Part 1542 of 49 C.F.R.
+Chapter XII are carried out. This area is where aircraft operators and foreign
+air carriers that have a security program under Part 1544 or 1546 of 49 C.F.R.
+Chapter XII enplane and deplane passengers and sort and load baggage, and
+includes any adjacent areas that are not separated by adequate security
+measures. At the airport, the SECURED AREA includes all outside ramp areas
+within the perimeter fence (except for those areas identified as AOA), all
+baggage make-up areas, and designated internal areas of the Ameriflight
+building, the Delta Airline’s maintenance hangar and cabin services building.
+   SECURITY ACCESS SYSTEM. Equipment installed or placed by or under the
+direction of the Board, or designated representative, to monitor or control
+entrances to and exits from restricted areas. Security devices include, but are
+not limited to, bells, sirens, communication equipment, locks and corresponding
+keys, emergency exits, electronic access control, and other security equipment.
+   SECURITY IDENTIFICATION AREA (SIDA). Used interchangeably with RESTRICTED
+AREA. That portion of the airport specified in the ASP, in which security
+measures specified in 49 C.F.R. Part 1540 are carried out. The SIDA at CVG is
+identified as all secured areas, AOA, and all non-public restricted areas
+located in the sterile areas. These restricted areas include areas designated
+by vendors and airport tenants as non-public work areas (i.e., kitchens),
+storage and warehousing areas used by vendors and airport tenants and non-
+public offices located beyond 49 C.F.R. § 1542.207(b) doors in the sterile
+areas.
+   SECURITY PERIMETER. The portion of the airport that is enclosed by fencing,
+walls, or other barriers, and to which access is controlled through designated
+entry points.
+   SECURITY SCREENING AREA. An access point of a sterile area where persons and
+belongings are inspected prior to entrance. This area includes both entrance
+and exit points to the sterile area.
+   SERVICE ANIMAL. An animal that is trained to do work or perform tasks for
+people with disabilities such as guiding people who are blind, alerting people
+who are deaf, pulling a wheelchair, alerting and protecting a person who is
+having a seizure, reminding a person with mental illness to take prescribed
+medications, calming a person with post traumatic stress disorder during an
+anxiety attack, or performing other duties. SERVICE ANIMALS are working
+animals, not pets. The work or task an animal has been trained to provide must
+be directly related to the person’s disability.
+   STERILE AREA(S). The portion of the airport defined in the airport security
+program that provides passengers access to boarding aircraft and to which the
+access generally is controlled by TSA, or by an aircraft operator under Part
+1544 of 49 C.F.R. Chapter XII or a foreign air carrier under Part 1546 of 49
+C.F.R. Chapter XII, through the screening of persons and property.
+   SURFACE MOVEMENT TRAINING POLICY. The policy established by the CEO
+requiring training for persons to conduct engine run-ups and/or maneuvering of
+aircraft on behalf of an aircraft operator in the movement area of the airport,
+which policy requires an aircraft operator to annually submit a letter of
+verification to the COO designating those persons that have completed such
+training and are qualified personnel on behalf of the aircraft operator, as
+such policy may be amended and supplemented from time to time.
+   SUSPENSION. Temporary discontinuance of a person’s ability to access
+restricted areas. This includes, but is not limited to, suspending or
+restricting the person’s identification badge.
+   TOWER ORDER. Any written rule, regulation, policy, or procedure used by the
+Federal Aviation Administration for the purpose of instructing Federal Aviation
+Administration aircraft controllers regarding restrictions on the use of
+runways at the airport.
+   TSA. Transportation Security Administration.
+   VEHICLE. Automobiles, trucks, buses, motorcycles, bicycles, push carts, and
+any other device in or upon the airport by which any person or property is or
+may be transported, carried, or drawn upon land, aircraft excluded.
+RULE 200.00: GENERAL PROVISIONS
+RULE 200.00: GENERAL PROVISIONS
+Regulation
+   
+201.00   Severability or invalidity
+   
+202.00   Federal regulations ascendant
+   
+203.00   Interpretation, implementation, administration, and enforcement
+   
+204.00   Request to inspect records
+      
+204.01   Purpose
+      
+204.02   Request procedure
+   
+205.00   Use of airport for first amendment activities
+      
+205.01   Definitions and construction
+      
+205.02   Purpose
+      
+205.03   Considerations
+      
+205.04   Creation of designated areas for expressive activity; expressive
+activity limited to designated areas; permit required
+      
+205.05   General regulations
+      
+205.06   Permits
+      
+205.07   Miscellaneous
+      
+205.08   Commercial speech
+201.00 SEVERABILITY OR INVALIDITY.
+   If any provision of the Board’s Rules and Regulations is held invalid,
+unconstitutional, or ineffective then the remainder of the Rules and
+Regulations shall not be affected. If the application of any Rule or Regulation
+to any person or circumstances is held invalid, unconstitutional, or
+ineffective, the remaining application(s) of the Rules or Regulations remain to
+the extent the remainder is not invalid, unconstitutional, or ineffective.
+202.00 FEDERAL REGULATIONS ASCENDANT.
+   The Rules and Regulations in no way supersede or abrogate regulations set
+forth in Part 1542 (Airport Security) of 49 C.F.R. or Part 139 (Certification
+and Operations of Land Airports) of the FAA chapter of 14 C.F.R.
+203.00 INTERPRETATION, IMPLEMENTATION, ADMINISTRATION, AND ENFORCEMENT.
+   The CEO is vested with the authority to interpret the provisions of these
+Rules and Regulations and to take such actions as the CEO, in his or her
+reasonable discretion, deems appropriate to implement, administer, and enforce
+the same.
+204.00 REQUEST TO INSPECT RECORDS.
+   204.01 Purpose. The purposes of Rule 204.00 are to comply with the
+requirements of KRS 61.870 et seq., the Kentucky Open Records Act. The Board
+shall adhere to the Kentucky Open Records Act in the administration of this
+Rule.
+   204.02 Request procedure.
+      (1)   Any person who is a resident of the Commonwealth of Kentucky as
+defined in KRS 61.870(10) shall have the right to inspect the Board’s public
+records by submitting the request to the official custodian of the Board’s
+public records: the Vice President of Business Administration. The Board will
+only respond to requests that a person:
+         (a)   Mails to the Board’s principal office at 77 Comair Boulevard,
+Erlanger, KY 41018 to the attention of the Official Custodian; or
+         (b)   E-mails to openrecords@cvgairport.com.
+      (2)   The request must either be a completed standardized form
+promulgated by the Kentucky Attorney General for such purpose or, in all other
+circumstances, be in writing and contain:
+         (a)   A description of the records to be inspected including enough
+detail for the Board to ascertain the records sought;
+      (b)   The name and contact information for the requesting person;
+         (c)   A statement that the person making the request:
+            1.   Is a resident of the Commonwealth under KRS 61.870(10); and
+            2.   The statement includes the manner in which the requester is a
+resident of the Commonwealth under KRS 61.870(10)(a) to (f).
+         (d)   The handwritten signature of the requesting person if the
+request is in paper form.
+      (3)   The Board will reply to each request no more than five days
+(excepting Saturdays, Sundays, and legal holidays) following the date the
+official custodian receives the request in accordance with division (1) above.
+The Board’s reply will include, but is not limited to, the following
+information:
+         (a)   Whether the Board has identified public records responsive to
+the request;
+         (b)   Whether the Board will not permit the inspection of the records
+or portions of the records responsive to the request and, in that event, the
+reason why inspection is not permitted;
+         (c)   The conditions for the inspection of the records responsive to
+the request, which may include applicable fees for copying and postage; and
+         (d)   Whether more time is necessary to identify records responsive to
+the request.
+      (4)   Any and all inspections of the public records of the Board may be
+made by either of the two following methods:
+         (a)   A person may inspect the public records during the regular
+office hours of the Board from 9:00 a.m. to 5:00 p.m. ET Monday through Friday
+(excluding legal holidays) and shall take place in the facilities provided by
+the Board; or
+         (b)   By receiving copies of the public records from the Board.
+205.00 USE OF AIRPORT FOR FIRST AMENDMENT ACTIVITIES.
+   205.01 Definitions and construction.
+      (1)   Definitions. As used in Regulation
+205.00 only:
+         DESIGNATED AREA. One of several places at the airport in which
+engaging in expressive activity is permitted with a duly authorized permit.
+         EXPRESSIVE ACTIVITY. The act of engaging the public in free exercise/
+literature distribution, marching/picketing, or solicitation.
+         FREE EXERCISE/LITERATURE DISTRIBUTION. Communicating or conveying idea
+(s), message(s), or opinion(s), to the public, including, but not limited to,
+leafleting, handing out, or other dissemination of documents or other similar
+material that contains or sets forth language or some other form of written or
+printed communicative matter, symbols, or images, not involving marching/
+picketing or solicitation.
+         MARCHING/PICKETING. The posting, procession, or gathering of a group
+of individuals who are supporting or protesting a particular subject in a
+combined demonstration to the public, not involving solicitation.
+         OBSCENE MATERIAL. Material that:
+            1.   To the average person, applying contemporary community
+standards, the predominant appeal of the material, taken as a whole, is to
+prurient interest in sexual conduct;
+            2.   Depicts or describes the sexual conduct in a patently
+offensive way; and
+            3.   Taken as a whole, lacks serious literary, artistic, political,
+or scientific value.
+         PERMIT. The certificate issued by the Chief Executive Officer or the
+Chief Executive Officer’s authorized representative authorizing the permittee
+(s) named on the certificate to engage in expressive activity at the airport,
+subject to the regulations set forth in this Regulation
+205.00.
+         PERMITTEE. Any person or group who has been issued a permit by the
+Chief Executive Officer or the Chief Executive Officer’s authorized
+representative. PERMITTEE includes, both individually and collectively, the
+person responsible for completing the application and any member of that
+person’s group listed on the application and permit.
+         SIGN. Any combination of letters, pictures, characters, or other
+communicative display used to identify or direct attention to some activity or
+direction.
+         SOLICITATION. Any request, whether spoken or communicated by conduct
+or some form of sign or message, to the public for the immediate exchange of a
+donation, bequest, or other form of grant of funds, money, negotiable
+instrument, or other valuable asset, to the person making the request, or to
+any other person or group.
+      (2)   Limiting construction. For purposes of Regulation
+205.00, the definition of “expressive activity” shall not include or refer to
+the communication, conveyance, or document distribution of an idea, message, or
+opinion that is incidental to the person’s purpose for being at the airport and
+is not intended for the public-at-large, such as conversation, discussion, or
+other forms of contact among and between travelers.
+   205.02 Purpose. Regulation
+205.00 is promulgated for the purposes of regulating the time, place, and
+manner in which a person may engage in expressive activity at the airport.
+Regulation
+205.00 seeks to strike an appropriate balance between the First Amendment right
+of free expression with the Board’s right to preserve the airport for its
+primary purpose of efficient air travel. The intent of these time, place, and
+manner regulations is to ensure that any person engaging in expressive activity
+at the airport does not materially impact or affect the airport’s security,
+operational efficiency, revenue, and/or aesthetics-all of which are
+fundamental, essential components of efficient air travel-in a manner that
+undermines the airport’s primary purpose. Therefore, any person desiring to use
+the airport for the purpose of engaging in expressive activity shall do so only
+in accordance with the time, place, and manner regulations set forth in
+Regulation
+205.00 et seq.
+   205.03 Considerations. The time, place, and manner regulations of this
+Regulation
+205.00 are necessary to address the following concerns, all of which are
+paramount considerations the Board has taken into account in striking a balance
+between the First Amendment right of free expression and the Board’s right to
+preserve the airport for efficient air travel:
+      (1)   Providing ample channels of communication to persons seeking to
+engage in expressive activity at the airport;
+      (2)   Ensuring adequate nearby police presence for the protection of
+persons engaging in expressive activity;
+      (3)   Limiting such expressive activity to certain areas of the airport
+in which the expressive activity will not adversely impact essential components
+of efficient air travel, such as security, operational efficiency, revenue, and
+aesthetics; and
+      (4)   Protecting users of the airport from harassment, intimidation, and
+unlawful conduct on the part of persons engaging in expressive activity.
+   205.04 Creation of designated areas for expressive activity; expressive
+activity limited to designated areas; permit required.
+      (1)   The Board hereby creates designated areas at the airport for
+persons to engage in expressive activity at the airport. These designated areas
+are set forth on Exhibits A-1 through A-4. Recognizing that each form of
+expressive activity presents unique concerns regarding the impact such form may
+have on airport security, operational efficiency, revenue, and aesthetics, the
+Board has set forth on Exhibits A-1 through A-4 the particular forms of
+expressive activity permitted in each designated area.
+      (2)   In order to preserve airport security, operational efficiency,
+revenue, and aesthetics, expressive activity is prohibited at the airport
+outside of the designated areas.
+      (3)   No person shall engage in expressive activity at the airport
+without first obtaining a proper permit as provided in Regulation
+205.06.
+      (4)   There shall be no more than two members of a group in a designated
+area purposed solely for free exercise/literature distribution and/or
+solicitation. Up to ten members of a group are permitted in a designated area
+permitting marching/demonstrating, provided that no more than two members of
+any group may engage in free exercise/literature distribution in such areas.
+      (5)   No more than one permit shall be issued per designated area at any
+given time.
+      (6)   No more than two designated areas shall be allotted to any group at
+any given time.
+   205.05 General regulations.
+      (1)   Each person must abide by all pertinent local, state, and federal
+laws, statutes, rules, regulations, and ordinances while at the airport.
+      (2)   Each person must, at all times, conduct themselves in a peaceful
+manner.
+      (3)   No person shall do any of the following on airport property:
+         (a)   Sell anything for commercial purposes, except by contract with
+the Board;
+         (b)   Make a noise or other sound which substantially interferes with
+the ability of others to hear public announcements or which substantially
+interferes with the transaction of business with airlines, concessionaires, or
+lessees;
+         (c)   Interfere with the free passage to, or access of, other persons
+to corridors, entrances, doorways, offices, or airport facilities;
+         (d)   Erect a table, chair, or other structure (other than an easel or
+similar stand, as permitted by Regulation
+205.06(6)(e)); or
+         (e)   Litter or dispose of any trash or rubbish at the airport, except
+in properly marked containers.
+      (4)   Solicitation is only permitted on behalf of nonprofit organizations
+for charitable, philanthropic, patriotic, political, educational, religious, or
+other like nonprofit purposes.
+   205.06 Permits. As set forth in Regulation
+205.04(3), any person or group desiring to engage in expressive activity at the
+airport shall first obtain a written permit from the CEO or the CEO’s
+authorized representative(s), as follows:
+      (1)   To obtain a permit, each person or group desiring to engage in
+expressive activity shall prepare an application, in a form authorized by the
+CEO or the CEO’s authorized representative, which shall be submitted either in
+paper or electronic form, whichever the CEO or the CEO’s authorized
+representative shall require. The application shall require the following
+information and such other information as the CEO or the CEO’s authorized
+representative may require, consistent with the purpose and intent of this
+Subsection 205.06:
+         (a)   The full name, mailing address, and telephone number of the
+person sponsoring, promoting, or conducting the proposed expressive activity
+who shall be the primary point of contact with the Board;
+         (b)   A brief explanation of the form of the proposed expressive
+activity;
+         (c)   Whether the proposed expressive activity is for free exercise/
+literature distribution, marching/picketing, or solicitation;
+         (d)   The number of persons that will be engaged in the expressive
+activity and their full names;
+         (e)   The applicant’s requested designated area to perform the
+proposed expressive activity;
+         (f)   The dates and hours the person(s) listed desire to engage in the
+proposed expressive activity;
+         (g)   A copy of any literature to be distributed and/or signs to be
+displayed; and
+         (h)   For applicants proposing to engage in solicitation:
+            1.   The name, mailing address, and telephone number of the
+organization on behalf of which the applicant intends to solicit;
+            2.   An attachment of reliable documentary evidence of the
+nonprofit status of the organization sponsoring and/or conducting the
+solicitation; and
+            3.   A copy of a letter or other written statement on the
+stationery of the organization in question stating that the organization has
+authorized the person(s) in question to solicit funds in its name and on its
+behalf.
+      (2)   Applicants shall submit their applications to the CEO or the CEO’s
+authorized representative no more than seven days, or less than three days,
+prior to the first date requested by the applicant for the proposed expressive
+activity.
+      (3)   No permit will be denied to an applicant based upon the identity of
+the person(s) desiring to engage in the expressive activity. No permit will be
+denied based upon the subject matter or viewpoint of the proposed expressive
+activity. Permits shall only be denied based on the applicant’s failure to
+provide all of the information required under division (1) above or failure to
+adhere to the Rules and Regulations of the airport.
+      (4)   Designated areas will be assigned on a first-come, first-served
+basis.
+         (a)   In the event that an applicant’s requested designated area has
+already been allotted to other applicants for the date(s) requested, such
+applicant shall have the option of either being assigned a different designated
+area that is compatible with the proposed expressive activity for the date(s)
+requested, if available, or having priority for the requested designated area
+at the next available date.
+         (b)   In the event that all designated areas have been allotted to
+other applicants for any of the date(s) requested by an applicant, such
+applicant shall have priority at the next available date.
+      (5)   Upon determining that an applicant has provided all information
+required by division (1) above and that there is an available designated area
+compatible with the applicant’s proposed expressive activity for the date(s)
+requested, the CEO or the CEO’s authorized representative shall issue a permit
+designating the authorized date(s) for the proposed expressive activity and the
+specific designated area assigned to the permittee for such date(s). Permits
+shall authorize the permittee(s) to engage in expressive activity for a maximum
+of five days before the permittee is required to submit a new application.
+      (6)   Permittees shall only engage in expressive activity in accordance
+with the following terms and conditions, which shall:
+         (a)   Authorize the permittee(s) to engage in expressive activity at
+the airport only in the specific designated area marked on the permit;
+         (b)   Authorize only those persons listed on the permittee’s
+application to participate in expressive activity;
+         (c)   Limit expressive activity at the airport to the hours between 9:
+00 a.m. and 11:59 p.m.;
+         (d)   Limit signs to no more than six square feet in area per person;
+         (e)   Limit each designated area to one easel (or similar stand) for
+the display of signs, which shall be no more than five feet in height;
+         (f)   Prohibit the placement, affixation, or other attachment of any
+matter, whether written, symbolic, or graphic-to any airport structure or
+facility;
+         (g)   Prohibit the use of any sound or voice amplification device;
+         (h)   Prohibit repeated communications or encounters with the same
+person, physically disturbing any person, or soliciting, harassing, or
+proselytizing any person who has clearly communicated a desire to be left
+alone;
+         (i)   Prohibit each permittee from misrepresenting his or her identity
+or indicating to the public that he or she is a representative of the airport
+or the Board;
+         (j)   Prohibit each permittee’s use of any airport electrical outlet
+in connection with the permittee’s expressive activity;
+         (k)   Prohibit the display or distribution of any:
+            1.   Obscene material; and
+            2.   Material that is directed to inciting or producing imminent
+lawless action and is likely to incite or produce such action, or otherwise
+violates any local, state, or federal law or regulation;
+         (l)   Require each permittee, upon arrival at the airport on each day
+that expressive activity has been authorized, to check-in at the location
+designated on the application, at which point each permittee shall furnish all
+items and materials to be utilized in the permittee’s expressive activity in
+order to ensure compliance with the Rules and Regulations of the Board; and
+         (m)   Require each permittee to clearly display at all times, on the
+permittee’s outermost layer of clothing, the badge or insignia issued by the
+CEO or the CEO’s authorized representative.
+   205.07 Miscellaneous.
+      (1)   The CEO or the CEO’s authorized representative(s) may declare an
+emergency on account of unusually congested conditions at the airport, on
+account of emergency conditions or circumstances that disrupt the normal
+operations of the airport, or on account of health and safety measures. In the
+event that such an emergency is declared, an announcement will be made. All
+permittees shall immediately cease expressive activities for the duration of
+such CEO’s authorized representative when the emergency has ended, at which
+time activities may be resumed. Under no circumstances shall the emergency
+powers granted hereunder be exercised for the primary purpose of suppressing
+speech.
+      (2)   In addition to the foregoing, without further need to amend the
+Rules and Regulations and without further Board action, the CEO may add,
+delete, or relocate designated areas to provide for the orderly flow of
+pedestrian traffic, or in the interest of safety, aesthetics, security, or as
+may be required by construction, renovation, demolition, or improvements at the
+airport. Any additions, deletions, or relocations of the designated area must
+be authorized in writing by the CEO, which writing shall contain amended
+Exhibits A-1 through A-4 and be filed with the Secretary of the Board.
+      (3)   The CEO or the CEO’s authorized representative has the authority to
+revoke a permit if the permittee fails to abide by the terms and conditions of
+the permit or violates any other provision of the Rules and Regulations of the
+Board.
+      (4)   For each and every breach of any provision of Regulation 205 et
+seq., a person is subject to the penalties set forth or referred to at Rule 900
+of the Rules and Regulations of the Board.
+      (5)   Any person who has obtained a permit and has breached any provision
+of Rule 205 on two or more occasions shall be barred from receiving a permit
+for one calendar year from the date of the second breach.
+      (6)   This Regulation
+205.00 is a part of the Rules and Regulations of the Board, and accordingly,
+among other things, Regulation
+201.00 (Severability or Invalidity) is applicable.
+   205.08 Commercial speech.
+      (1)   The CEO has the authority to promulgate a written policy governing
+commercial displays and advertisements at the airport, which shall be made
+available to the public upon request.
+      (2)   No person shall engage in commercial activity at the airport,
+except as provided under Rule 400.00 of these Rules and Regulations.
+RULE 300.00: PERSONAL CONDUCT
+RULE 300.00: PERSONAL CONDUCT
+Regulation
+   
+301.00   Compliance with federal, state, and/or local laws or regulations
+   
+302.00   General prudential rule
+   
+303.00   Preservation of property
+   
+304.00   Restricted area
+   
+305.00   Environmental
+      
+305.01   Sanitation
+      
+305.02   Trash
+      
+305.03   Removal of gas, oil, grease, etc.
+   
+306.00   Animals
+   
+307.00   Smoking or carrying lighted materials or open flame
+   
+308.00   Protection of feet
+   
+309.00   Firearms prohibited
+301.00 COMPLIANCE WITH FEDERAL, STATE, AND/OR LOCAL LAWS OR REGULATIONS.
+   Every person using the airport, every tenant, and every other person doing
+business with the Board or at the airport, shall comply with all federal,
+state, and/or local laws, regulations, orders, and/or decisions, including
+those of executive, legislative, or judicial agencies or bodies, now or
+hereafter in effect, and applicable to the person’s use of, or operations at,
+the airport.
+302.00 GENERAL PRUDENTIAL RULE.
+   No person in or upon the airport shall, through act or omission,
+unreasonably endanger, or likely unreasonably endanger, persons or property.   
+303.00 PRESERVATION OF PROPERTY.
+   No person shall destroy, injure, deface, or disturb in any way any building,
+sign, equipment, marker or other structure, tree, flower, lawn or other
+property on the airport except under written contract with the Board; nor
+willfully abandon any personal property on the airport; nor walk on the lawns
+and seeded areas of the airport.
+304.00 RESTRICTED AREA.
+   (A)   No person shall enter into any restricted area except:
+      (1)   Those persons authorized to go into such area by the CEO or the
+COO;
+      (2)   Airport employees authorized to go into such area; or
+      (3)   Airport tenants or their employees authorized to go into such area.
+   (B)   Any person authorized to go into a restricted area shall provide
+indemnity and insurance protection to the Board of a nature and in an amount as
+determined by the Board or the CEO.
+305.00 ENVIRONMENTAL.
+   305.01 Sanitation. No person shall dispose of garbage, papers, rubbish or
+other material on airport except in the receptacles provided for that purpose;
+nor use a comfort station other than in a clean and sanitary manner; nor
+consume food or drink beverages in the terminal buildings other than in areas
+designated for such purposes; nor expectorate on the floors, walls, or other
+surfaces of any airport building.
+   305.02 Trash. No airport tenant shall keep uncovered trash containers in any
+area. No person shall operate a vehicle used for hauling trash, dirt, or any
+other materials on the airport unless such vehicle is designed to prevent the
+contents from dropping, sifting, leaking, or otherwise escaping. The CEO and
+COO shall designate areas to be used for trash or garbage containers at the
+airport and no other areas shall be used.
+   305.03 Removal of gas, oil, grease, etc. In the event of spillage or
+dripping of gasoline, oil, grease, or any material which may be unsightly or
+detrimental to pavement, or which might cause a safety hazard, the same shall
+be removed immediately. The responsibility for the immediate removal of such
+gasoline, oil, grease, or other material shall be assumed by the operator of
+the aircraft or vehicle causing the event or by the airport tenant or
+concessionaire responsible for the deposit on the pavement.
+306.00 ANIMALS.
+   (A)   No person may bring an animal into the airport except:
+      (1)   Non-service animals to be or that have been transported by air.
+Non-service animals to be or that have been transported by air must be properly
+confined as set forth in division (B) below before entering the terminal
+buildings;
+      (2)   A service animal that is harnessed, leashed, or tethered, unless
+these devices interfere with the service animal’s work or the individual’s
+disability prevents using these devices in which case the individual must
+maintain control of the animal through voice, signal, or other effective
+controls;
+      (3)   An animal which remains inside a vehicle at all times;
+      (4)   An animal used for law enforcement and security screening purposes;
+or
+      (5)   Animals authorized by the CEO or designee for special events.
+   (B)   All non-service animals permitted under division (A)(1) above must be
+contained in a pet carrier or, if no pet carrier is present, the non-service
+animal must be restrained by a leash and must be within five feet of the
+handler. Such non-service animals must be completely under control of the
+handler at all times. In accordance with applicable law, non-service animals
+permitted under division (A)(1) above are not allowed in any restaurant or food
+service facility at the airport. Non-service animals that are not in a pet
+carrier are not permitted on any moving conveyance system at the airport,
+except elevators.
+   (C)   Airport police may exclude any animal, including a service animal,
+from the airport when that animal’s behavior poses a direct threat to the
+health or safety of others. For example, any service animal that displays
+vicious behavior towards other guests or customers may be excluded.
+   (D)   No person other than those authorized by the CEO or CEO’s designated
+representative will hunt, pursue, trap, catch, injure, or kill any animal on
+the airport.
+   (E)   No person will feed or do any other act to encourage the congregation
+of birds or other animals on the airport.
+   (F)   No person will permit, either willfully or through failure to exercise
+due care or control, any animal to urinate or defecate on the sidewalks of the
+airport or within any airport building, except in the designated service animal
+relief areas located at the airport.
+307.00 SMOKING OR CARRYING LIGHTED MATERIALS OR OPEN FLAME.
+   No person shall smoke or carry lighted cigarettes, cigars, pipes, matches,
+or any open flame, or use any electronic cigarette in or upon the public areas
+of any building on the airport, except in designated smoking areas. The CEO may
+designate separate smoking areas within the public areas in any such building
+where appropriate.
+308.00 PROTECTION OF FEET.
+   No person may tread bare foot in or upon the airport facilities.
+309.00 FIREARMS PROHIBITED.
+   (A)   For purposes of this Regulation, FIREARM means any weapon which will
+expel a projectile by the action of an explosive.
+   (B)   It is unlawful for a person to possess, deposit, carry, whether openly
+or concealed, any firearm in the AOA, secured area of the airport, or any area
+identified on Exhibit C, attached and incorporated by this reference, for
+purposes other than the purposes permitted by division (C) below of this Rule.
+   (C)   The provisions of division (B) above shall not apply to:
+      (1)   Any federal official, member of the Armed Services of the United
+States, peace officer, police officer, or other law enforcement officer when
+required in the performance of their official duties; and
+      (2)   Any common carrier transporting a firearm consistent with 49 C.F.R.
+§ 1540.111.
+   (D)   The CEO, in order to provide for the orderly, safe, and secure
+operations of the airport, has the authority to add or remove locations to
+Exhibit C in the CEO’s reasonable discretion by filing an amended Exhibit C
+with the Secretary of the Board and posting conspicuous signage of the
+applicability of this Rule to any location.
+RULE 400.00: COMMERCIAL ACTIVITY
+RULE 400.00: COMMERCIAL ACTIVITY
+Regulation
+   
+401.00   Conduct of business
+   
+402.00   Advertisements
+   
+403.00   Parking and storage of aircraft
+   
+404.00   Soliciting
+   
+405.00   Commercial picketing, marching, and demonstrating
+   
+406.00   Motor vehicle food vendors
+   
+407.00   Floor care
+   
+408.00   Waste
+   
+409.00   Notification requirement for work at the airport
+401.00 CONDUCT OF BUSINESS.
+   (A)   No person shall conduct, for commercial purposes, any activity or
+business at or from the airport, except by contract with the Board. No person
+shall use, for commercial purposes, the airport for revenue-producing
+activities, except by contract with the Board.
+   (B)   No person, without a contract with the Board, shall engage in
+commercial activity on the AOA or secured area without first filing an
+application and obtaining a proper permit from the CEO or the CEO’s designee.
+The CEO may exercise discretion in implementing a fee(s) related to the
+application and permit so long as such fees are assessed in a reasonable manner
+to similarly situated applicants and permittees (as applicable). The CEO or
+designee will prescribe the form of the application and may from time to time
+amend the application requirements and submittal requirements which may include
+without limitation maintaining insurance coverages as determined from time to
+time by the CEO and providing continuing confirmation of required insurance
+coverages in accordance with the permit.
+402.00 ADVERTISEMENTS.
+   No person shall, for commercial purposes, post, distribute, or display
+signs, advertisements, circulars, or any other printed or written matter at the
+airport, except by contract with the Board.
+403.00 PARKING AND STORAGE OF AIRCRAFT.
+   No person shall use any area of the airport for parking and/or storage of
+aircraft, except by contract with the Board.
+404.00 SOLICITING.
+   No person shall solicit, for commercial purposes, funds for any purpose at
+the airport, except by contract with the Board.
+405.00 COMMERCIAL PICKETING, MARCHING, AND DEMONSTRATING.
+   No person shall, for commercial purposes, conduct or participate in
+parading, marching, patrolling, demonstrating, distributing of pamphlets or
+other materials, carrying or displaying of signs or placards in or upon
+buildings, grounds, roads, walks, approaches, or any other property of the
+airport, except by contract with the Board.
+406.00 MOTOR VEHICLE FOOD VENDORS.
+   No person shall operate, or cause to be operated, a vehicle in connection
+with furnishing food, snacks, or beverages for sale at the airport except after
+receipt of authorization from the CEO and completion of applicable safety
+inspections.
+407.00 FLOOR CARE.
+   All airport tenants shall keep the floors of the hangars or other buildings,
+terminal aprons, pits, and areas adjacent leased or used by them respectively,
+free and clear of oil, grease and other flammable material. The floors of
+hangars and other buildings must be cleaned daily and continuously kept free of
+rags, waste material, and other trash or rubbish.
+408.00 WASTE.
+   Airport tenants may not place or leave or permit to be placed or left in or
+upon any part of the common areas or areas adjacent to an airport tenant’s
+demised premises any garbage, debris, or rubbish. Airport tenants of hangars or
+other aircraft servicing or maintenance buildings, terminal buildings, or other
+areas shall provide suitable metal receptacles with self-closing covers for the
+storage of oily wastes, rags, and other rubbish and trash. All waste within
+this general classification shall be removed by the airport tenants from the
+airport premises daily.
+409.00 NOTIFICATION REQUIREMENT FOR WORK AT THE AIRPORT.
+   (A)   No person shall perform any alterations, improvements, repairs,
+construction, or other similarly related work:
+      (1)   Within the terminal buildings and the restricted areas; or
+      (2)   On other airport property that is not under lease with the Board,
+without first notifying and obtaining a notice to proceed from the airport’s
+Planning and Development Department.
+   (B)   The approval process is for the airport’s internal purposes only and
+does not relieve any person from compliance with all other applicable laws
+related to the work. The process shall not be construed to be approval for
+architectural or engineering design or compliance with applicable laws or
+codes. This rule shall not apply to employees of the Board. Any public utility
+desiring to conduct any work at the airport shall provide notice to the
+airport’s Planning and Development Department prior to commencing any such
+work, excepting exigent circumstances when it is not possible to provide
+advance notice, in which case the public utility will provide notice as soon as
+reasonably possible.
+RULE 500.00: MOTOR VEHICLE OPERATIONS
+RULE 500.00: MOTOR VEHICLE OPERATIONS
+Regulation
+   
+500.01   Definitions
+   
+501.00   General requirements for all vehicles
+      
+501.01   Applicable law
+      
+501.02   Designation of roadways
+      
+501.03   Speed limit
+      
+501.04   Loading or unloading passengers
+      
+501.05   Parking
+      
+501.06   Removal
+      
+501.07   Compliance with directives
+      501.08   Vehicle roadworthiness
+   
+502.00   Commercial passenger vehicles
+      
+502.01   Authorization required to perform airport trips
+      
+502.02   Authorization fees
+      
+502.03   CEO to act on Board’s behalf
+      
+502.04   Minimum eligibility requirements for authorization
+      
+502.05   Authorization via CPV permit
+      
+502.06   Authorization via CPV contract
+      
+502.07   Rules applicable to commercial operators and commercial passenger
+vehicles operating on airport property
+      
+502.08   Suspension or revocation of authorization
+      
+502.09   AVI system
+   
+503.00   Non-profit passenger vehicles
+   
+504.00   Areas for cleaning and maintaining automotive equipment
+   
+505.00   Motor vehicle operation
+      
+505.01   Driving into a secured area behind another (tailgating)
+      
+505.02   Operating vehicles and motorized equipment
+      
+505.03   Identifying vehicles authorized in secured area/consent to inspection
+      
+505.04   Clear zone maintained
+      
+505.05   Vehicle escorts
+      
+505.06   Pulling more than three carts, four dollies
+      
+505.07   Failure to yield to aircraft
+      
+505.08   Driving outside the white lines
+      
+505.09   Driving within 150 feet to the rear of a taxiing aircraft
+      
+505.10   Careless/reckless operation of vehicle on airport
+      
+505.11   Speeding
+      
+505.12   Disregarding stop sign
+      
+505.13   All state laws applicable to vehicles on the airport
+      
+505.14   Passengers to be in affixed seat or designated area
+      
+505.15   Vehicle accident reports
+   
+506.00   Motor vehicle requirements
+      
+506.01   Vehicle registration
+      
+506.02   Vehicle equipment
+      
+506.03   Delivery vehicles
+      
+506.04   Dangerous vehicles or equipment
+   
+507.00   Autonomous vehicles
+      
+507.01   Authorization
+      
+507.02   Suspension
+      
+507.03   Board AV
+500.01 DEFINITIONS.
+   As used in this Regulation 500 only, words and phrases shall have the
+meaning set forth below, the meaning set forth in KRS 281.010 (as may be
+amended, modified, or replaced), or their commonly understood meaning.
+   AIRPORT GENERATED GROSS RECEIPTS.
+      (1)   With respect to an off-airport rental car operator, those gross
+receipts of an off-airport rental car operator that were derived from a person
+who arrived at the airport by aircraft and who was transported, either directly
+or indirectly, by such off-airport rental car operator to or from a rental
+station operated by and/or for the benefit of such off-airport rental car
+operator; or
+      (2)   With respect to an off-airport parking lot operator, those gross
+receipts of an off-airport parking lot operator that were derived from an air-
+transportation passenger of the airport, or any other person accessing the
+airport, who was transported, either directly or indirectly, by such off-
+airport parking lot operator to or from a location operated by or for the
+benefit of such off-airport parking lot operator.
+   AIRPORT TRIP. Commercial transportation provided by a commercial operator in
+which a passenger is transported to or from the airport.
+   AUTHORIZATION. Permission from the Board for a commercial operator to
+operate a designated commercial passenger vehicle(s) on airport property to
+provide airport trips, subject to the terms and conditions of the commercial
+operator’s CPV permit or CPV contract.
+   AUTHORIZED COMMERCIAL OPERATOR. A commercial operator who has obtained
+authorization and is in compliance with the terms and conditions of the
+commercial operator’s CPV permit or CPV contract.
+   AUTHORIZED CPV. Commercial passenger vehicle that is designated in the CPV
+permit or CPV contract of its authorized commercial operator and is in
+compliance with the terms and conditions of such CPV permit or CPV contract.
+   AVI SYSTEM. The airport’s AUTOMATED VEHICLE IDENTIFICATION SYSTEM, which, in
+general, is an electronic system that tracks the movements and monitors the
+dwell times of vehicles on airport property utilizing electronic identification
+tags (“AVI tags”) and readers.
+   COMMERCIAL OPERATOR. Any person, including such person’s drivers, employees,
+contractors, agents, and other representatives, who owns, controls, operates,
+utilizes, manages, or leases any commercial passenger vehicle to provide
+commercial transportation. For clarification purposes only, and without
+limiting the generality of the foregoing, examples of COMMERCIAL OPERATORS
+include: taxicab operators; limousine operators (which includes operators of
+black cars/other livery vehicles); transportation network companies; charter
+bus operators; and shuttle operators.
+   COMMERCIAL PASSENGER VEHICLE or CPV. Any vehicle that is used for the
+commercial transportation of passengers and their property. For clarification
+purposes only, and without limiting the generality of the foregoing, examples
+of COMMERCIAL PASSENGER VEHICLES include taxicabs, limousines (which include
+black cars/other livery vehicles), TNC vehicles, charter buses, and shuttles.
+   COMMERCIAL TRANSPORTATION. The transportation of passengers and their
+property by vehicle to or from points on airport property and points off-
+airport property as part of a for-profit, commercial transaction, regardless of
+whether the transaction is directly (i.e., the transportation is provided to
+the passenger for a fare or fee) or indirectly (i.e., the transportation is
+provided to the passenger without charge on a courtesy basis as part of a
+separate transaction with the passenger) related to the transportation
+provided.
+   CPV CONTRACT. A contract entered into between the Board and a commercial
+operator, in accordance with this Rule, which grants authorization to the
+commercial operator subject to the terms and conditions set forth in this Rule
+and the contract.
+   CPV OPERATING POLICY. The policy established by the CEO governing the
+commercial passenger vehicle operations of authorized commercial operators on
+airport property.
+   CPV PERMIT. A permit issued by the Board to a commercial operator, in
+accordance with this Rule, which grants authorization to the commercial
+operator subject to the terms and conditions set forth in this Rule and the
+permit.
+   DWELL TIME. The period of time during which a vehicle remains upon the
+roadways, staging areas, pick-up, and drop-off locations on airport property.
+   GROSS RECEIPTS.
+      (1)   With respect to an off-airport rental car operator, all monies paid
+or payable to, or considerations of determinable value received by, the off-
+airport rental car operator, whether by cash, check, or credit, and without
+deduction for credit card discounts or thefts, and whether the same shall be
+paid or unpaid, including all charges billed by the off-airport rental car
+operator, that are in any way related to providing a rental vehicle or any
+other product or service at or from the airport, regardless of where the
+vehicles, products, or services are delivered to or returned from; or
+      (2)   With respect to an off-airport parking lot operator, all monies
+paid or payable to, or considerations of determinable value received by, the
+off-airport parking lot operator, whether by cash, check, or credit, and
+without deduction for credit card discounts or thefts, and whether the same
+shall be paid or unpaid, including all charges billed by the off-airport
+parking lot operator, that are in anyway related to providing parking lot
+spaces or any other product or service to customers accessing the airport.
+   NON-PROFIT PASSENGER VEHICLE. A passenger vehicle operated by a 501(c) non-
+profit organization to provide transportation of passengers and their property
+to or from points on airport property and points off-airport property.
+   OFF-AIRPORT PARKING LOT OPERATOR. Any person, firm, or company that provides
+parking off-airport property to airport passengers in exchange for payment,
+regardless of whether the operator is engaged in other business endeavors
+unrelated to parking.
+   OFF-AIRPORT PARKING LOT SHUTTLE. A shuttle used by an off-airport parking
+lot operator to transport passengers to/from the off-airport parking lot.
+   OFF-AIRPORT RENTAL CAR OPERATOR. Any person, firm, or company that operates
+a rental car business off-airport property from which any portion of said
+business is derived from enplaning and/or deplaning passengers of the airport.
+   OFF-AIRPORT RENTAL CAR SHUTTLE. A shuttle used by an off-airport rental car
+operator to transport passengers to/from the off-airport rental car operator’s
+business location.
+   PERMIT YEAR. The period of 12 consecutive calendar months from June 1 to May
+31 during which authorization under a CPV permit is valid.
+   SHUTTLE. A vehicle, commonly a van or bus, used by a commercial operator to
+transport passengers to or from airport property and a fixed location(s) off-
+airport property. Common examples of SHUTTLES include those vehicles used by
+hotels/motels, off-airport parking lot operators, and off-airport rental car
+operators to transport passengers between the airport and their respective
+business locations off-airport property.
+   VEHICLE. A motor vehicle.
+501.00 GENERAL REQUIREMENTS FOR ALL VEHICLES.
+   The following provisions shall apply to all vehicles operating on airport
+property.
+   501.01 Applicable law. Except as otherwise stated in these Rules and
+Regulations, all laws, rules, and regulations of the Commonwealth of Kentucky
+applicable to vehicles and the operation of the same are hereby made applicable
+to the operation of vehicles on airport property.
+   501.02 Designation of roadways. Pursuant to KRS 183.885, the designation and
+classification of the roadways owned by the Board is set forth on Exhibit B,
+attached and incorporated by this reference. The operator of any vehicle or
+mobile equipment, when traversing any such roadway, must adhere to the
+restrictions, as designated for each classification, as set forth on Exhibit B
+and further must adhere to all other requirements of these Rules and
+Regulations. The CEO, in order to provide for orderly flow of traffic, or in
+the interest of safety, security, operations, or as may be required by
+reconfigured or newly constructed roadways, or as a result of other
+construction, renovation, or improvements at the airport, shall have the
+authority to amend Exhibit B to these Rules and Regulations by filing an
+amended Exhibit B with the Secretary of the Board.
+   501.03 Speed limit. No person may operate a vehicle on the airport at a
+speed in excess of 25 miles per hour if such area is not marked or designated
+by a road sign setting the speed limit. No person may operate a vehicle in
+excess of the posted speed limit in an area marked and designated by a road
+sign setting the speed limit. Road signs designating the speed limit on the
+airport shall be as authorized by the CEO.
+   501.04 Loading or unloading passengers. No vehicle shall load or unload
+passengers in any area on airport property except as designated for such
+purpose by the CEO.
+   501.05 Parking. No person may park or stop a vehicle in any area on airport
+property except in such areas as may be designated for parking or stopping by
+the CEO. Charges for parking of vehicles shall be at reasonable rates
+established from time to time by the CEO, either by contract or otherwise.
+   501.06 Removal. The Board may remove from the airport and may impound any
+vehicle that is parked in any unauthorized area, disabled, abandoned, left by
+the owner/operator, hindering airport operations, or otherwise permitted to be
+removed or impounded by any existing law, rule, or regulation of the
+Commonwealth of Kentucky, all at the expense of the owner, by or at the
+direction of the Airport Police Department, or the CEO. The Board is not liable
+for any damage or loss of personal property arising from the act of removal or
+any other cause.
+   501.07 Compliance with directives. No person shall fail to obey any lawful
+directive of any police officer, public safety assistant, or employee of the
+Board.
+   501.08 Vehicle roadworthiness. Before operating any vehicle on the airport,
+the driver must ensure that the vehicle is in roadworthy condition. The
+operation of a vehicle that is not in a sound mechanical and safe condition is
+prohibited. The CEO reserves the right to inspect any vehicle at the airport
+and declare it unfit for use on the airport if it is not mechanically sound and
+safely operable. Vehicles declared unfit may be towed in the CEO’s discretion
+at the owner’s expense.
+502.00 COMMERCIAL PASSENGER VEHICLES.
+   502.01 Authorization required to perform airport trips.
+      (1)   (a)   No commercial operator may operate a commercial passenger
+vehicle on airport property to provide an airport trip without authorization.
+         (b)   A commercial operator may only obtain authorization in one of
+two ways:
+            1.   By obtaining a CPV permit from the Board; or
+            2.   By entering into a CPV contract with the Board.
+         (c)   The Board may provide authorization by CPV permit or CPV
+contract at the Board’s discretion provided that the type of authorization is
+uniformly applied to all commercial operator service types.
+         (d)   A commercial operator who operates or intends to operate without
+authorization is subject to a fine of $200 as provided in Regulation
+904.02.
+      (2)   An authorized commercial operator shall operate only authorized
+CPVs on airport property. In addition, authorization is limited and specific to
+those authorized CPVs expressly listed in the authorized commercial operator’s
+CPV contract or CPV permit, as the case may be, and is not transferrable to or
+among other vehicles in the authorized commercial operator’s fleet. CPV
+contracts and CPV permits are non-assignable and non-transferrable without
+prior written authorization from the Board.
+   502.02 Authorization fees. To obtain authorization, whether by CPV permit or
+CPV contract, each commercial operator shall pay to the Board the fees
+referenced in this Rule for the use of airport facilities and services,
+including, but not limited to, airport roads, curbs, parking facilities,
+staging lots, lights, terminal buildings, traffic control, snow removal, police
+protection, fire protection, EMS service, and other like amenities. The Board’s
+purpose for the fees is not to charge a tax but to receive reasonable
+compensation for the privilege of operating on airport property, the use of
+airport facilities and services, and the benefit each commercial operator’s
+business receives from the presence of the entire airport. This compensation
+aids in meeting the Board’s obligation to make the airport as self-sustaining
+as possible by defraying the costs to the public of constructing, operating,
+and maintaining airport facilities and services.
+   502.03 CEO to act on Board’s behalf. The CEO is vested with authority on
+behalf of the Board to issue CPV permits to, and to negotiate and enter into
+CPV contracts with, commercial operators.
+   502.04 Minimum eligibility requirements for authorization. For the CEO to
+grant authorization, whether by CPV permit or CPV contract, to a commercial
+operator:
+      (1)   The commercial operator must possess:
+         (a)   A certificate of authority from the Kentucky Secretary of State
+authorizing the commercial operator to transact business in the Commonwealth of
+Kentucky, unless the commercial operator is a sole proprietor, in which event a
+Boone County occupational license will be sufficient;
+         (b)   A certificate of compliance issued by the Kentucky
+Transportation Cabinet as required under KRS Chapter 281 (as may be amended,
+modified, or replaced) authorizing the form of commercial transportation being
+provided by the commercial operator or, if no such certificate is required
+under KRS Chapter 281, an equivalent certificate from the governing/regulatory
+body of the commercial operator’s home jurisdiction;
+         (c)   A valid automobile liability insurance policy with minimum
+coverage in amounts not less than required by KRS 281.655 (as may be amended,
+modified, or replaced) covering each vehicle for which authorization is sought
+that names the Kenton County Airport Board as an additional insured under the
+policy, provided, however, that the Board may require greater coverage; and
+         (d)   A valid commercial general liability insurance policy with
+minimum coverage not less than $1,000,000 per occurrence that names the Kenton
+County Airport Board as an additional insured under the policy, provided,
+however, that the Board may require greater coverage.
+      (2)   Each commercial passenger vehicle for which authorization is sought
+must be properly registered and must meet all minimum safety requirements of
+the Kentucky Revised Statutes and/or regulations of the Kentucky Transportation
+Cabinet. The commercial operator must certify the same before authorization may
+be granted. In addition, without limiting the generality of the foregoing, upon
+demand by the Board, the commercial operator must provide documentation
+evidencing that each commercial passenger vehicle that will be operated at the
+airport has undergone any vehicle inspection required by the Kentucky Revised
+Statutes and/or regulations of the Kentucky Transportation Cabinet.
+      (3)   Each of the commercial operator’s drivers must possess a proper
+license and meet all applicable eligibility requirements of the Kentucky
+Revised Statutes and/or regulations of the Kentucky Transportation Cabinet to
+operate the particular commercial passenger vehicle for which authorization is
+sought. Each commercial operator must certify the same to the Board before
+authorization may be granted and, upon demand by the Board, must present proper
+documentation evidencing the same.
+      (4)   Each commercial operator must agree to indemnify and hold the Board
+harmless, as a condition of the CPV permit or CPV contract, for the actions of
+the commercial operator.
+   502.05 Authorization via CPV permit.
+      (1)   Application.   Commercial operators desiring to obtain
+authorization via CPV permit shall apply by filling out and returning a
+completed application in the form provided by the CEO. In addition, commercial
+operators applying for a CPV permit shall submit any supporting documentation
+required under this Rule or that the CEO, in his or her discretion, may
+require.
+         (a)   The application form shall request, at a minimum, that each
+applicant provide the following information in writing:
+            1.   The full name, mailing address, telephone number, and e-mail
+address of the commercial operator applying for the CPV permit;
+            2.   The full name, mailing address, telephone number, and e-mail
+address of the person responsible for the commercial operator’s operations at
+the airport; and
+            3.   A description of, and the license plate numbers for, each
+authorized CPV that will be operated on airport property.
+         (b)   The CEO may establish an administrative fee to defray the
+administrative cost of processing applications, which, if established, the
+applicant shall pay at the time the application is made.
+      (2)   Forms of CPV permit. The Board will issue CPV permits in one of the
+following two forms.
+         (a)   Annual permit. An ANNUAL PERMIT is a CPV permit that provides
+the permittee unlimited access onto airport property to provide airport trips
+during the permit year. Before the Board issues an annual permit, the applicant
+shall pay a registration fee to the Board for each commercial passenger vehicle
+authorized under an annual permit. Once an annual permit has been issued, the
+permittee is required to pay a per-trip access fee for each airport trip. The
+authorization granted under an annual permit expires at the end of each permit
+year.
+         (b)   Daily permit. A DAILY PERMIT is a CPV permit that provides the
+permittee unlimited access onto airport property for a single day to provide
+airport trips. Before the Board issues the daily permit, the applicant shall
+pay a registration fee to the Board for each commercial passenger vehicle
+authorized under a daily permit.
+      (3)   Fees.
+         (a)   Prior to each permit year, the CEO shall have the discretion to
+determine the registration fees and access fees for CPV permits for the
+upcoming permit year, provided, however, that the CPV permit fees are uniformly
+applied to all commercial operators based on the number and size of the
+commercial passenger vehicles to be authorized under the CPV permit and no less
+than the following amounts:
+ 
+                                      Registration Fee Access Fee
+Annual Permits
+Vehicles capable of carrying up to 14 $100 per vehicle $3 per airport trip
+passengers
+Vehicles capable of carrying over 14  $100 per vehicle $25 per airport trip
+passengers
+Daily Permits
+Vehicles capable of carrying up to 14 $25 per vehicle  No minimum
+passengers
+Vehicles capable of carrying over 14  $50 per vehicle  No minimum
+passengers
+ 
+         (b)   Payment of registration and access fees.
+            1.   Registration fees. Before a CPV permit will be issued,
+regardless of whether it is an annual permit or daily permit, the commercial
+operator applying for the same shall pay to the Board the requisite
+registration fees in the method designated by the CEO.
+               a.   Commercial operators who submit an application for an
+annual permit after a given permit year has already commenced shall have their
+registration fees pro-rated for each commercial passenger vehicle to be
+authorized based on the number of months remaining in the permit year.
+               b.   Registration fees are non-refundable, regardless of whether
+a commercial operator ceases operations at the airport prior to the expiration
+of a permit year.
+            2.   Access fees. Authorized commercial operators who have been
+issued an annual permit shall pay to the Board the requisite access fees for
+each airport trip in the method designated by the CEO.
+      (4)   Issuance. The CEO shall only issue a CPV permit to a commercial
+operator after finding that the commercial operator has satisfied all
+applicable requirements of this Rule and that the issuance of the same would
+contribute to the efficiency, safety, and convenience of handling the flow of
+traffic and passengers at the airport. While it is the Board’s general intent
+that CPV permits will be made available to any commercial operator who meets
+the eligibility requirements of this Regulation, when conditions at the airport
+present undue operational problems (such as vehicle congestion, construction,
+etc.) to the efficient, safe, and convenient flow of traffic and passengers at
+the airport, the CEO, in his or her reasonable discretion, may establish a
+quota for the number of CPV permits that will be issued in a given year, the
+number of authorized CPVs under any one CPV permit, or both. In such event, CPV
+permits shall be issued on a first-come, first-served basis each year to
+commercial operators satisfying the eligibility requirements of this Rule until
+the quota has been reached. Alternatively, if the conditions presenting the
+undue operational problems are temporary, the CEO, in his or her discretion,
+may suspend issuing any further CPV permits until such time as those conditions
+cease to exist.
+      (5)   Permit stickers. Except for daily permits, upon the CEO’s approval
+and issuance of a CPV permit, the permittee will receive color-coded permit
+stickers for each authorized CPV. Permit stickers must be affixed to the driver
+side rear bumper of each authorized CPV. There is a fee of $25 to replace a
+lost, damaged, or stolen permit sticker.
+   502.06 Authorization via CPV contract.
+      (1)   Fees.
+         (a)   1.   For each CPV contract, the CEO shall have the discretion to
+determine the amount of the fees the commercial operator must pay to the Board
+by establishing fees and the method of payment in the terms of the CPV
+contract, provided that such fees shall be no less than the following minimum
+amounts for the listed CPVs:
+ 
+Off-
+airport  10% of the off-airport parking lot operator’s airport generated gross
+parking  receipts
+lot
+shuttles
+Off-
+airport  10% of the off-airport rental car operator’s airport generated gross
+rental   receipts
+car
+shuttles
+TNC      $3 per airport trip
+vehicles
+All
+other    $2 per airport trip
+CPVs
+ 
+            2.   In determining the amount of the fees, the CEO shall take into
+consideration, among other factors, the revenue needed properly to expand and
+maintain the airport and airport facilities; the type of CPV being utilized;
+the nature of the commercial operator’s business, including whether and to what
+extent the business is dependent upon the existence of the airport and the
+relative benefits the business bestows upon the airport; the desire to provide
+the traveling public with affordable means of transportation; the anticipated
+volume of vehicular traffic; the fees charged by other airports for the
+particular type of CPV; and the airport’s obligation to remain as self-
+sustaining as possible.
+         (b)   Each CPV contract shall require the commercial operator to keep
+full and accurate books and records showing gross receipts or airport trip
+fees, as the case may be, and to allow the Board to inspect such books and
+records upon request.
+      (2)   The CEO shall only enter into a CPV contract with a commercial
+operator after finding that the commercial operator has satisfied all
+applicable requirements of this Rule and that entering into the CPV contract
+would contribute to the efficiency, safety, and convenience of handling the
+flow of traffic and passenger pickups at the airport.
+      (3)   Notwithstanding any other provision in this Rule to the contrary,
+if a commercial operator desires to operate at the airport in a form of
+commercial transportation not expressly contemplated in this Rule, the CEO may
+grant authorization to such commercial operator by entering into a CPV contract
+with the same. The CEO shall require fees commensurate with the fees paid by
+those commercial operators providing the most similar form of commercial
+transportation at the airport.
+   502.07 Rules applicable to commercial operators and commercial passenger
+vehicles operating on airport property.
+      (1)   Authorized commercial operators shall conduct only the business
+activities (i.e., commercial transportation) specifically authorized in their
+CPV permit or CPV contract.
+      (2)   Drivers of commercial passenger vehicles shall be courteous, clean,
+and neat in appearance while on airport property.
+      (3)   Commercial passenger vehicles operating on airport property shall
+be properly registered and licensed, maintained in a safe operating condition,
+kept clean and neat in appearance.
+      (4)   While on airport property or providing ground transportation to
+airport passengers, no commercial operator shall:
+         (a)   Advertise for or solicit customers or business;
+         (b)   Harass prospective customers;
+         (c)   Engage in rude or boisterous behavior or conversation;
+         (d)   Engage in the use of profanity;
+         (e)   Engage in threatening or violent behavior;
+         (f)   Engage in any activity that would constitute a breach of the
+peace;
+         (g)   Disparage or provide misleading information concerning other
+commercial operators;
+         (h)   Smoke any cigarette or other tobacco product, or use any
+electronic cigarette, in non-designated smoking areas; or
+         (i)   Engage in any activity that is contrary to the Board’s Rules and
+Regulations.
+      (5)   CPV operating policy. The CEO shall promulgate a CPV operating
+policy establishing policies and procedures applicable to all commercial
+passenger vehicle operations on airport property, regardless of whether
+authorization has been obtained from the Board. The content of the CPV
+operating policy is at the CEO’s discretion to ensure that commercial passenger
+vehicle operations at the airport are as efficient, safe, and convenient as
+possible. Subject matter of the CPV operating policy shall include, but not be
+limited to, passenger drop-off and pick-up locations for particular types of
+commercial passenger vehicles, staging areas and staging times for particular
+types of commercial passenger vehicles, and other rules governing particular
+types of commercial passenger vehicles and their operations that the CEO, in
+his or her discretion, deems appropriate. All commercial operators, whether
+authorized or not, shall adhere to the CPV operating policy at all times while
+on airport property.
+         (a)   A copy of the CPV operating policy shall be provided to each
+authorized commercial operator at the time authorization is granted.
+         (b)   Authorized commercial operators shall likewise be informed
+whenever changes are made to the CPV operating policy.
+         (c)   Copies of the CPV operating policy are available online at:
+https://www.cvgairport.com/about/biz/permits.
+         (d)   Authorized commercial operators are responsible for informing
+their drivers, employees, contractors, agents, and other representatives of the
+CPV operating policy, the obligation to adhere to the CPV operating policy
+while on airport property, and where to obtain a copy of the CPV operating
+policy for review. Although not required, authorized commercial operators are
+strongly encouraged to disseminate the CPV operating policy to such drivers,
+employees, contractors, agents, and other representatives who will operate on
+airport property.
+      (6)   Special civil offenses and penalties pursuant to KRS 183.885.
+Notwithstanding any other provision of these Rules and Regulations to the
+contrary, pursuant to the lawful authority vested in the Board under KRS
+183.885, violation of any of the following provisions shall be deemed a civil
+offense and violators shall incur and be assessed a fine in the amounts
+specified. In addition to the fines specified below, repeated violations of the
+following provisions may result in suspension or revocation of the violator’s
+authorization as set forth in Regulation
+502.08 of this Rule.
+         (a)   Dwell times.
+            1.   Designated staging areas. No authorized commercial operator
+shall dwell in a designated staging area (as established in the CPV operating
+policy) for a period greater than the limit established for the designated
+staging area in the CPV operating policy. Any authorized commercial operator
+who violates this provision shall incur a penalty of $1 for every ten minutes,
+or partial ten minutes, that the authorized commercial operator continues to
+dwell in the designated staging area thereafter. By way of example only: if the
+CPV operating policy limits dwell time in a designated staging area to no more
+than two hours, an authorized commercial operator who dwells in such designated
+staging area for a period of two hours and 22 minutes, shall incur a penalty of
+$3.
+            2.   Designated pickup/drop-off areas. No authorized commercial
+operator shall dwell in a designated pick-up/drop-off area (as set forth in the
+CPV operating policy) for a period greater than the limit established for the
+designated pick-up area in the CPV operating policy. Any authorized commercial
+operator who violates this provision shall incur a penalty of $1 for each
+minute, or partial minute, that the authorized commercial operator continues to
+dwell in the designated pick-up area thereafter. By way of example only: if the
+CPV operating policy limits dwell time in a designated pick-up area to no more
+than five minutes, an authorized commercial operator who dwells in such
+designated pick-up area for a period of seven minutes 37 seconds shall incur a
+penalty of $3.
+         (b)   Designated drop-off/pick-up location requirements. No authorized
+commercial operator shall stage or provide airport trips in any area other than
+those designated for such purposes in the CPV operating policy unless
+specifically exempted from such requirement under the CPV operating policy.
+Authorized commercial operators who violate this provision shall incur a
+penalty of $25 for each occurrence.
+         (c)   Continuous circling of terminal on airport roadways. No
+authorized commercial operator shall circle the airport terminal on airport
+roadways more than three times in a one-hour period without providing an
+airport trip. Any authorized commercial operator who violates this provision
+shall incur a penalty of $50 for each occurrence.
+      (7)   For purposes of clarity, the acts and omissions of drivers,
+employees, contractors, agents, and other representatives of a commercial
+operator are deemed to be the acts and omissions of the commercial operator.
+   502.08 Suspension or revocation of authorization.
+      (1)   The CEO may suspend or revoke an authorized commercial operator’s
+authorization, subject to a hearing, whenever the CEO has reason to believe
+that the authorized commercial operator:
+         (a)   Has violated any rule, regulation, or ordinance of the Board or
+provision of its CPV permit or CPV contract, as the case may be;
+         (b)   Has repeatedly violated the CPV operating policy;
+         (c)   Has, upon airport property, violated any federal, state, or
+local law or ordinance;
+         (d)   Has, off airport property, violated any federal, state, or local
+law or ordinance, provided that such violation bears a reasonable relationship
+to the fitness of the commercial operator to provide commercial transportation;
+         (e)   Has been issued a CPV permit without making proper application
+for a CPV permit; has misrepresented any fact in the application; or is
+operating in a manner not in conformity with information submitted in the
+application;
+         (f)   Has concealed or misrepresented any fact which would have
+rendered the commercial operator ineligible to enter into a CPV contract;
+         (g)   Has failed to provide or update any required documentation in a
+timely manner;
+         (h)   Has failed to remit to the Board any fee or failed to submit any
+reports required under a CPV permit or CPV contract, as the case may be; or
+         (i)   Has failed to pay any penalty incurred under this Regulation
+within the specified time frame.
+      (2)   The CEO shall provide written notice by certified mail, return
+receipt requested, or by e-mail to an authorized commercial operator whose
+authorization is subject to suspension or revocation. Said notice shall be sent
+to the mailing address or e-mail address of the commercial operator as
+furnished to the airport on the CPV permit application or as set forth in the
+CPV contract, as the case may be. In the event an authorized commercial
+operator is subject to suspension for failure to provide or update any required
+documentation or to remit or pay any outstanding fee or incurred penalty due
+and owing to the Board, the notice shall specify the required documentation to
+be provided or updated and/or the outstanding fees or incurred penalties that
+must be remitted or paid to the Board before the authorized commercial
+operator’s authorization will be reinstated. In the event an authorized
+commercial operator is subject to suspension for any other reason, the notice
+shall set forth the period of the suspension.
+      (3)   An authorized commercial operator whose authorization is subject to
+suspension or revocation under the provisions of this Regulation may request in
+writing that the CEO conduct a hearing to determine if the suspension or
+revocation of authorization is proper. The request for a hearing must be in
+writing addressed to the CEO, Cincinnati/Northern Kentucky International
+Airport, P.O. Box 752000, Cincinnati, Ohio 45275-2000. The request must be made
+within 15 days after the authorized commercial operator’s receipt of the notice
+of suspension or revocation. If the authorized commercial operator does not
+request a hearing within 15 days, the right to request a hearing is waived.
+      (4)   Upon receipt of a request for a hearing, the CEO shall schedule a
+hearing to take place not less than ten, nor more than 20, days after the
+receipt of the request.
+      (5)   Except in the event of suspension or revocation for nonpayment of
+fees, an authorized commercial operator whose authorization is subject to
+suspension or revocation under the provisions of this Regulation may continue
+to operate on airport property during the pendency of the hearing and the
+issuance of the decision by the CEO.
+      (6)   In addition to providing or updating the required documentation
+and/or remitting or paying the outstanding fees or incurred penalties due and
+owing to the Board (as set forth in the CEO’s written notice of suspension), a
+suspended commercial operator is required to pay to the Board a reinstatement
+fee of $25 before authorization may be reinstated.
+      (7)   Revocation of authorization pursuant to this Regulation shall
+disqualify the authorized commercial operator; any partnership or corporation
+in which the authorized commercial operator is a partner, director, or
+principal officer; and/or any partnership or corporation in which the
+authorized commercial operator may be substantially interested from seeking
+authorization for a minimum of one year following the effective date of the
+revocation. The CEO may examine the ownership or management of any commercial
+operator seeking authorization and shall deny authorization to any person,
+firm, company or corporation whose authorization has been revoked within the
+past calendar year and who is substantially interested in a commercial operator
+or who is a partner, director, or principal officer in a commercial operator
+seeking authorization. The renewal of a CPV permit or CPV contract is not a
+waiver, or the condoning, of any violation which occurred prior to the renewal
+and does not prevent subsequent proceedings against an authorized commercial
+operator. Any commercial operator who seeks reinstatement of authorization
+after one year from the date of revocation may only be granted authorization by
+paying all outstanding fees or incurred penalties due and owing to the Board.
+   502.09 AVI System. The CEO shall establish rules under the CPV operating
+policy related to the AVI system at the airport. Authorized commercial
+operators are required to comply with such rules and to take whatever steps as
+may be necessary to equip their commercial passenger vehicles to interface with
+the AVI system. Without limiting the generality of the foregoing, as part of
+implementing the AVI system under the CPV operating policy, the CEO is
+specifically authorized to establish fees to be paid by each authorized
+commercial operator for the installation of AVI tags or replacement AVI tags on
+each authorized CPV. In addition, the CEO is specifically authorized to utilize
+the AVI system to automatically monitor, assess, and invoice an authorized
+commercial operator for incurred penalties under Regulation
+502.07(6) of this Rule. Authorized commercial operators who have incurred such
+penalties shall pay the same on or before the date of payment specified in such
+invoice.
+503.00 NON-PROFIT PASSENGER VEHICLES.
+   (A)   No non-profit organization may operate a non-profit passenger vehicle
+on airport property to pick up passengers from the airport without first
+registering the vehicle with, and obtaining permission from, the Board.
+   (B)   To obtain permission to pick up passengers using a non-profit
+passenger vehicle, the non-profit organization must:
+      (1)   Furnish adequate proof of its status as a 501(c) non-profit
+organization under the Internal Revenue Code; and
+      (2)   Provide any other documentation that the CEO, in his or her
+discretion, may require.
+   (C)   Notwithstanding the fact that non-profit passenger vehicles do not
+qualify as commercial passenger vehicles, the CEO shall promulgate, as part of
+the CPV operating policy, policies and procedures applicable to non-profit
+passenger vehicles operating on airport property. Non-profit organizations who
+have registered a non-profit passenger vehicle with, and obtained permission to
+operate the same on airport property from, the Board shall adhere to such
+provisions of the CPV operating policy made applicable to non-profit passenger
+vehicles. In addition, the civil offenses and penalties referenced in
+Regulation
+502.07(6) may be made applicable to non-profit organizations operating non-
+profit passenger vehicles as the CEO, in his or her discretion, deems
+appropriate.
+   (D)   The CEO may require non-profit organizations operating non-profit
+passenger vehicles on airport property to obtain an AVI tag for vehicles and to
+comply with such provisions of the CPV operating policy applicable to the same.
+504.00 AREAS FOR CLEANING AND MAINTAINING AUTOMOTIVE EQUIPMENT.
+   Persons may only clean or otherwise maintain automotive equipment in areas
+designated for that purpose by the CEO or the COO.
+505.00 MOTOR VEHICLE OPERATION.
+   505.01 Driving into a secured area behind another (tailgating). No person
+will drive a vehicle into restricted areas unless the person has used the
+person’s airport-issued personnel identification badge and PIN to open any
+electronic access installed at the entry point. No person will allow other
+vehicles to follow or tailgate into restricted areas. This provision does not
+apply to vehicles under escort.
+   505.02 Operating vehicles and motorized equipment.
+      (1)   No person will operate any vehicle or motorized equipment in
+restricted areas except persons 18 years of age and older who possess a valid
+state driver’s license: and
+         (a)   Have been issued and possess an airport-issued badge designating
+the person as authorized to drive and assigned to work within restricted areas;
+         (b)   Are persons under escort by vehicles authorized to provide
+escort services;
+         (c)   Are persons under escort by the airport’s contract escort
+service; and
+         (d)   Are operating in accordance with the classification of the
+roadway as set forth on Exhibit B.
+      (2)   No person under the age of 18 years is permitted to operate any
+vehicle or motorized equipment in the restricted area, including any operation
+in which such person is being escorted.
+   505.03 Identifying vehicles authorized in secured area/consent to
+inspection. Vehicles within restricted areas must be readily identifiable, must
+display a decal or sign of the agency name and/or logo on both sides of the
+vehicle that is readable at a distance of no less than 250 feet, and must
+display a ramp permit registered with the Airport Police Department. Board
+vehicles and federal government vehicles shall display approved flags in lieu
+of a decal and ramp permit.
+      (1)   Construction vehicles requiring access to the air operations area
+must be properly identifiable with company names and ramp permit. Special
+equipment such as cranes, bulldozers, etc. are exempt from this requirement.
+      (2)   Vehicles having no distinctive markings are required to be escorted
+by authorized vehicles under radio control.
+      (3) Consent to inspection. Any vehicle and the contents thereof,
+entering, departing from, or being in the air operations area, secured area or
+other restricted areas, is subject to inspection by the Airport Security
+Coordinator, designated department employees, or any law enforcement officer,
+for the purposes of determining ownership of such vehicle and its contents, and
+for examining the documentation relating to the vehicle. The operation or use
+of a vehicle by any person into, from or within the AOA secured area or a
+restricted area of the airport constitutes consent from the owner, operator,
+and/or user of such vehicle to inspection. Inspections relating to U.S. Customs
+bonded cargo and customs seals are subject to the rules and regulations of the
+United States Customs Service.
+   505.04 Clear zone maintained. No person will park, store, or place an item
+within four feet of either side of a security perimeter fence. This four-foot
+area is the clear zone.
+   505.05 Vehicle escorts.
+      (1)   Only authorized vehicle escorts under contract with the Board to
+perform vehicle escort services, and contractors specifically approved by the
+CEO, are permitted to escort vehicles in the movement area and non-movement
+area of the AOA provided that no vehicle shall escort more than four vehicles
+at one time.
+      (2)   Airport tenants with an airport-issued personnel identification
+badge designating a person as authorized to drive within restricted areas may
+only escort vehicles within their leasehold area and are not permitted to
+escort more than two vehicles at one time.
+      (3)   Vehicle operators shall follow all directions of escorts. Escorts
+may park vehicles in a safe position and leave the escorted area only if the
+vehicle operator has a valid airport-issued personnel identification badge and
+the vehicle will not be moved to any other location(s). Escorts must be called
+back prior to any additional vehicle movement.
+   505.06 Pulling more than three carts, four dollies. Any person may not
+operate a tug to pull more than three tandem carts or four dollies at the
+airport, except when operating in an airline’s exclusive use area. For purposes
+of this Rule 505.06, a dolly is a standard sized flatbed trolley or platform,
+with many wheels, roller bars or ball bearings protruding above the top surface
+for loading and unloading of unit load devices and cargo pallets respectively.
+   505.07 Failure to yield to aircraft.
+      (1)   All vehicle drivers shall yield the right-of-way to aircraft.
+Drivers shall operate vehicles to avoid interference with aircraft operations
+and other vehicle traffic.
+      (2)   No vehicle driver shall cause an aircraft to take evasive action
+due to the driver’s failure to yield. Evasive actions include, but are not
+limited to, braking and steering to avoid a collision.
+      (3)   No vehicle driver shall collide with an aircraft due to the
+driver’s failure to yield.
+   505.08 Driving outside the white lines. All vehicles operating on the AOA
+will travel within the white lines that designate the ramp road, unless:
+      (1)   The vehicle is operating in an airport tenant’s own leasehold area
+or common use gate area; or
+      (2)   The vehicle is operated by a Board employee or agent and in the
+performance of their official duties, emergency services, or agency of the
+federal government.
+   505.09 Driving within 150 feet to the rear of a taxiing aircraft. All
+vehicles and motorized equipment must pass to the rear of taxiing aircraft at a
+safe distance but not less than 150 feet.
+   505.10 Careless/reckless operation of vehicle on airport.
+      (1)   No person shall operate vehicles in any area of the airport in
+careless disregard for the safety of persons or property.
+      (2)   No person shall operate vehicles in any area of the airport in a
+willful or wanton disregard for the safety of persons or property.
+   505.11 Speeding. All operators of vehicles and motorized equipment shall
+abide by all posted speed limits on the air operations areas.
+   505.12 Disregarding stop sign. All vehicles and motorized equipment shall
+come to a complete stop at all white hold lines and at all posted stop signs.
+   505.13 All state laws applicable to vehicles on the airport. The laws of the
+Commonwealth of Kentucky in regard to the operation of motor vehicles,
+including traffic regulation, are applicable to the operation of vehicles on
+the airport. Any person violating any provision of the Kentucky Revised
+Statutes shall be subject to the penalties provided therein.
+   505.14 Passengers to be in affixed seat or designated area. Passenger(s)
+must be seated in seats permanently affixed to the vehicle or must ride in
+areas of the vehicle designated for passenger travel.
+   505.15 Vehicle accident reports. Any person operating a vehicle in the AOA
+or secured area who is involved in an accident resulting in property damage in
+which an investigation is not conducted by a law enforcement officer shall
+report the accident to the airport operations center within 24 hours of the
+occurrence of the accident.
+506.00 MOTOR VEHICLE REQUIREMENTS.
+   506.01 Vehicle registration. All vehicles operating on the air operations
+area shall be registered with the CEO and no person shall operate a vehicle in
+such area unless the vehicle is registered and the approval of such operation
+is granted by the CEO or COO.
+   506.02 Vehicle equipment. Vehicles operating on runways and taxiways must be
+equipped with a two-way radio for communication with the control tower, unless
+operating inside of designated zipper roads or escorted by authorized vehicles,
+or such other safety equipment as may be directed by the CEO or COO.
+   506.03 Delivery vehicles. Delivery vehicles will enter the AOA through the
+security perimeter checkpoint located at the gate off Logan Road and must be
+escorted at all times. Each such vehicle shall display a ramp pass issued by
+the personnel on duty at the gate.
+   506.04 Dangerous vehicles or equipment. No vehicles or motorized equipment
+shall be constructed, equipped, or loaded so as to be a danger, or likely to
+endanger, persons or property.
+507.00 AUTONOMOUS VEHICLES.
+   507.01 Authorization. The use of autonomous vehicles for business operations
+is authorized on the airport, including, but is not limited to, the use of
+autonomous vehicles on roadways owned by the Board, within the main terminal
+and concourses at the airport, and in the AOA; provided that, any person
+utilizing autonomous vehicles at the airport shall at all times:
+      (1)   Comply with all federal, state, and local laws, regulations or
+orders with regard to the person’s use of autonomous vehicles;
+      (2)   Provide prior written notice to the CEO of the desire to utilize
+autonomous vehicles at the airport. The prior notice shall include:
+         (a)   All relevant information and material concerning the desired use
+of autonomous vehicle at the airport;
+         (b)   The geographic area of the use;
+         (c)   The intended use; and
+         (d)   Any other information as the CEO may require.
+      (3)   Operate the autonomous vehicle only if approved by permit issued by
+the CEO on a form prescribed by the CEO, which permit shall include a release
+and indemnification in favor of the Board for such activities;
+      (4)   Display the permit or decal issued by the CEO on the autonomous
+vehicle and/or mark and keep marked the autonomous vehicle as may be required
+by the CEO at all times while on airport;
+      (5)   Operate the autonomous vehicles consistent with the permit and only
+in such locations that have been approved by the CEO;
+      (6) Ensure that the autonomous vehicle continues to utilize all safety
+precautions and advancements and enhancements to provide for the safe operation
+of the autonomous vehicle to avoid any injury to any person or property;
+      (7) Ensure the autonomous vehicle uses onboard sensor(s), camera
+technology, or other integrated equipment that enable the autonomous vehicle to
+safely operate including, but not limited to, crash avoidance systems,
+electronic blind spot assistance, automated emergency braking/stop/safe return
+systems, park assistance, lane assistance or other similar systems that enhance
+safety;
+      (8)   Adhere to such standards and manuals the CEO may develop and
+implement from time to time with regard to utilization of autonomous vehicles
+and/or equipment on the airport;
+      (9)   Comply with all directives issued by the CEO whether written or
+oral while operating at the airport;
+      (10)   Maintain insurance coverages as determined from time to time by
+the CEO and provide continuing confirmation of required insurance coverages in
+accordance with the permit;
+      (11)   The CEO shall have the right in his or her discretion to approve,
+deny or revoke a person’s use of autonomous vehicles at the airport at any time
+by providing notice to the person; and
+      (12)   All actions to be taken by the CEO under this Regulation
+507.00 may be undertaken by a designee(s) of the CEO.
+   507.02 Suspension. The Board may suspend the use of any autonomous vehicles
+at the airport at any time, in whole or in part, in the interest of safety and
+security. In that event, the Board will provide notice of the suspension,
+appropriate actions, and a determination on the revocation of the suspension,
+to all affected persons with a permit.
+   507.03 Board AV. The CEO is permitted to deploy autonomous vehicles at the
+airport for the business purposes of the Board as may be approved from time to
+time by the CEO.
+RULE 600.00: AIRCRAFT OPERATIONS
+RULE 600.00: AIRCRAFT OPERATIONS
+Regulation
+   
+601.00   Aircraft charges
+   
+602.00   Passenger facility charge
+   
+603.00   Radio
+   
+604.00   Starting aircraft engines
+   
+605.00   Aircraft parking
+   
+606.00   Ramp cleanliness
+   
+607.00   Aircraft accidents
+   
+608.00   Interfering or tampering with aircraft
+   
+609.00   Authority to deny use of airport
+   
+610.00   Airport control
+   
+611.00   Taxiing of aircraft
+   
+612.00   Areas for enplaning and deplaning
+   
+613.00   Cleaning and maintaining aircraft
+   
+614.00   Disabled aircraft, vehicles or equipment
+   
+615.00   Surface movement of aircraft
+   
+616.00   Aircraft fuel servicing standard
+   
+617.00   Fueling prohibited during lightning event
+   
+618.00   Aircraft fuel servicing locations
+   
+619.00   Letters of agreement with the FAA
+   
+620.00   Unmanned aircraft systems
+600.00 AIRCRAFT OPERATIONS.
+   All aircraft shall be operated in conformity with federal, state, and local
+laws and regulations.
+601.00 AIRCRAFT CHARGES.
+   The owner or operator of all aircraft using the airport facilities shall pay
+such charges, rates, or fees as may from time to time be established by the
+Board, either by contract or by rates applicable to non-contract users. Use of
+the airport may be denied by the CEO or COO unless satisfactory arrangements
+have been made for payment of such charges.
+602.00 PASSENGER FACILITY CHARGE.
+   The imposition of a passenger facility charge (“PFC”), as well as the
+collection, remittance, reporting, and use of a PFC, will be in accordance with
+and as prescribed by federal law.
+603.00 RADIO.
+   All aircraft entering the control zone of the airport must have two-way
+radio capable of communicating with the control tower for landing, take-off,
+and taxiing instruction.
+604.00 STARTING AIRCRAFT ENGINES.
+   Only pilots or qualified personnel will start aircraft engines.
+605.00 AIRCRAFT PARKING.
+   Overnight parking of aircraft is restricted to areas designated for such
+purpose by the CEO or the COO. Aircraft operators are responsible for the
+safety of their aircraft and vehicles, including without limitation ground
+service equipment, and shall have all aircraft vehicles either tied down or
+chocked properly.
+606.00 RAMP CLEANLINESS.
+   During shut down, starting, or servicing of any aircraft, if fuel, oil,
+hydraulic fluid, or other material is deposited on the ramp, the operator or
+operators of the aircraft are responsible to have the deposits removed. Any
+person, including the operators of aircraft, causing overflowing or spilling of
+excess fuel, oil or grease on any apron areas is responsible for cleaning the
+areas.
+607.00 AIRCRAFT ACCIDENTS.
+   (A)   The pilot or aircraft operator of any aircraft involved in any
+aircraft accident as defined by 49 C.F.R. § 830.2 or excursion from normal
+operating surfaces causing personal injury or property damage at the airport
+shall report the event immediately to the Airport Operations Center (AOC) at
+859-767-7777, and to the COO, CEO, or designee. After resolution of the event,
+the aircraft operator shall make a prompt and full report of the accident to
+the CEO or COO, and comply with all applicable federal laws for the reporting
+of said accident or excursion.
+   (B)   The aircraft owner is responsible for the prompt disposal of disabled
+aircraft at the airport after release by the National Transportation Safety
+Board and/or the Federal Aviation Administration and the Board.
+   (C)   If an aircraft accident occurs, only personnel authorized by the Board
+will proceed to the accident.
+608.00 INTERFERING OR TAMPERING WITH AIRCRAFT.
+   No person shall interfere or tamper with any aircraft or put in motion the
+engine of such aircraft, or use any aircraft, aircraft parts, instruments or
+tools, without permission of the owner or by specific direction of the CEO, or
+the COO.
+609.00 AUTHORITY TO DENY USE OF AIRPORT.
+   The CEO and COO have the authority to deny the use of the airport to any
+aircraft or pilot violating airport or federal regulations, whether at this
+airport or elsewhere. The CEO and COO may prohibit aircraft from landing or
+taking off at any time when or under circumstances which he or she deems such
+landings and take-offs are likely to endanger persons or property.
+610.00 AIRPORT CONTROL.
+   (A)   All aircraft must be operated under the direction of the FAA control
+tower. No aircraft can be operated except upon paved runways and taxiways, and
+only in such manner as directed by the control tower.
+   (B)   Any person using the airport for landing or take-off of aircraft,
+specifically including but not limited to airlines, charter operators, and air
+cargo operators shall comply with all lawful federal laws, rules, regulations,
+and tower orders or FAA directives with similar effect, that apply to aircraft
+operations at the airport.
+   (C)   All aircraft shall observe and be governed by directives (covering,
+but not limited to, altitudes and traffic patterns applicable to the airport
+traffic area), imposed from time to time by the CEO and/or the FAA for use and
+control of aircraft, for the safety and protection of the airport, and
+approved, if necessary, by the authorized agencies of the United States
+government. Any violation of such directives or restrictions in the operation
+of aircraft is deemed a violation of these Rules and Regulations.
+611.00 TAXIING OF AIRCRAFT.
+   (A)   No person may move an aircraft on the airport in a careless or
+reckless manner.
+   (B)   No person may start or run an engine in an aircraft on the airport
+unless there is a competent person in the aircraft at the engine controls, and
+unless blocks have been placed in front of the wheels or the aircraft has
+adequate parking brakes.
+   (C)   No person may run an engine of an aircraft parked on the airport in a
+manner that damages any other property or aircraft, or that blows paper, dirt,
+or other material across taxiways or runways that endangers the safety of
+operation of the airport.
+   (D)   Each person operating an aircraft on a part of the airport that is not
+under the direction of air traffic control shall comply with the orders,
+signals, and directions of the authorized representative of the CEO.
+   (E)   No person may start or taxi any aircraft on the airport in a place
+where the exhaust blast is likely to cause injury to persons or property. If
+the aircraft cannot be taxied without violating this division (E), the operator
+must have the aircraft towed to the desired destination.
+   (F)   Each person operating a large propeller-driven aircraft shall lower
+its flaps when taxiing out of an aircraft gate position.
+   (G)   No person may move a rotorcraft at a place on the airport (other than
+a heliport) while its rotors are turning unless there is a clear area of at
+least 50 feet from the outer tip of each rotor. No person may move a rotorcraft
+at a heliport while its rotors are turning unless there is a clear area of at
+least 20 feet from the outer tip of each rotor.
+612.00 AREAS FOR ENPLANING AND DEPLANING.
+   No aircraft operator is permitted to enplane or deplane passengers except in
+areas designated for such purpose by the CEO or the COO. All loading and
+unloading of aircraft must be in strict compliance with directives of the CEO
+of the airport.
+613.00 CLEANING AND MAINTAINING AIRCRAFT.
+   Persons may only clean or otherwise maintain aircraft in areas designated
+for that purpose by the CEO or COO.
+614.00 DISABLED AIRCRAFT, VEHICLES OR EQUIPMENT.
+   The operator is responsible for the removal of disabled aircraft, equipment,
+or vehicles in the air operations area. The Board reserves the right, at the
+expense of the operator, to engage a contractor to remove disabled aircraft,
+equipment, or vehicles in the air operations area when the COO, or his or her
+designee determines that the disabled aircraft, equipment, or vehicle is
+interfering with operations of the airport. If the Board engages a contractor
+for the removal, the operator shall pay for the removal within 15 days of being
+invoiced.
+615.00 SURFACE MOVEMENT OF AIRCRAFT.
+   In addition to all other applicable requirements set forth in the Rules and
+Regulations, the following applies to persons operating or maneuvering an
+aircraft on the surface in a movement area.
+   (A)   An aircraft operator shall not allow anyone other than qualified
+personnel to operate or maneuver aircraft in the movement area. Only qualified
+personnel shall be permitted to operate or maneuver aircraft in the movement
+area. Aircraft operators shall provide qualified personnel with all equipment
+and information as required under the surface movement training policy. The
+qualified person shall comply with the surface movement training policy while
+in the movement area.
+   (B)   The surface movement training policy is the minimum and basic training
+required by the Board for an aircraft operator to designate qualified personnel
+to maneuver or operate aircraft in the movement area of the airport; provided,
+however, that the Board assumes no liability for the surface movement training
+policy and it is the responsibility of each aircraft operator to establish a
+formal program to ensure all appropriate training for safety, operations, and
+compliance with law by qualified personnel while conducting operations at the
+airport.
+616.00 AIRCRAFT FUEL SERVICING STANDARD.
+   All aircraft fueling operations, equipment, parking, and clearances must
+follow the most current edition of National Fire Protection Association 407:
+Standard for Aircraft Fuel Servicing.
+617.00 FUELING PROHIBITED DURING LIGHTNING EVENT.
+   Aircraft fueling operations are prohibited while the airport lightning
+warning system is alerting.
+618.00 AIRCRAFT FUEL SERVICING LOCATIONS.
+   (A)   Aircraft fuel servicing must be performed outdoors.
+   (B)   Aircraft fuel servicing incidental to aircraft fuel system maintenance
+operations will comply with the requirements of National Fire Protection
+Association 410: Standard for Aircraft Maintenance.
+619.00 LETTERS OF AGREEMENT WITH THE FAA.
+   Any letters of agreement, or any amendments, between the FAA and any third
+party applicable to the airport must be delivered to the COO for review and
+submittal to the CEO for approval prior to execution.
+620.00 UNMANNED AIRCRAFT SYSTEMS.
+   (A)   No motorless or unmanned aircraft, such as drones, kites, balloons,
+and similar devices, shall land or takeoff from the airport without:
+      (1)   Filing an application and obtaining a proper permit from the CEO or
+the CEO’s designee. The CEO may exercise discretion in implementing a fee(s)
+related to such application and permit so long as such fees are assessed in a
+reasonable manner on similarly situated applicants and permittees (as
+applicable). The CEO or designee will prescribe the form of the application and
+may from time to time amend the application information and supplemental
+submittal requirements to include items such as:
+         (a)   All relevant information and material concerning the desired use
+of motorless or unmanned aircraft at the airport;
+         (b)   The geographic area of takeoff/landing;
+         (c)   The intended purpose; and
+         (d)   Any other information the CEO may require.
+      (2)   Complying with all federal, state, and/or local laws, regulations,
+or orders with regard to the use of motorless or unmanned aircraft;
+      (3)   Taking off and landing the motorless or unmanned aircraft
+consistent with the permit and only in such locations that have been approved
+by the CEO;
+      (4)   Adhering to such standards and manuals the CEO may develop and
+implement from time to time with regard to the takeoff and landing of motorless
+or unmanned aircraft on the airport; and
+      (5)   Maintaining insurance coverages as determined from time to time by
+the CEO and provide continuing confirmation of required insurance coverages in
+accordance with the permit.
+   (B)   The CEO has the right in the CEO’s discretion to approve, deny, or
+revoke a permit for the takeoff and/or landing of a motorless or unmanned
+aircraft at the airport at any time by providing notice to the permittee.
+Operation of motorless or unmanned aircraft is strictly prohibited except as
+expressly permitted by the FAA and/or the Board as may be appropriate under
+applicable law or rules.
+RULE 700.00: SECURITY REGULATIONS
+RULE 700.00: SECURITY REGULATIONS
+Regulation
+   
+701.00   Adherence to airport security directions
+   
+702.00   Entry to restricted areas
+      
+702.01   Unauthorized entry and exit/inspection
+      
+702.02   Entering a secured area by following another (piggybacking)
+      
+702.03   Walking across the ramp
+      
+702.04   Custody of keys or other means of access
+      
+702.05   Prohibit access to unauthorized persons
+      
+702.06   Authorized persons must challenge
+      
+702.07   Security of access points
+      
+702.08   Timed doors
+      
+702.09   Improper entry through security door
+      
+702.10   Posting signs prohibiting access
+      
+702.11   Preventing unauthorized access to restricted areas
+      
+702.12   Airport security contact
+      
+702.13   Bypassing security screening area
+      
+702.14   Failure to follow notification procedures
+      
+702.15   Entry into movement area, safety area and non-movement area
+   
+703.00   Tampering with security device
+   
+704.00   Badging
+      
+704.01   Issuance of airport-issued personnel identification badges
+      
+704.02   Surrendering airport-issued personnel identification badges
+      
+704.03   Displaying badge
+      
+704.04   Misuse of badge
+      
+704.05   Using the badge of another
+      
+704.06   Allowing another to use badge
+      
+704.07   Expired badge
+      
+704.08   Use of badge for job duties
+      
+704.09   Notify of changes
+      
+704.10   Badges as KCAB property
+      
+704.11   Attaching PIN to identification badge
+      
+704.12   Photos/video
+   
+705.00   Non-vehicle escorts
+   
+706.00   Statements against aviation safety or security
+   
+707.00   Interfere with flight operations
+   
+708.00   Unattended baggage
+   
+709.00   Presenting a weapon at a security screening area
+   
+710.00   Failure to control prohibited item
+   
+711.00   Report violations
+701.00 ADHERENCE TO AIRPORT SECURITY DIRECTIONS.
+   All persons will obey lawful orders and directions of airport police
+officers or other persons responsible for ensuring compliance with these Rules
+and Regulations. All orders or directions will be consistent with the airport
+security program, Board Rules and Regulations, and applicable state, federal,
+and local laws. No person shall fail to comply with any order, directive, rule,
+or regulation of the Transportation Security Administration.
+702.00 ENTRY TO RESTRICTED AREAS.
+   702.01 Unauthorized entry and exit/inspection.
+      (1)   Unauthorized entry and exit. No person will seek entry to or exit
+from the SIDA except through designated entrances and exits. No person will
+seek entry to or exit from SIDA over, under, or through fencing, walls,
+windows, air, or other vents or marked fire exits except in an emergency.
+      (2)   Inspections. No person shall enter the air operations area, secured
+area, or a restricted area of the airport, except persons who enter pursuant to
+this section, or employees of federal, state, or local government bodies then
+having proper business there and bearing proper identification. No person
+entering or attempting to enter, being within, or departing from or attempting
+to depart the air operations area, secured area or restricted areas of the
+airport, shall refuse to produce for inspection at the request of the Airport
+Security Coordinator, designated employee, or any law enforcement officer, a
+personnel identification badge or the contents, or both, of any vehicle, bag,
+case, parcel, box or container of any kind in his or her possession. Where the
+entry into, departure from, or attempt thereof is by means of a vehicle, no
+person shall refuse to produce for inspection, after such request, a driver’s
+license or department vehicle permit. No person shall refuse to produce at the
+request of the Airport Security Coordinator, designated employee, authorized
+Board contractor, or any law enforcement officer any document in the person’s
+possession relating to the ownership or possession of cargo or freight upon
+entering, leaving or being within the air operations area, secured area, or any
+restricted area.
+   702.02 Entering a secured area by following another (piggybacking). No
+person will enter or allow another to enter into restricted areas except by
+using the person’s personnel identification badge and PIN. No person will
+follow another into secured area without first using their personnel
+identification badge through any electronic access installed at the entry
+point. Every person must ensure that no other person enters the restricted area
+while the gate/door is open. This provision does not apply to a person under
+escort.
+   702.03 Walking across the ramp. All pedestrians will walk only on designated
+pedestrian walkways in restricted areas and/or the AOA except to the extent
+necessary to perform and/or to provide services on behalf of the Board, a
+tenant of the Board, or a contractor performing work at airport.
+   702.04 Custody of keys or other means of access. Only authorized persons may
+have custody of, access to, or use of keys or other means of access used to
+lock and secure restricted areas. Authorized persons may not duplicate or turn
+over keys or other means used for access to restricted areas to anyone without
+approval from the Airport Security Coordinator or their designee.
+   702.05 Prohibit access to unauthorized persons. Authorized persons may not
+permit unauthorized persons to have access to restricted areas unless under
+escort by an authorized person.
+   702.06 Authorized persons must challenge.
+      (1)   Authorized persons must challenge persons not displaying an
+appropriate personnel identification badge.
+      (2)   For purposes of this section only, CHALLENGE means:
+         (a)   To ask the person to see their personnel identification badge;
+or
+         (b)   To immediately notify the Airport Police Department with a
+description of the person(s) not displaying a personnel identification badge.
+      (3)   Challengers are not expected to place themselves or others into
+dangerous situations and, if a challenger believes that making a verbal
+challenge would do so, a verbal challenge need not be made. In all cases, the
+airport police should be notified immediately and the unauthorized person
+should be kept under observation to the extent possible until airport police
+arrive.
+   702.07 Security of access points. No person may leave open, propped, or
+unsecured any door, gate, or access point leading to or allowing access to
+restricted areas.
+   702.08 Timed doors. No person may hold, prop, or cause a door, gate, or
+access point to be open beyond the period of time allowed by a security device
+unless an authorized person attends the door. When an authorized person is
+attending a security door, that person must be physically present at the door
+and must use their airport-issued personnel identification badge to activate
+additional time for the door to be open.
+   702.09 Improper entry through security door. No person shall enter a
+security door improperly causing an alarm to sound or cause a police response.
+   702.10 Posting signs prohibiting access. Airport tenants with access to
+restricted areas on airport tenants’ property will follow these Rules and
+Regulations by posting signs approved by the Board which prohibit access
+leading into restricted areas.
+   702.11 Preventing unauthorized access to restricted areas. Airport tenants
+with access to restricted areas shall at all times keep the access secured or
+staffed in a manner that prevents unauthorized persons from accessing
+restricted areas. Airport tenants must retain keys or other means of access to
+restricted areas under airport tenants’ control and issue such access only to
+authorized persons.
+   702.12 Airport security contact. Airport tenants with access to restricted
+areas will appoint at least one employee of the airport tenant as the security
+contact primarily responsible for the airport tenants’ leased area which
+accesses restricted areas. Airport tenants will advise the Airport Security
+Coordinator in writing of the person or persons at all times having such
+responsibility.
+   702.13 Bypassing security screening area. No person may enter a sterile area
+through a security screening area unless first going through equipment that has
+been installed for inspection of person(s) and their belongings. Armed federal
+and local law enforcement officers on official duties at the airport and others
+exempted by the TSA do not have to be inspected, provided they follow TSA
+regulations.
+   702.14 Failure to follow notification procedures.
+      (1)   Airport tenants, through their airport security contact, must
+provide immediate notification to the Police Department when:
+         (a)   A person’s access authority has been revoked or limited;
+         (b)   A person’s identification badge has been lost or stolen; or
+         (c)   The tenant becomes aware that the access control system or a
+component of the system has been compromised or threatened through any means.
+      (2)   When an employee is terminated or quits with cause, the airport
+tenant must immediately retrieve the employee’s personnel identification badge
+and notify the identification office and/or the airport police. When
+termination is normal retirement, transfer, or separation, the airport tenant
+must contact the identification office by the end of the next business day.
+Badges must be returned to the ID office within three business days.
+   702.15 Entry into movement area, safety area and non-movement area. The
+following applies to anyone entering in any manner or driving in the movement
+area or a safety area as defined in 14 CFR Part 139, and non-movement area at
+the airport:
+      (1)   Movement area.
+         (a)   No person shall enter or drive in the movement area or a safety
+area at any time unless:
+            1.   The person driving receives clearance from the Control Tower;
+and
+            2.   a.   The person possesses a valid identification badge
+authorizing access to the movement area; or
+               b.   The person is being escorted by a person possessing a valid
+identification badge authorizing access to the movement area or safety area.
+         (b)   If any person fails to satisfy one of the conditions set forth
+in division (a) above, that person shall not enter or drive in the movement
+area or safety area, even if given authorization from the Control Tower or any
+other person.
+         (c)   Any person authorized under division (a), above, to enter or
+drive in the movement area or safety area shall comply with all Rules and
+Regulations while operating in such area.
+      (2)   Non-movement area.
+         (a)   No person shall enter or drive in the non-movement area at any
+time unless one of the following conditions applies:
+            1.   The person possesses a valid identification badge authorizing
+access to the non-movement area; or
+            2.   The person is being escorted by a person possessing a valid
+identification badge authorizing access to the non-movement area.
+         (b)   Any person authorized under division (2)(a), above, to enter or
+drive in the non-movement area shall comply with all Rules and Regulations
+while operating in the non-movement area.
+703.00 TAMPERING WITH SECURITY DEVICE.
+   No person will tamper with or in any way hamper the effective operation of
+the security access system.
+704.00 BADGING.
+   704.01 Issuance of airport-issued personnel identification badges. Before
+any airport-issued personnel identification badge is issued to any person, such
+person shall be subject to the necessary background check as required under 49
+C.F.R. Part 1500 and any corresponding regulations issued by the TSA, as such
+may be amended or superseded from time to time. In addition, any person, who is
+found to have multiple, (two or more), previous convictions for misdemeanor
+theft of any type, from any jurisdiction, within the ten years previous to the
+date of the background check, shall be denied an airport-issued personnel
+identification badge. If any person who has been issued an airport-issued
+personnel identification badge is subsequently convicted of a misdemeanor or
+felony theft of any type, which theft occurred at or in connection with the
+airport, the Board may, in its sole discretion, revoke and/or refuse to renew
+such person’s airport-issued personnel identification badge and may deny
+issuance of a new airport-issued personnel identification badge to such person
+for a period of ten years. Violations of this provision may subject said
+individuals to penalties provided for under applicable local, state, and
+federal laws.
+   704.02 Surrendering airport-issued personnel identification badges.
+      (1)   Each employer, whether a tenant of the Board or a contractor
+performing work at the airport, of a person to whom an airport-issued personnel
+identification badge has been issued shall surrender the badge(s) to the COO or
+his or her designee within three business days of the completion of each and
+every person’s services at the airport and/or the termination of the person’s
+employment at the airport.
+      (2)   The employer shall return the surrendered badge, along with the
+following information, at a minimum, on a form and in a manner directed by the
+COO or the COO’s designee:
+         (a)   The full name, mailing address, and telephone number of the
+subject person; and
+         (b)   The date on which the person’s badge was rendered invalid by
+either completion of services and/or termination of employment at the airport.
+   704.03 Displaying badge. Every authorized person shall display the person’s
+valid personnel identification badge on the outermost garment, above the waist,
+and in plain view at all times whenever the person is within the SIDA.
+   704.04 Misuse of badge. No person may falsify, forge, counterfeit, alter, or
+tamper with any personnel identification badge.
+   704.05 Using the badge of another. No person may use or attempt to use
+another’s personnel identification badge for any purpose whatsoever.
+   704.06 Allowing another to use badge. No person may allow or permit another
+person to use or attempt to use the person’s or any other person’s personnel
+identification badge, for any purpose whatsoever.
+   704.07 Expired badge. No person may use or attempt to use an expired
+personnel identification badge for entry into, exit from, or while inside of a
+secured area.
+   704.08 Use of badge for job duties. Authorized persons may only use
+personnel identification badges in direct performance of an authorized person’s
+official job duties.
+   704.09 Notify of changes. Each person with a personnel identification badge
+will notify the Board’s ID Department within ten days of a change in the
+person’s name or home address.
+   704.10 Badges as KCAB property. Personnel identification badges are the
+property of the Board. All badges must be returned to the airport upon
+revocation, suspension, or upon demand of the Board. (See also Regulation
+704.02).
+   704.11 Attaching PIN to identification badge. Persons may not attach and/or
+write their PIN on personnel identification badges in any manner.
+   704.12 Photos/video. Any person with a personal identification badge having
+access to the AOA of the airport is prohibited from taking videos or photos
+within the AOA unless the videos and/or photos are being taken as part of the
+person’s job duties while at the airport or authorized by the Chief Executive
+Officer or Chief Operating Officer.
+705.00 NON-VEHICLE ESCORTS.
+   A person performing an escort must, at all times, be in a position to
+actively monitor, direct and control the movements and actions of the
+accompanied person(s). Escorts are only permitted in the performance of direct
+job duties. A person who has been issued an airport-issued personnel
+identification badge may only be escorted in those areas where the airport-
+issued identification badge does not permit access. In no other circumstances
+may a person who has been issued an airport-issued identification badge be
+escorted.
+706.00 STATEMENTS AGAINST AVIATION SAFETY OR SECURITY.
+   No person may make a statement to another so as to indicate that the person
+or another may have possession of a firearm, bomb, explosive device, or other
+weapon while at the airport.
+707.00 INTERFERE WITH FLIGHT OPERATIONS.
+   No person may intimidate, threaten, hinder, or obstruct an aircraft crew
+member in the performance of the crew member’s official job duties or lessen
+the ability of such aircraft crew member to perform official job duties.
+708.00 UNATTENDED BAGGAGE.
+   No person may leave any bag, luggage, box, or container unattended in
+terminal areas of the airport that are accessible to the public.
+709.00 PRESENTING A WEAPON AT A SECURITY SCREENING AREA.
+   No person may place a firearm, explosive device, knife, or other TSA
+prohibited item that could be used as a weapon into the inspection equipment at
+the security screening area without first declaring such item. Only persons
+authorized by the TSA may test security screening areas.
+710.00 FAILURE TO CONTROL PROHIBITED ITEM.
+   No person may be in possession of any item prohibited by the TSA or FAA in a
+sterile area except for those persons who have demonstrated a need for the
+particular item in connection with the performance of their duties at the
+airport and have received the prior approval of the CEO, COO, or their
+designee. Any such authorized person may not attempt to bring the item through
+security screening devices in the terminal buildings and must remain in
+possession of the item at all times.
+711.00 REPORT VIOLATIONS.
+   Authorized persons must promptly report to the Airport Police Department any
+violation of these Rules and Regulations that they observe or of which they
+have knowledge.
+RULE 800.00: SAFETY
+RULE 800.00: SAFETY
+Regulation
+   
+801.00   Fire Code
+   
+802.00   Fire inspection program
+   
+803.00   Unsecure aircraft
+   
+804.00   Smoking prohibited
+   
+805.00   Fire extinguisher equipment
+      
+805.01
+      
+805.02
+      
+805.03
+   
+806.00   Explosives and other dangerous articles
+   
+807.00   Storage of flammable material
+   
+808.00   Improper use of fire exit
+   
+809.00   Operation of flame or spark producing device
+   
+810.00   Open flame operators
+   
+811.00   Preventing FOD
+      
+811.01
+      
+811.02
+   
+812.00   Creation of hazardous condition
+   
+813.00   Engine run-ups
+801.00 FIRE CODE.
+   All fire codes applicable to the airport as published by the National Fire
+Protection Association and the Kentucky Fire Prevention Code shall govern all
+operations on the airport and persons operating on the airport.
+802.00 FIRE INSPECTION PROGRAM.
+   The Airport Fire Chief has primary jurisdiction over all airport property to
+operate, administer, and enforce the Board’s fire inspection program and the
+Board hereby adopts Kentucky’s standards of safety (815 KAR 10:060) promulgated
+pursuant to KRS 227.320 for that purpose, both as may be amended from time to
+time.
+803.00 UNSECURE AIRCRAFT.
+   Airlines and airline personnel are responsible for the safety and security
+of aircraft per FAA standards.
+804.00 SMOKING PROHIBITED.
+   No person will smoke or carry lighted cigars, cigarettes, pipes, matches, or
+use any electronic cigarette, or any open flame in or upon any fuel storage
+area, public landing area, public ramp and apron area, aircraft parking and
+storage area, on any open deck, gallery, or balcony contiguous to and
+overlooking any such area, in any other place where smoking is specifically
+prohibited by signs, or upon any open space within 50 feet of any fuel service
+vehicle which is not in motion.
+805.00 FIRE EXTINGUISHER EQUIPMENT.
+   805.01. No person may tamper with fire extinguisher equipment at the airport
+at any time or use it for any purpose other than firefighting or fire
+prevention. All such equipment must be inspected and maintained according to
+the National Fire Protection Association. Annual inspections will be performed
+by ARFF.
+   805.02. Signatory airlines must maintain one wheeled fire extinguisher with
+a minimum rating of 80-B placed in the area designated for such extinguisher at
+all leased gates. Any airline that has an aircraft parked at a common use gate
+must provide a wheeled fire extinguisher with a minimum rating of 80-B while
+the aircraft is parked at the gate.
+   805.03. A wheeled fire extinguisher with a minimum rating of 80-B must be
+within 50 feet of an aircraft while maintenance is being performed, during
+fueling operations, aircraft cleaning, or the loading or unloading of
+passengers while the aircraft is parked at all remote parking locations.
+806.00 EXPLOSIVES AND OTHER DANGEROUS ARTICLES.
+   No person may store, keep, handle, use, dispense, or transport in or upon
+the airport any explosive, including, but not limited to, dynamite,
+nitroglycerine, black powder, or gaseous poisons, without the permission of the
+CEO, COO, or Airport Fire Chief. Before using these materials, a standard
+operating procedure, including emergency procedures, must be submitted to the
+Airport Fire Chief.
+807.00 STORAGE OF FLAMMABLE MATERIAL.
+   No person may keep or store any flammable liquids, gases, signal flares, or
+other similar materials in any hangars or in any buildings on the airport,
+provided, however, that such materials may be kept in aircraft in the proper
+receptacles installed in aircraft for such purpose, or in rooms or flammable
+cabinets specifically approved for such storage by the CEO, COO, or Airport
+Fire Chief.
+808.00 IMPROPER USE OF FIRE EXIT.
+   No person will exit or enter a building through a fire exit door, except
+during an emergency.
+809.00 OPERATION OF FLAME OR SPARK PRODUCING DEVICE.
+   No person shall operate an ox-acetylene torch, electric arc, or similar
+flame or spark producing device on any part of the airport, except in areas
+within leased premises designated for such use by the CEO, without first
+obtaining a cutting and welding permit from the CEO, COO, or Airport Fire
+Chief.
+810.00 OPEN FLAME OPERATORS.
+   No person shall start any open fires of any type, including flare pots,
+torches, or fires in containers formerly used for oil, paint, and similar
+materials on any part of the airport without permission of the Airport Fire
+Chief.
+811.00 PREVENTING FOD.
+   811.01. All persons shall maintain and control their property and waste so
+as not to create any foreign object debris (FOD) hazard to aircraft at the
+airport. FOD is any object found in an inappropriate location at the airport
+that has the capacity to damage property or injure personnel.
+   811.02. No person may damage the airport, a person, or another person’s
+property through the creation of a FOD hazard.
+812.00 CREATION OF HAZARDOUS CONDITION.
+   No person, including, but not limited to, airport tenants within airport
+tenants’ own leaseholds, may create, or permit the continuance of, any
+hazardous or dangerous condition that poses an unreasonable threat to the
+health, safety, or welfare of persons and physical property at the airport.
+813.00 ENGINE RUN-UPS.
+   (A)   All engine run-ups at the airport must comply with the Board’s surface
+movement training policy and engine run-up policy available at https://
+csinfo.cvgairport.com/. The surface movement training policy and the engine
+run-up policy are the minimum and basic training and procedures required by the
+Board for an aircraft operator to designate qualified personnel to conduct
+engine run ups; provided however, that the Board assumes no liability for the
+surface movement training policy or the engine run-up policy and it is the
+responsibility of each aircraft operator to establish a formal program to
+ensure all appropriate training for safety, operations, and compliance with law
+by qualified personnel while conducting engine run-ups at the airport.
+   (B)   Engine run-ups, excluding extended full-power run-ups, shall be
+permitted on hangar ramps; provided however, that the aircraft operator shall
+be required to have authorization from the lessee or owner of the hangar ramp
+and shall ensure that the parking orientation of the aircraft will not endanger
+or cause damage to persons or surrounding buildings, aircraft, or other
+property. Engine run-ups are prohibited in the concourse areas and at passenger
+gates. An aircraft operator’s use of any area designated for engine run-ups may
+be terminated immediately upon injury to persons or damage to property.
+Extended full-power run-ups are only permitted in the area(s) specified in the
+engine run-up policy approved by the CEO.
+RULE 900.00: PENALTIES AND ENFORCEMENT
+RULE 900.00: PENALTIES AND ENFORCEMENT
+Regulation
+   
+901.00   Fines
+   
+902.00   General
+   
+903.00   Federal, state, and other applicable law
+   
+904.00   Specific penalties
+      
+904.01   Parking and traffic penalties
+      
+904.02   Unauthorized commercial vehicle activity
+      
+904.03   PFC remittance
+      
+904.04   Restricted area access
+      
+904.05   Badge surrender
+      
+904.06   Penalty levels
+   
+905.00   Enforcement of ramp citations
+      
+905.01   Issuance of ramp citations
+      
+905.02   Result of ramp citation
+      
+905.03   Appeal of ramp citation
+901.00 FINES.
+   Any person charged with illegal parking in violation of Regulation
+501.05 except as these Rules and Regulations provide otherwise, may, in lieu of
+being summoned to the District Court for a hearing, pay a fine for the
+violation. If payment is made within five days of the date of the citation, the
+fine is $10. If payment is made more than five days after the date of the
+citation but within ten days of the date of the citation, the fine is $15.
+After ten days, payment of the fine is not permitted under this section, and
+the violator will be summoned to the District Court for a hearing, and subject
+to the penalties set forth in Regulation
+902.00. All fines under this section must be paid to the Boone County Fiscal
+Court, at the address designated on the citation. This section shall not apply
+to parking violations within the air operations area, which are punished in
+accordance with Regulation
+902.00, or to dwell time violations listed in Regulation
+502.07(6), which are punished as specified in Regulation
+502.07(6).
+902.00 GENERAL.
+   Any person violating any of the provisions of the Board’s Rules and
+Regulations shall be fined not less than $10, nor more than $100, or imprisoned
+not more than 90 days, or both (KRS 183.990(1)). Any individual person or
+business entity violating or otherwise engaging in prohibited conduct under
+these Rules and Regulations may be subject to general and administrative fines
+as provided under this Rule 900 et seq. If the violator is an individual
+employee or agent of an airport tenant, permittee, or contractor, the fine may
+be assessed against the employer/tenant, permittee, or contractor at the
+Board’s discretion.
+903.00 FEDERAL, STATE, AND OTHER APPLICABLE LAW.
+   Any person violating any provision of the Kentucky Revised Statutes and
+regulations, federal statutes and regulations, and all applicable local laws
+and ordinances is subject to the penalties provided in each applicable law. All
+violations and respective fines may be cumulative of each other (one citation
+may contain multiple fines) and shall be imposed in addition to and neither
+exclusive nor preclusive of any other civil or criminal federal, state, or
+local fine or penalty under the law or of any other remedy available to the
+Board under the law or under a lease, permit, or contract.
+904.00 SPECIFIC PENALTIES.
+   904.01 Parking and traffic penalties. In addition to Regulation
+901.00 and
+902.00, any person violating any traffic or parking regulation may be denied
+permission to operate vehicles on the airport, and any vehicle parking in
+violation of these regulations may be removed and impounded by the airport
+police or its designee, at the expense of the violator (KRS 183.885(1)(b)).
+   904.02 Unauthorized commercial vehicle activity. Any person who violates or
+intends to violate Regulation
+502.01 is subject to a fine of $200 (KRS 183.885(1)(a)—(c)). It is prima facie
+evidence that a person has entered onto airport property with the intent to
+provide an airport trip without authorization if the person is observed in a
+commercial passenger vehicle, other than an authorized CPV, dwelling on airport
+property without a passenger or continually circling the airport roadways
+without a passenger.
+   904.03 PFC remittance. Any air carrier violating any provision of these
+rules and regulations pertaining to the timely remittance of revenue pursuant
+to 14 C.F.R. Part 158 is subject to a service charge at the rate of 10% per
+annum on the past due balance of any such revenue.
+   904.04 Restricted area access. Any person violating Regulation
+702.10,
+702.11, or
+702.12 of these Rules and Regulations pertaining to operations and/or the
+performance of services in restricted areas or the air operations area may be
+denied permission to perform such services and work on the airport.
+   904.05 Badge surrender. Any person violating the provisions of Regulation
+704.02 is subject to a fine of not less than $50 per identification badge not
+surrendered to the COO or his or her designee in the manner prescribed.
+   904.06 Penalty levels. In addition to the foregoing penalties, individual
+persons violating the provisions of Regulations included in the table of
+Regulation
+904.06(4) are subject to the penalties specified in this Regulation
+904.06(1),
+904.06(2), and
+904.06(3). The airport police, Airport Operations Department personnel, or
+other Board personnel as designated by the CEO will issue a ramp citation for
+the violation. See Regulation
+905.00 for Enforcement. The penalties provided for violations vary depending on
+the particular offense with each offense being classified in one of the
+following three penalty levels and with each of the three penalty levels
+specifying elevated penalties for the second or multiple offense within the
+penalty level within the past two years. In addition, violations of provisions
+616.00,
+702.15, and
+711.00 carry additional penalties. A violation committed by a person two or
+more years ago, or a prior violation that relates to a different penalty level
+shall not elevate the penalty for the most recent offense.
+      (1)   Level one penalties.
+ 
+1st     Warning
+Offense
+2nd     Mandatory retraining within 5 days of the violation
+Offense
+3rd     One-day suspension from access to the AOA; the Board shall suspend the
+Offense violator’s personnel identification badge until the violator and supervisor
+        complete retraining at the airport ID office
+        Immediate confiscation of the violator’s personnel identification badge by
+4th or  airport police; the airport police shall hold the violator’s personnel
+more    identification badge until the violator and supervisor complete retraining at
+        the airport ID office
+ 
+      (2)   Level two penalties.
+ 
+        Immediate confiscation of the violator’s personnel identification badge by
+1st     airport police; the airport police shall hold the violator’s personnel
+Offense identification badge until the violator and supervisor complete retraining
+        at the CVG ID office.
+        Immediate confiscation of the violator’s personnel identification badge by
+2nd     airport police and a suspension of the violator’s personnel identification
+Offense badge until the violator and supervisor complete retraining at the airport
+        ID office, but in no event for a period less than 7 days
+3rd or  Suspension of up to one year or permanent revocation of the violator’s
+more    personnel identification badge at the discretion of the COO or COO’s
+        designee
+ 
+      (3)   Level three penalties.
+ 
+        Immediate confiscation of the violator’s personnel identification badge by
+1st     airport police and a suspension of the violator’s personnel identification
+Offense badge until the violator and supervisor complete retraining at the CVG ID
+        office, but in no event for a period less than 7 days
+2nd or  Suspension of up to one year or permanent revocation of the violator’s
+more    personnel identification badge at the discretion of the COO or COO’s
+        designee
+ 
+   (D)   Penalty table. Violations of the regulations listed in the table below
+constitute a violation of the level indicated in the same table row:
+Regulation Title Penalty Level
+Regulation   Title                                                Penalty Level
+309.00       Firearms prohibited                                  Level 3
+505.01       Driving into a security area behind another          Level 3
+             (tailgating)
+505.02       Operating vehicles and motorized equipment           Level 1
+505.03       Identifying vehicles authorized in airport security  Level 1
+             area/consent to inspection
+505.04       Clear zone maintained                                Level 1
+505.05       Vehicle escorts                                      Level 1
+505.06       Pulling more than four carts                         Level 1
+505.07(1)    Failure to yield to aircraft                         Level 1
+505.07(2)    Failure to yield to aircraft                         Level 2
+505.07(3)    Failure to yield to aircraft                         Level 3
+505.08       Driving outside the white lines                      Level 1
+505.09       Driving within 150 feet to the rear of a taxiing     Level 1
+             aircraft
+505.10(1)    Careless/reckless operation of vehicle on airport    Level 1
+505.10(2)    Careless/reckless operation of vehicle on airport    Level 2
+505.11       Speeding                                             Level 1
+505.12       Disregarding stop sign                               Level 1
+505.13       All state laws applicable to vehicles on the airport Level 1
+505.14       Passengers to be in affixed seat or designated area  Level 1
+505.15       Vehicle accident reports                             Level 1
+506.01       Vehicle registration                                 Level 1
+506.02       Vehicle equipment                                    Level 1
+506.03       Delivery vehicles                                    Level 1
+506.04       Dangerous vehicles or equipment                      Level 1
+615.00       Surface movement of aircraft                         Level 2
+616.00       Aircraft fuel servicing standard                     Level 1
+617.00       Fueling prohibited during lightning event            Level 2
+618.00       Aircraft fuel servicing locations                    Level 1
+701.00       Adherence to airport security directions             Level 2
+702.01       Unauthorized entry and exit/ inspection              Level 3
+702.02       Entering a security area by following another        Level 3
+             (piggybacking)
+702.03       Walking across the ramp                              Level 1
+702.04       Custody of keys or other means of access             Level 2
+702.05       Prohibit access to unauthorized persons              Level 3
+702.06       Authorized persons must challenge                    Level 2
+702.07       Security of access points                            Level 2
+702.08       Timed doors                                          Level 2
+702.09       Improper entry through security door                 Level 1
+702.10       Posting signs prohibiting access                     Level 1
+702.11       Preventing unauthorized access to restricted area    Level 2
+702.13       Bypassing security screening area                    Level 3
+702.14       Failure to follow notification procedures            Level 3
+702.15(1)(a) Entry into movement area and non-movement area       Level 3
+702.15(1)(b) Entry into movement area and non-movement area       Level 3
+702.15(1)(c) Entry into movement area and non-movement area       Level 1
+702.15(2)(a) Entry into movement area and non-movement area       Level 1
+702.15(2)(b) Entry into movement area and non-movement area       Level 1
+703.00       Tampering with security device                       Level 3
+704.02       Surrendering airport-issued personnel identification Level 1
+             badges
+704.03       Displaying badge                                     Level 1
+704.04       Misuse of badge                                      Level 3
+704.05       Using the badge of another                           Level 3
+704.06       Allowing another to use badge                        Level 3
+704.07       Expired badge                                        Level 2
+704.08       Use of badge for job duties                          Level 1
+704.09       Notify of changes                                    Level 1
+704.10       Badges as KCAB property                              Level 1
+704.11       Attaching PIN to identification badge                Level 2
+704.12       Photos/video                                         Level 1
+705.00       Non-vehicle escorts                                  Level 2
+706.00       Statements against aviation safety or security       Level 3
+707.00       Interfere with flight operations                     Level 3
+708.00       Unattended baggage                                   Level 2
+709.00       Presenting a weapon at a security screening area     Level 3
+710.00       Failure to control prohibited item                   Level 2
+711.00       Report violations                                    Level 1
+801.00       Fire Code                                            Level 1
+803.00       Unsecure aircraft                                    Level 1
+804.00       Smoking prohibited                                   Level 1
+805.00       Fire extinguisher equipment                          Level 1
+806.00       Explosives and other dangerous articles              Level 1
+807.00       Storage of flammable material                        Level 1
+808.00       Improper use of fire exit                            Level 2
+809.00       Operation of flame or spark producing device         Level 1
+810.00       Open flame operators                                 Level 1
+811.01       Preventing FOD                                       Level 1
+811.02       Preventing FOD                                       Level 2
+813.00       Engine run-ups                                       Level 2
+ 
+      (5)   Joint and several liability; additional penalties.
+         (a)   Both the person committing a violation of any Regulation and
+that person’s employer shall be jointly and severally liable to the Board for
+the amount of any fine.
+         (b)   In addition to the penalties set forth above, for violations of
+Regulation
+616.00 and/or
+711.00, the Board shall investigate the circumstances surrounding the
+violation, determine the extent of the violation, and may issue up to a $500
+fine for which both the person committing the violation and that person’s
+employer shall be jointly and severally liable to the Board. Depending on the
+severity of the violation, the person’s right to operate in the AOA may be
+permanently revoked.
+         (c)   Any person who desires to appeal the imposition of a penalty set
+forth under this Regulation
+904.06(5) may appeal the issuance of the penalty if written notice of appeal is
+delivered to the COO within seven days after issuance of the penalty. The
+written notice of appeal and the hearing procedure shall be the same as
+provided for an appeal of a Ramp Citation under Regulation
+905.00.
+905.00 ENFORCEMENT OF RAMP CITATIONS.
+   905.01 Issuance of ramp citations. In addition to the penalties set forth in
+Regulation
+904.00, airport police officers, Airport Operations Department personnel, and
+other Board personnel as designated by the CEO may issue ramp citations to
+persons for violations of the provisions included in Regulation
+904.06(4). A copy of the ramp citation will be forwarded to the offending
+individual’s employer with a letter from the Chief Operating Officer. Ramp
+citations are divided into three levels, with each level having applicable
+penalties for the first and multiple violations. See Regulation
+904.06(1),
+904.06(2), and
+904.06(3).
+   905.02 Result of ramp citation. If a person’s personnel identification badge
+is confiscated, the person will be escorted from the secured area. If a person
+is required to attend a recertification class, the person will not be permitted
+access to the secured area until such time as the person has attended a
+recertification class and if a person fails to attend a recertification class
+within ten days after issuance of the ramp citation the person will be deleted
+from the security access system. Individuals attending recertification classes
+are required to sign a recertification form agreeing to comply with Airport
+Rules and Regulations pertaining to restricted access. When a personnel
+identification badge is confiscated or suspended a reasonable reinstatement fee
+will be assessed.
+   905.03 Appeal of ramp citation.
+      (1)   A person may appeal the issuance of any ramp citation if written
+notice of appeal is delivered to the COO within seven days after issuance of
+the ramp citation. The written notice of appeal must state the offense (or
+offenses) charged and the basis for appeal. Upon timely receipt of the written
+notice of appeal by the COO, the penalty for the violation(s) will be suspended
+until the hearing officer renders a decision, but in no event will the
+individual be permitted access to restricted areas within a 24-hour period
+after the person’s personnel identification badge has been confiscated.
+      (2)   The COO, or his or her designee, will serve as the hearing officer
+for all appeals. The hearing officer shall schedule a hearing to take place
+within 20 days after delivery of the written notice of appeal. The hearing
+officer shall provide written notice of the time, date and place of the hearing
+to interested parties at least five days prior to the hearing. The hearing
+shall be conducted on an informal basis. The airport police officer who issued
+the ramp citation shall be present and the person charged with a violation
+shall be afforded a reasonable opportunity to present the substance and basis
+of their appeal.
+      (3)   After consideration of all the facts and circumstances, the hearing
+officer shall furnish interested parties with a written copy of the facts and
+basis of the hearing officer’s decision. If it is determined that a violation
+did not occur, a copy of the decision shall be forwarded to the person’s
+employer. If the hearing officer determines that the ramp citation was properly
+issued, the remainder of the person’s penalty shall immediately be reinstated;
+provided however, if the hearing officer determines that there exists
+significant mitigating factors such that the penalty imposed under Rule 900.00
+of the Rules and Regulations is not warranted after having reviewed all the
+facts and circumstances, the hearing officer may impose a less severe penalty
+than what is prescribed. The imposition of a lesser penalty does not affect the
+level or number of the offense and does not affect or limit the imposition of
+future penalties should future violations occur within the prescribed time
+period.
+EXHIBITS
+EXHIBITS
+   Exhibit A-1   Terminal - Ticketing Level Expressive Activity Designated
+Areas - Section 205.04
+   Exhibit A-1   Terminal Parking Garage - Ticketing Level Expressive Activity
+Designated Areas - Section 205.04
+   Exhibit A-2   Terminal - Baggage Claim Level Expressive Activity Designated
+Areas - Section 205.04
+   Exhibit A-3   Terminal - Passenger Train Level Expressive Activity
+Designated Areas - Section 205.04
+   Exhibit A-4   Tower Drive Expressive Activity Designated Area - Section
+205.04
+   Exhibit A-4   South Airfield Drive Expressive Activity Designation - Section
+205.04
+   Exhibit A-4   Wendell H Ford Blvd Expressive Activity Designated Area -
+Section 205.04
+   Exhibit B   General Requirements for All Vehicles - Designation of Roadways
+- Section 501.02
+   Exhibit C   Locations Where Firearms Are Prohibited Pursuant to Rule 309.00
+Exhibit A-1   Terminal - Ticketing Level Expressive Activity Designated Areas -
+Section 205.04
+[https://export.amlegal.com/media/a4502094977eaa2eee3ba4231bf976912df96b50/
+IMAGES/0-0-0-396.png]
+Exhibit A-1   Terminal Parking Garage - Ticketing Level Expressive Activity
+Designated Areas - Section 205.04
+[https://export.amlegal.com/media/a4502094977eaa2eee3ba4231bf976912df96b50/
+IMAGES/0-0-0-398.png]
+Exhibit A-2   Terminal - Baggage Claim Level Expressive Activity Designated
+Areas - Section 205.04
+[https://export.amlegal.com/media/a4502094977eaa2eee3ba4231bf976912df96b50/
+IMAGES/0-0-0-400.png]
+Exhibit A-3   Terminal - Passenger Train Level Expressive Activity Designated
+Areas - Section 205.04
+[https://export.amlegal.com/media/a4502094977eaa2eee3ba4231bf976912df96b50/
+IMAGES/0-0-0-402.png]
+Exhibit A-4   Tower Drive Expressive Activity Designated Area - Section 205.04
+[https://export.amlegal.com/media/a4502094977eaa2eee3ba4231bf976912df96b50/
+IMAGES/0-0-0-404.png]
+Exhibit A-4   South Airfield Drive Expressive Activity Designation - Section
+205.04
+[https://export.amlegal.com/media/a4502094977eaa2eee3ba4231bf976912df96b50/
+IMAGES/0-0-0-406.png]
+Exhibit A-4   Wendell H Ford Blvd Expressive Activity Designated Area - Section
+205.04
+[https://export.amlegal.com/media/a4502094977eaa2eee3ba4231bf976912df96b50/
+IMAGES/0-0-0-408.png]
+Exhibit B   General Requirements for All Vehicles - Designation of Roadways -
+Section 501.02
+[https://export.amlegal.com/media/a4502094977eaa2eee3ba4231bf976912df96b50/
+IMAGES/0-0-0-410.png]
+EXHIBIT B - GENERAL REQUIREMENTS FOR ALL VEHICLES - DESIGNATION OF ROADWAYS -
+SECTION 501.02
+Operating non-registered vehicles/equipment on airport service roads:
+In an effort to facilitate safe and efficient air and ground support
+operations, the airport has designated certain publicly accessible, Kenton
+County Airport Board owned roads, to also serve as “service roads”, which
+permit non-state registered vehicles and equipment to operate in those areas.
+The following requirements apply to airport service roads:
+•   Vehicles, trailers, carts, and equipment must have operational tires and
+solid wheels. Tracked vehicles and/or equipment that must be dragged are
+prohibited.
+•   Vehicles, trailers, carts, and equipment must have operational headlights,
+tail lights, and brake lights, or be followed by a vehicle so equipped.
+Escort Vehicles - Marking and lighting of vehicles: Per AC 150/5210-5, the
+standard for identification lighting is a yellow flashing light that is mounted
+on the uppermost part of the vehicle structure. The light must be visible from
+any direction, day and night, including from the air. For vehicles and/or
+construction equipment where a light is not feasible, a flag must be attached
+that is readily visible. The flag must be at least a three-foot by three-foot
+square having a checkered pattern of international orange and white squares at
+least one-foot on each side.
+•   Hand signals must be used for turning when operating equipment without turn
+signals.
+•   Vehicles, trailers, carts, and equipment must be insured and a copy of the
+insurance must be with the vehicle or a corporate/company “blanket” insurance
+card/document on file with the Airport Police Department.
+•   Vehicle and equipment operators must have a valid driver's license.
+•   All state and local traffic laws apply.
+•   Vehicles carrying hazardous cargo, including fuel vehicles, tankers, and
+fueling equipment, are prohibited from using the South Airfield Drive tunnel
+regardless of roadway designation.
+•   Baggage carts must have curtains/nets closed to prevent baggage from
+falling off during transport. Baggage carts without curtains/nets are
+prohibited unless empty.
+•   Slow moving vehicles must be clearly marked with the appropriate emblem on
+the rear of the vehicle, as required.
+•   Equipment shall not cause damage to airport service roads.
+Per KRS 183.885, non-registered vehicles operating on any county or state
+roadway are subject to impound.
+KY 236/Donaldson Highway is a state maintained road and cannot be traversed by
+unlicensed vehicles or equipment.
+Effective May 15, 2022
+EXHIBIT C
+LOCATIONS WHERE FIREARMS ARE PROHIBITED PURSUANT TO RULE 309.00
+   1.   CVG Centre, 77 Comair Boulevard, Erlanger, Kentucky 41018;
+   2.   Facilities Maintenance Building,100 Maintenance Court, Hebron, Kentucky
+41048;
+   3.   Fleet Maintenance Building, 92 Field Maintenance Drive, Hebron,
+Kentucky 41048;
+   4.   Field Maintenance Building 3, 95 Field Maintenance Drive, Hebron,
+Kentucky 41048;
+   5.   Glycol Recycling Facility, 2654 Loomis Road, Hebron, Kentucky 41048;
+   6.   Airport Police Department, 3222 Terminal Drive, Hebron, Kentucky 41048;
+   7.   Sign Shop, 3361 Logan Road, Hebron, Kentucky 41048;
+   8.   Stormwater Treatment Plant, 707 South Service Road, Hebron, Kentucky
+41048; and
+   9.   Central Warehouse, 300 Maintenance Court, Hebron, Kentucky 41048.
+The prohibition at the above listed addresses does not include the parking lot
+areas of the above sites.

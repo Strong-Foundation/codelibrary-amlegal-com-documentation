@@ -1,0 +1,1951 @@
+BELLEWOOD, KENTUCKY
+CODE OF ORDINANCES
+State legislation current through December, 2020
+ 
+Published by:
+American Legal Publishing Corporation
+525 Vine Street, Suite 310
+Cincinnati, Ohio  45202
+Tel: (800) 445-5588
+Internet: www.amlegal.com
+TITLE I: GENERAL PROVISIONS
+   Chapter
+      
+10.   RULES OF CONSTRUCTION; GENERAL PENALTY
+      
+11.   CITY STANDARDS
+CHAPTER 10:  RULES OF CONSTRUCTION; GENERAL PENALTY
+Section
+   
+10.01   Short titles
+   
+10.02   Definitions
+   
+10.03   Rules of construction
+   
+10.04   Computation of time
+   
+10.05   Majority may act for all; authorized agent
+   
+10.06   Writings and signatures
+   
+10.07   Severability
+   
+10.08   Revivor
+   
+10.09   Rights and liabilities accruing before repeal of ordinance
+   
+10.10   Construction of section references
+   
+10.11   Ordinances repealed
+   
+10.12   Ordinances unaffected
+   
+10.13   Ordinances saved
+   
+10.14   Amendments to code; amendatory language
+   
+10.15   Conflicting provisions
+   
+10.16   Reference to offices
+   
+10.17   Errors and omissions
+   
+10.18   Historical and statutory references
+   
+10.19   Application within territorial boundaries
+   
+10.20   Ordinance enforcement
+ 
+   
+10.99   General penalty
+§ 10.01  SHORT TITLES.
+   (A)   All ordinances of a permanent and general nature of the city as
+revised, codified, rearranged, renumbered and consolidated into component
+codes, titles, chapters and sections shall be known and designated as the
+“Bellewood Code”, for which designation “codified ordinances” or “code” may be
+substituted. Title heads, chapter heads and section and division heads or
+titles, and explanatory notes and cross-references, do not constitute any part
+of the law as contained in the code.
+(KRS 446.140)
+   (B)   All references to codes, titles, chapters and sections are to those
+components of the code unless otherwise specified. Any component code may be
+referred to and cited by its name, such as the “traffic code”. Sections may be
+referred to and cited by the designation “§” followed by the number, such as “§
+10.01”. Headings and captions used in this code other than the title, chapter
+and section numbers are employed for reference purposes only and shall not be
+deemed a part of the text of any section.
+§ 10.02  DEFINITIONS.
+   For the purpose of this code, the following definitions shall apply unless
+the context clearly indicates or requires a different meaning.
+   ACTION. Includes all proceedings in any court of this state.
+(KRS 446.010(1))
+   AND. May be read OR, and OR may be read AND, if the sense requires it.
+   ANIMAL. Includes every warm-blooded living creature, except a human being.
+(KRS 446.010(2))
+   AVIS. The automated vehicle information system established and maintained by
+the Transportation Cabinet to collect titling and registration information on
+vehicles and boats and information on holders of motor vehicle operator’s
+licenses and personal identification cards.
+(KRS 446.010(55))
+   CITY,MUNICIPAL CORPORATION or MUNICIPALITY. When used in this code, shall
+denote the City of Bellewood, irrespective of its population or legal
+classification.
+   COMMISSION. The Bellewood City Commission.
+(KRS 83A.010(3))
+   COMPANY. May extend and be applied to any corporation, company, person,
+partnership, joint stock company or association.
+(KRS 446.010(9))
+   CORPORATION. May extend and be applied to any corporation, company,
+partnership, joint stock company or association.
+(KRS 446.010(10)
+   COUNTY. Jefferson County, Kentucky.
+   CRUELTY. As applied to animals, includes every act or omission whereby
+unjustifiable physical pain, suffering or death is caused or permitted.
+(KRS 446.010(12))
+   DIRECTORS. When applied to corporations, includes managers or trustees.
+(KRS 446.010(13))
+   DOMESTIC. When applied to a corporation, partnership, business trust or
+limited liability company, means all those incorporated or formed by authority
+of this state.
+(KRS 446.010(14))
+   DOMESTIC ANIMAL. Any animal converted to domestic habitat.
+(KRS 446.010(15))
+   EXECUTIVE AUTHORITY. The Commission.
+(KRS 83A.010(6), KRS 91A.010(4))
+   FEDERAL. Refers to the United States.
+(KRS 446.010(17))
+   FOREIGN. When applied to a corporation, partnership, business trust or
+limited liability company, includes all those incorporated or formed by
+authority of any other state.
+(KRS 446.010(18))
+   KEEPER or PROPRIETOR. Includes all persons, whether acting by themselves or
+as a servant, agent or employee.
+   KRS. Kentucky Revised Statutes.
+   LAND or REAL ESTATE. Includes lands, tenements and hereditaments and all
+rights thereto and interest therein, other than a chattel interest.
+(KRS 446.010(23))
+   LEGISLATIVE BODY. The City Commission.
+(KRS 91A.010(8))
+   LEGISLATIVE BODY MEMBER. A City Commissioner.
+(KRS 83A.010(8))
+   LIVESTOCK. Cattle, sheep, swine, goats, horses, alpacas, llamas, buffaloes
+or any other animals of the bovine, ovine, porcine, caprine, equine or camelid
+species.
+(KRS 446.010(25))
+   MAY. The act referred to is permissive.
+(KRS 446.010(26))
+   MONTH. Calendar month.
+(KRS 446.010(27))
+   MUNICIPALITY. The City of Bellewood, Kentucky.
+   OATH. Includes AFFIRMATION in all cases in which an affirmation may be
+substituted for an OATH.
+(KRS 446.010(28))
+   PARTNERSHIP. Includes both general and limited PARTNERSHIPS.
+(KRS 446.010(30))
+   PEACE OFFICER. Includes sheriffs, constables, coroners, jailers,
+metropolitan and urban- county government correctional officers, marshals,
+police officers and other persons with similar authority to make arrests.
+(KRS 446.010(31))
+   PERSON. May extend and be applied to bodies-politic and corporate,
+societies, communities, the public generally, individuals, partnerships, joint
+stock companies and limited liability companies.
+(KRS 446.010(33))
+   PERSONAL PROPERTY. Includes all property, except real.
+   PREMISES. As applied to property, includes land and buildings.
+   PROPERTY. Includes real, personal, mixed estates and interests.
+   PUBLIC AUTHORITY. Includes boards of education; the municipal, county, state
+or federal government, its officers or an agency thereof; or any duly
+authorized public official.
+   PUBLIC PLACE. Includes any street, sidewalk, park, cemetery, school yard,
+body of water or watercourse, public conveyance or any other place for the sale
+of merchandise, public accommodation or amusement.
+   REAL PROPERTY. Includes lands, tenements and hereditaments.
+   REGULAR ELECTION. The election in even-numbered years at which members of
+Congress are elected and the election in odd-numbered years at which state
+officers are elected.
+(KRS 446.010(37))
+   SHALL. The act referred to is mandatory.
+(KRS 446.010(39))
+   SIDEWALK. The portion of the street between the curb line and the adjacent
+property line intended for the use of pedestrians.
+   STATE. The Commonwealth of Kentucky.
+   STREET. Includes alleys, avenues, boulevards, lanes, roads, highways,
+viaducts and all other public thoroughfares within the city.
+   SUBCHAPTER. A division of a chapter, designated in this code by a heading in
+the chapter analysis and a capitalized heading in the body of the chapter,
+setting apart a group of sections related by the subject matter of the heading.
+Not all chapters have SUBCHAPTERS.
+   SWORN. Includes affirmed in all cases in which an affirmation may be
+substituted for an oath.
+(KRS 446.010(43))
+   TENANT or OCCUPANT. As applied to premises, includes any person holding a
+written or oral lease, or who actually occupies the whole or any part of the
+premises, alone or with others.
+   VACANCY IN OFFICE. Exists when there is an unexpired part of a term of
+office without a lawful incumbent therein, when the person elected or appointed
+to an office fails to qualify according to law, or when there has been no
+election to fill the office at the time appointed by law; it applies whether
+the vacancy is occasioned by death, resignation, removal from the state,
+county, city or district, or otherwise.
+(KRS 446.010(46))
+   VIOLATE. Includes failure to comply with.
+(KRS 446.010(47))
+   YEAR. Calendar year.
+(KRS 446.010(49))
+§ 10.03  RULES OF CONSTRUCTION.
+   (A)   Singular includes plural. A word importing the singular number only
+may extend and be applied to several persons or things, as well as to one
+person or thing, and a word importing the plural number only may extend and be
+applied to one person or thing as well as to several persons or things.
+(KRS 446.020(1))
+   (B)   Masculine includes feminine. A word importing the masculine gender
+only may extend and be applied to females as well as males.
+(KRS 446.020(2))
+   (C)   Liberal construction. All sections of this code shall be liberally
+construed with a view to promote their objects and carry out the intent of City
+Commission.
+(KRS 446.080(1))
+   (D)   Retroactivity. No ordinance shall be construed to be retroactive,
+unless expressly so declared.
+(KRS 446.080(3))
+   (E)   Technical terms. All words and phrases shall be construed according to
+the common and approved usage of language, but technical words and phrases, and
+others as may have acquired a peculiar and appropriate meaning in the law,
+shall be construed according to that meaning.
+(KRS 446.080(4))
+§ 10.04  COMPUTATION OF TIME.
+   (A)   In computing any period of time prescribed or allowed by order of
+court, or by any applicable ordinance or regulation, the day of the act, event
+or default after which the designated period of time begins to run is not to be
+included. The last day of the period so computed is to be included, unless it
+is a Saturday, a Sunday, a legal holiday or a day on which the public office in
+which a document is required to be filed is actually and legally closed, in
+which event the period runs until the end of the next day which is not one of
+the days just mentioned. When the period of time prescribed or allowed is less
+than seven days, intermediate Saturdays, Sundays and legal holidays shall be
+excluded in the computation.
+   (B)   When an ordinance, regulation or order of court requires an act to be
+done either a certain time before an event or a certain time before the day on
+which an event occurs, the day of the event shall be excluded in computing the
+time. If the day thereby computed on which or by which the act is required to
+be done falls on a Saturday, Sunday, legal holiday or a day on which the public
+office in which the act is required to be completed is actually and legally
+closed, the act may be done on the next day which is none of the days just
+mentioned.
+   (C)   If any proceeding is directed by law to take place, or any act is
+directed to be done, on a particular day of a month and that day is Sunday, the
+proceeding shall take place, or the act shall be done, on the next day that is
+not a legal holiday.
+(KRS 446.030)
+   (D)   In all cases where the law requires any act to be done in a reasonable
+time or reasonable notice to be given, REASONABLE TIME OR NOTICE shall mean the
+time only as may be necessary for the prompt performance of the duty or
+compliance with the notice.
+§ 10.05  MAJORITY MAY ACT FOR ALL; AUTHORIZED AGENT.
+   (A)   Words giving authority to three or more public officers or other
+persons shall be construed as giving the authority to a majority of the
+officers or other persons.
+(KRS 446.050)
+   (B)   When the law requires an act to be done which may by law as well be
+done by an agent as by the principal, the requirement shall be construed to
+include those acts when done by an authorized agent.
+§ 10.06  WRITINGS AND SIGNATURES.
+   (A)   When this code requires any writing to be signed by a party thereto,
+it shall not be deemed to be signed unless the signature is subscribed at the
+end or close of the writing.
+   (B)   Every writing contemplated by this code shall be in the English
+language.
+(KRS 446.060)
+§ 10.07  SEVERABILITY.
+   It shall be considered that it is the intent of City Commission in enacting
+any ordinance, that if any part of the ordinance be held unconstitutional the
+remaining parts shall remain in force, unless the ordinance provides otherwise,
+or unless the remaining parts are so essentially and inseparably connected with
+and dependent upon the unconstitutional part that it is apparent that City
+Commission would not have enacted the remaining parts without the
+unconstitutional part; or unless the remaining parts, standing alone, are
+incomplete and incapable of being executed in accordance with the intent of
+City Commission.
+(KRS 446.090)
+§ 10.08  REVIVOR.
+   (A)   A repealed ordinance without a delayed effective date is revived when
+the ordinance that repealed it is repealed by another ordinance enacted at the
+same meeting of City Commission.
+   (B)   A repealed ordinance with a delayed effective date is revived by the
+enactment of a repealer of the ordinance that repealed it at the same or any
+subsequent meeting of City Commission as long as it takes effect prior to the
+effective date of the original repealer.
+   (C)   An amended ordinance without a delayed effective date remains
+unchanged with respect to an amendment which is repealed at the same meeting of
+City Commission which enacted the amendment.
+   (D)   An amended ordinance with a delayed effective date remains unchanged
+with respect to that amendment if the ordinance making the amendment is
+repealed at the same or at a subsequent meeting of City Commission, as long as
+the repealing ordinance takes effect prior to the effective date of the
+original amendment.
+   (E)   No other action of City Commission repealing a repealer or an
+amendment shall have the effect of reviving the original language of the
+repealer or amendment, as the case may be.
+(KRS 446.100)
+§ 10.09  RIGHTS AND LIABILITIES ACCRUING BEFORE REPEAL OF ORDINANCE.
+   No new ordinance shall be construed to repeal a former ordinance as to any
+offense committed against a former ordinance, nor as to any act done, or
+penalty, forfeiture or punishment incurred, or any right accrued or claim
+arising under the former ordinance, or in any way whatever to affect any
+offense or act so committed or done, or any penalty, forfeiture or punishment
+so incurred, or any right accrued or claim arising before the new ordinance
+takes effect, except that the proceedings thereafter had shall conform, so far
+as practicable, to the laws in force at the time of the proceedings. If any
+penalty, forfeiture or punishment is mitigated by any provision of the new
+ordinance, the provision may, by the consent of the party affected, be applied
+to any judgment pronounced after the new ordinance takes effect.
+(KRS 446.110)
+§ 10.10  CONSTRUCTION OF SECTION REFERENCES.
+   (A)   Wherever in a penalty section reference is made to a violation of a
+section or an inclusive group of sections, the reference shall be construed to
+mean a violation of any provision of the section or sections included in the
+reference.
+   (B)   References in the code to action taken or authorized under designated
+sections of the code include, in every case, action taken or authorized under
+the applicable legislative provision which is superseded by this code.
+   (C)   Whenever in one section reference is made to another section hereof,
+the reference shall extend and apply to the section referred to as subsequently
+amended, revised, recodified or renumbered, unless the subject matter be
+changed or materially altered by the amendment or revision.
+§ 10.11  ORDINANCES REPEALED.
+   This code, from and after its effective date, shall contain all of the
+provisions of a general nature pertaining to the subjects herein enumerated and
+embraced. All prior ordinances pertaining to the subjects treated by this code
+shall be deemed repealed from and after the effective date of this code of
+ordinances.
+§ 10.12  ORDINANCES UNAFFECTED.
+   All ordinances of a temporary or special nature, and all other ordinances
+pertaining to subjects not enumerated and embraced in this code of ordinances,
+shall remain in full force and effect unless herein repealed expressly or by
+necessary implication.
+§ 10.13  ORDINANCES SAVED.
+   Whenever an ordinance, by its nature, either authorizes or enables the City
+Commission, or a certain city officer or employee, to make additional
+ordinances or regulations for the purpose of carrying out the intent of the
+ordinance, all ordinances and regulations of a similar nature serving the
+purpose effected prior to the codification and not inconsistent thereto shall
+remain in effect and are saved.
+§ 10.14  AMENDMENTS TO CODE; AMENDATORY LANGUAGE.
+   (A)   Any chapter, section or division amended or added to this code by
+ordinances passed subsequent to this code may be numbered in accordance with
+the numbering system of this code and printed for inclusion herein. Any
+chapter, section or division repealed by subsequent ordinances may be excluded
+from this code by omission from reprinted pages. Subsequent ordinances as
+printed or omitted shall be prima facie evidence of the subsequent ordinances
+until City Commission shall adopt a new code of ordinances.
+   (B)   The method of amendment set forth by the city should be used by the
+city to amend, add or repeal a chapter, section or division of this code of
+ordinances.
+§ 10.15  CONFLICTING PROVISIONS.
+   If the provisions of different codes, chapters or sections of the codified
+ordinances conflict with or contravene each other, the provisions bearing the
+latest passage date shall prevail. If the conflicting provisions bear the same
+passage date, the conflict shall be so construed as to be consistent with the
+meaning or legal effect of the questions of the subject matter taken as a
+whole.
+§ 10.16  REFERENCE TO OFFICES.
+   Reference to a public office or officer shall be deemed to apply to any
+office, officer or employee of the city exercising the powers, duties or
+functions contemplated in the provision, irrespective of any transfer of
+functions or change in the official title of the functionary.
+§ 10.17  ERRORS AND OMISSIONS.
+   If a manifest error be discovered, consisting of the misspelling of any word
+or words, the omission of any word or words necessary to express the intention
+of the provisions affected, the use of a word or words to which no meaning can
+be attached, or the use of a word or words when another word or words was
+clearly intended to express the intention, the spelling shall be corrected, and
+the word or words supplied, omitted or substituted as will conform with the
+manifest intention, and the provision shall have the same effect as though the
+correct words were contained in the text as originally published. No alteration
+shall be made or permitted if any question exists regarding the nature or
+extent of the error.
+§ 10.18  HISTORICAL AND STATUTORY REFERENCES.
+   (A)   As histories for the code sections, the specific number and passage
+date of the original ordinance, and the amending ordinances, if any, are listed
+following the text of the code section. Example: (Ord. 10, passed 5-13-1960;
+Ord. 15, passed 1-1-1970; Ord. 20, passed 1-1-1980; Ord. 25, passed 1-1-1985)
+   (B)   If a KRS cite is included in the history, this indicates that the text
+of the section reads either verbatim or substantially the same as the statute.
+Example: (KRS 83A.090)
+   (C)   If a KRS cite is set forth as a “statutory reference” following the
+text of the section, this indicates that the reader should refer to that
+statute for further information. Example:
+      § 39.01  PUBLIC RECORDS AVAILABLE.
+   This municipality shall make available to any person for inspection or
+copying all public records, unless otherwise exempted by state law.
+      Statutory reference:
+         Inspection of public records, see KRS 61.870 et seq.
+§ 10.19  APPLICATION WITHIN TERRITORIAL BOUNDARIES.
+   All provisions of these codified ordinances are limited in application to
+the territorial boundaries of the city.
+(Prior Code, § 1.2.5.1.3)
+§ 10.20  ORDINANCE ENFORCEMENT.
+   (A)   Enforcement, as used herein, refers to legal action taken to achieve a
+remedy in those instances where violation or non-compliance with an ordinance
+is not corrected following notice of same or to impose a penalty where such
+response is appropriate for the violation or non-compliance. Legal action is
+required as such forced remedies or penalties must rely on the power of the
+courts for execution.
+   (B)   As provided for by Kentucky Revised Statutes, any aggrieved party may
+undertake enforcement of the provisions of a municipal ordinance through legal
+action filed in the county’s District Court. In this instance, the costs of and
+time required for such action must be borne by the filing party.
+(Prior Code, § 1.2.5.4)
+§ 10.99  GENERAL PENALTY.
+   Where an act or omission is prohibited or declared unlawful in this code of
+ordinances, and no penalty is otherwise provided, the offense shall be deemed a
+violation, and the offender shall be fined not more than $250 for each offense.
+Statutory references:
+   Enforcement of ordinances, see KRS 83A.065
+   Maximum fine for violations, see KRS 534.040(2)(c)
+CHAPTER 11:  CITY STANDARDS
+Section
+   
+11.01   Boundaries; incorporation areas
+§ 11.01  BOUNDARIES; INCORPORATION AREAS.
+   The city, known as “Bellewood, Kentucky”, be and the same hereby is
+established as a municipal corporation of the Home Rule, within the following
+described boundaries shown on the map filed with the petition filed herein, to
+wit: Bellewood annexes into the city the following described property, the same
+being adjacent to the city: being located in the County of Jefferson, State of
+Kentucky, and more specifically described as follows: beginning at a point at
+the southeast corner or Ormond Road and St. Matthews Avenue as shown on plan of
+Ridgeway Corner, Section 2, of record in Plat and Subdivision Book 10, page 98,
+in the office of the Clerk of Jefferson County, Kentucky; running thence South
+52 degrees 51 minutes west along the southeast line of Ormond Road, as shown on
+said plat, 160 feet to a point in the southeast line of Ormond Road; running
+thence south 34 degrees 11 minutes east 10.45 feet to a point; thence north 52
+degrees southwest line of St. Matthews Avenue as shown on the plat aforesaid;
+thence running in a northwesterly direction along the southeasterly line of St.
+Matthews Avenue, 10.67 feet to the beginning; and being the same property
+conveyed to Barbara H. Brown, one of the parties of the first part herein, by
+deed dated 5-29-1942, of record in Deed Book 1827, page 326, in the office of
+the Clerk aforesaid. The parties of the first part further covenant that they
+are lawfully seized of the estate hereby conveyed; that they have full right
+and power to convey same; and that said estate is free and clear of all liens
+and encumbrances; provided, however, there is excepted from the foregoing
+warranty and covenants of title and this conveyance is made subject to all
+existing restrictions, conditions and easements of record against said estate.
+(Prior Code, § 1.1.1)
+TITLE III: ADMINISTRATION
+   Chapter
+      
+30.   LEGISLATIVE BODY
+      
+31.   OFFICIALS AND EMPLOYEES
+      
+32.   ETHICS CODE
+      
+33.   FINANCE AND REVENUE; TAXES
+CHAPTER 30:  LEGISLATIVE BODY
+Section
+General Provisions
+   
+30.01   Meetings
+   
+30.02   Open meetings and records
+   
+30.03   Form of government
+   
+30.04   Creation and supervision of departments
+Permanent Records
+   
+30.15   City Clerk responsible for maintenance, safe-keeping
+   
+30.16   Ordinance numbering
+   
+30.17   Every action made permanent record
+GENERAL PROVISIONS
+§ 30.01  MEETINGS.
+   (A)   The legislative body shall hold regular monthly meetings at 6:30 p.m.
+on the second Tuesday of each month at City of St. Matthews Library.
+   (B)   If the regular meeting date falls on a legal holiday, as defined by
+KRS 2.110, the regular meeting shall be on the succeeding day that is not a
+legal holiday.
+   (C)   Special meetings may be called as provided by law.
+(Prior Code, § 1.2.1)
+§ 30.02  OPEN MEETINGS AND RECORDS.
+   All meetings of a quorum of the city legislative body shall be open to the
+public, and all public records of the city shall be available for inspection by
+any person in accordance with KRS 61.805 to 61.884.
+(Prior Code, § 1.2.2)
+§ 30.03  FORM OF GOVERNMENT.
+   (A)   The city shall be governed under the Commission form of government as
+provided by KRS Ch. 83A.
+   (B)   The city shall be governed by an elective official who shall be called
+“Mayor” and be elected by legislative body members who shall be called City
+Commissioners, and which together shall be known as the “City Commission”, and
+by such other officers and employees as may be provided for by statute of city
+ordinance.
+   (C)   All legislative, executive and administrative authority of the city
+shall be vested in and exercised by the City Commission. The Commission shall
+enforce the commission plan, ordinances and orders of the city and all
+applicable statutes. The Commission shall maintain liaison with related units
+of local government respecting inter-local contraction and joint activities.
+The Commission shall supervise all departments of city government and the
+conduct of all city officers and employees under its jurisdiction and may
+require each department to make such reports as it finds necessary.
+   (D)   The Mayor shall preside at all meetings of the commission and may vote
+in all proceedings. All bonds, notes, contracts and written obligations of the
+city authorized by ordinance or resolution shall be executed by the Mayor on
+behalf of the city.
+   (E)   Regular meetings of the City Commission shall be held at least once a
+month at such times and places are as fixed by ordinances. Special meetings may
+be called by the Mayor or a majority of the City Commissioners. In the call,
+the Mayor or City Commissioner shall designate the purpose, time and place of
+the special meeting with sufficient notice for the attendance of Commission
+members and for compliance with the KRS Ch. 61. At a special meeting, no
+business maybe considered other than that set forth in a designation of
+purpose.
+   (F)   (1)   The Commission shall by ordinance establish all appointive
+offices and the duties and responsibilities of those offices and codes, rules
+and regulations for the public health, safety and welfare.
+      (2)   The Commission shall, by ordinance, provide sufficient revenues to
+operate city government and shall appropriate such funds in a budget which
+shall provide for the orderly management of city resources.
+      (3)   The Commission shall promulgate procedures to ensure orderly
+administration of the functions of city government in compliance with statute,
+ordinance or order.
+(Prior Code, § 1.2.3)
+§ 30.04  CREATION AND SUPERVISION OF DEPARTMENTS.
+   The following departments are hereby created:
+   (A)   Ordinance Enforcement and Financial Administration;
+   (B)   Engineering/Roads and Grounds;
+   (C)   Beautification;
+   (D)   Security and Safety; and
+   (E)   Communications.
+(Prior Code, § 1.2.4)
+PERMANENT RECORDS
+§ 30.15  CITY CLERK RESPONSIBLE FOR MAINTENANCE, SAFE-KEEPING.
+   The City Clerk is responsible for maintaining and safekeeping the permanent
+records of the city, including ordinances and municipal orders, and shall sign
+the official records of each meeting.
+(Prior Code, § 1.2.5.6.1)
+§ 30.16  ORDINANCE NUMBERING.
+   (A)   All ordinances adopted by the city shall be numbered in accordance
+with the state’s Ordinance Code Topical Numbering System.
+   (B)   The city budget, appropriations of money and tax levies shall be
+maintained and indexed by fiscal year.
+   (C)   All ordinances shall be kept in an ordinance book in the order
+adopted.
+   (D)   The text of each general ordinance shall be kept in a loose-leaf
+binder with tabbed dividers arranged and numbered according to the state’s
+Ordinance Code Topical Numbering System with an alphabetical index.
+   (E)   Each month, every ordinance or amendment adopted during the month
+shall be assigned a KOC number, listed by topic and date of passage and
+publication and placed in the appropriate place in the binder.
+   (F)   Once a year, all additions and amendments shall be incorporated in the
+text of the code and in the table of contents.
+   (G)   At least once every five years, the text of the code shall be examined
+for consistency with state law, and with other provisions and revised to
+eliminate redundant, obsolete, inconsistent and invalid provisions.
+(Prior Code, § 1.2.5.6.2)
+§ 30.17  EVERY ACTION MADE PERMANENT RECORD.
+   Every action of the legislative body shall be made part of the permanent
+records of the city, and on passage of an ordinance, the vote of each member of
+the city legislative body shall be entered into the official record of the
+meeting.
+(Prior Code, § 1.2.5.6.3)
+CHAPTER 31:  OFFICIALS AND EMPLOYEES
+Section
+General Provisions
+   
+31.01   Bonds, combinations and oaths
+   
+31.02   Compensation of elected officials
+Specific Offices
+   
+31.15   Mayor
+   
+31.16   City Clerk
+   
+31.17   City Treasurer
+   
+31.18   Tax Collector
+GENERAL PROVISIONS
+§ 31.01  BONDS, COMBINATIONS AND OATHS.
+   (A)   Bonds of Clerk and Treasurer.
+      (1)   The City Clerk and Treasurer shall each execute bond before
+entering upon the duties of their respective offices, conditioned for the
+faithful performance of their duties, including the duties of all offices of
+which he or she is ex officio incumbent. The amount and sufficiency of such
+bond shall be approved by the City Commission.
+      (2)   The bond of the Treasurer shall be filed with the City Clerk and
+the bond of the Clerk shall be filed with the Mayor.
+   (B)   Clerk and Treasurer combined.
+      (1)   The City Commission may combine the offices of City Clerk and
+Treasurer to be known as “City Clerk/Treasurer” with all the duties of each.
+      (2)   The salary of the City Clerk/Treasurer shall be specified by the
+Commission at any time that these offices are combined.
+   (C)   Oath of City Clerk and of City Treasurer. Before entering upon the
+duties of his or her office, the City Clerk and the City Treasurer shall each
+take the oath prescribed by Kentucky Constitution § 228 for city officials.
+(Prior Code, § 1.3.4)
+§ 31.02  COMPENSATION OF ELECTED OFFICIALS.
+   (A)   The compensation of the Mayor is hereby fixed at $500 per month.
+   (B)   The compensation of the City Clerk/Treasurer is hereby fixed at $75
+per month.
+   (C)   The compensation of each City Commissioner is hereby fixed at $75 per
+month.
+   (D)   Payments shall be paid the last day of the month quarterly in March,
+June, September and December of the calendar year.
+   (E)   The Mayor, City Clerk and Commissioners receiving compensation shall
+be responsible for all federal, state and local income taxes thereon and
+receive a 1099 tax form annually.
+(Prior Code, § 1.3.6)
+SPECIFIC OFFICES
+§ 31.15  MAYOR.
+   (A)   The Mayor shall preside at all meetings of the Commission and may vote
+in all proceedings.
+   (B)   An appointment of all non-elected city officials shall require
+nomination by a Commission member and approval (majority vote) by the City
+Commission.
+(Prior Code, § 1.3.1)
+§ 31.16  CITY CLERK.
+   (A)   There is hereby created a non-elective city office to be known as the
+“City Clerk”.
+   (B)   The City Clerk shall be appointed by the Commission.
+   (C)   The City Clerk shall be at least 21 years of age and of good moral
+character.
+   (D)   The duties and responsibilities of the City Clerk shall include, but
+not be limited to, the following:
+      (1)   Maintenance and safekeeping of the records of the city; and
+      (2)   Performance of all duties and responsibilities required by a city
+clerk by statute or ordinance.
+   (E)   The salary of the City Clerk is to be determined by the Commission.
+(Prior Code, § 1.3.2)
+§ 31.17  CITY TREASURER.
+   (A)   The City Treasurer shall receive and safely keep all city funds coming
+into his or her hands. He or she shall pay out city funds and debts of the
+city.
+   (B)   The Treasurer shall make monthly reports to the City Commission
+showing the state of the finances of the city and the amounts received and
+spent during the month.
+   (C)   The City Treasurer shall be appointed by the Commission.
+   (D)   The salary of the City Treasurer is established at an amount as may be
+from time to time fixed by order of the Commission.
+(Prior Code, § 1.3.3)
+§ 31.18  TAX COLLECTOR.
+   (A)   The duties of the City Tax Collector can be performed by the City
+Clerk or City Treasurer.
+   (B)   It shall be the duty of the City Tax Collector to proceed as
+authorized by law to collect all taxes and special assessments that may be due
+or become due the city and to keep such records pertaining to such collections
+as may be required by statutes, ordinance or direction of the City Commission.
+   (C)   The City Tax Collector shall make such reports regarding delinquent
+taxes as are required by statute or by the City Commission. The City Tax
+Collector shall make a monthly report to the Commission showing all moneys that
+have been received and the source thereof. Monthly reports shall show totals
+for all moneys received in the current fiscal year and totals for all past due
+moneys summarized by year(s). The Tax Collector may furnish the required report
+to the City Treasurer for inclusion in the Treasurer’s report in lieu of a
+separate report. All moneys when received shall be deposited by the City
+Treasurer, or as directed by the City Treasurer.
+   (D)   The City Commission may combine the offices of City Treasurer and City
+Tax Collector to be known as City Treasurer/Tax Collector with all the duties
+of each office.
+   (E)   The salary of the City Treasurer/Tax Collector shall be specified by
+the Commission at any time that these offices are combined.
+(Prior Code, § 1.3.5)
+CHAPTER 32:  ETHICS CODE
+Section
+   
+32.01   Definitions
+   
+32.02   Standards of conduct
+   
+32.03   Financial disclosure
+   
+32.04   Nepotism
+   
+32.05   Ethics Commission
+   
+32.06   Filing an investigation complaint
+   
+32.07   Notice of hearing
+   
+32.08   Hearing procedure
+   
+32.09   Appeals
+   
+32.10   Limitation of action
+ 
+   
+32.99   Penalty
+§ 32.01  DEFINITIONS.
+   For the purpose of this chapter, the following definitions shall apply
+unless the context clearly indicates or requires a different meaning.
+   BUSINESS ASSOCIATE. Includes the following: 
+      (1)   A private employer;
+      (2)   A general or limited partnership; or a general or limited partner
+within the partnership;
+      (3)   A corporation that is family owned or in which all shares of stock
+are closely held, and the shareholders, owners and officers of such a
+corporation; and
+      (4)   A corporation, business association or any other business entity in
+which the city government officer or employee serves as a compensated agent or
+representative.
+   BUSINESS CORPORATION. Any corporation, partnership, sole proprietor, firm,
+enterprise, franchise, association, organization, self-employed individual,
+holding company, joint stock company, receivership, trust, professional service
+corporation or any legal entity through which business is conducted for profit.
+   CANDIDATE. Any individual who seeks nomination or election to a city
+municipal office. An individual is a candidate when the individual files a
+notification and declaration for a nomination for office with the County Clerk
+or the Secretary of State.
+   CITY GOVERNMENT AGENCY. Any board, commission, authority, non-stock
+corporation or other entity formed by the city government or a combination of
+local governments.
+   CITY GOVERNMENT EMPLOYEE. Any person, whether compensated or not, whether
+full-time or part-time, employed by or servicing the city government or city
+government agency who is not a city government officer, but shall not mean any
+employees of a school district or school board.
+   CITY GOVERNMENT OFFICER. Any person, whether compensated or not, whether
+full time or part time, who is elected to any city government office; or any
+person who serves as a member of the governing body of any city government
+agency or special taxing or non-taxing district, but shall not mean any officer
+of a school district or school board.
+   MEMBER OF IMMEDIATE FAMILY. The spouse, an unemancipated child residing in
+an individual’s household or a person claimed by the individual or individual’s
+spouse as dependent for tax purposes.
+   RULE OF NECESSITY. The city government, agency or district may make or enter
+into a contract in which an officer or employee or members of his or her
+immediate family or a business associate has an economic interest if:
+      (1)   The nature of the transaction and the nature of the interest is
+publicly disclosed on the record prior to the time it is engaged in; and
+      (2)   A specific finding is made by the city government, agency or
+district and entered on the official record of the proceedings of the governing
+body that, notwithstanding the conflict, it is in the best interest of local
+government because of limited supply, price or documented emergency.
+§ 32.02  STANDARDS OF CONDUCT.
+   (A)   No city government officer or employee or member of his or her
+immediate family shall have an interest in a business organization or engage in
+any business, transaction or professional activity, which is in substantial
+conflict with the proper discharge of his or her duties in the public interest.
+   (B)   No city government officer or employee shall use or attempt to use his
+or her position to secure unwarranted privileges or advantages for himself or
+herself or others.
+Penalty, see §
+32.99
+§ 32.03  FINANCIAL DISCLOSURE.
+   (A)   Any officer or employee, or any member of his or her immediate family,
+of the city government who shall have any private financial interest, directly
+or indirectly, in any contract or matter pending before or within any
+department or agency of the city government shall disclose such private
+interest to the City Commission. Any such disclosure shall require the
+completion of a disclosure statement revealing in detail the nature of the
+direct or indirect financial interest.
+   (B)   Financial disclosure statement:
+      (1)   The following individuals shall be required to file an annual
+financial disclosure statement:
+         (a)   Elected officers; and
+         (b)   Candidates for elective office.
+      (2)   The financial disclosure statement shall include the following
+information:
+         (a)   Name of filer;
+         (b)   Current business address, business telephone number and home
+address of filer;
+         (c)   Title of filer’s public office or office sought;
+         (d)   Occupations of filer and spouse;
+         (e)   Positions held by the filer and any members of the filer’s
+immediate family in any business organization or non-profit entity from which
+the filer or any member of the filer’s immediate family received compensation
+in excess of $5,000 during the preceding calendar year, and the name, address
+and telephone number of the business organization or non-profit entity;
+         (f)   Name and address of each source of income of filer and spouse
+from within the commonwealth which exceeded $5,000 during the preceding year;
+         (g)   Name and address of each business organization located within
+the Commonwealth in which the filer or any member of the filer’s immediate
+family had an interest of $10,000 at the fair market value; and
+         (h)   Location of all commercial property within the city, in which
+the filer or any member of the filer’s immediate family had an interest of
+$10,000 or more during the past year.
+      (3)   Each statement shall be signed and dated by the individual filing
+the statement of financial interest. The financial disclosure statements
+required by this chapter shall be filed with the City Commission.
+Penalty, see §
+32.99
+§ 32.04  NEPOTISM.
+   No city government officer or city government employee shall act in his or
+her official capacity to hire or cause to be hired any member of his or her
+immediate family at an hourly pay rate or with benefits in excess of any other
+employee with similar job duties, responsibilities and qualification
+requirements.
+Penalty, see §
+32.99
+§ 32.05  ETHICS COMMISSION.
+   (A)   An Ethics Commission is created which shall have the power to enforce
+all provisions of the Code of Ethics adopted in this chapter.
+   (B)   The Commission shall be composed of three members appointed by the
+Mayor with the approval of the City Commission. Members must be at least 21
+years of age.
+   (C)   Decisions of the City Commission regarding violations may be appealed
+to the County Circuit Court.
+   (D)   The City Commission shall receive, hear and investigate complaints
+concerning violations of this Code of Ethics. Any instance in which the
+Commission finds that violation of the Code of Ethics exists, it may impose the
+appropriate penalty. In hearing and investigating complaints concerning
+violations of this Code of Ethics, the Commission shall have the power to
+subpoena witnesses, administer oaths, take testimony and require other
+production of evidence.
+§ 32.06  FILING AN INVESTIGATION COMPLAINT.
+   (A)   All complaints alleging any violation of the provisions of this
+chapter shall be submitted to the Ethics Commission. All complaints shall be in
+writing, signed by the complainant, and shall meet any other requirements
+established by the Commission. The Commission shall, within a reasonable time,
+acknowledge receipt of a complaint to the complainant and forward a copy of the
+complaint to any officer or employee who is the subject of the complaint.
+   (B)   Within 30 days of the receipt of the complaint, the Commission shall
+conduct a preliminary inquiry. The Commission shall afford a person who is the
+subject of the complaint an opportunity to respond. The person shall have the
+right to be represented by counsel, to appear and be heard under oath, and to
+offer evidence in response to the allegations.
+   (C)   The Commission shall make a determination based on its preliminary
+inquiry whether the complaint is within its jurisdiction and, if so, whether
+there is reasonable cause to believe that the officer or employee has violated
+this chapter. If the Commission finds that the complaint is outside its
+jurisdiction, frivolous or without factual basis, the Commission shall
+immediately terminate the inquiry, reduce the conclusion to writing, and
+transmit a copy of its decision to the complainant and to all officers or
+employees against whom the complaint was filed.
+   (D)   If the Commission concludes, based upon its preliminary inquiry, that
+the complaint is within its jurisdiction and there is reasonable cause to
+believe that a violation occurred, the Commission shall notify the officer or
+employee who is the subject of this complaint and shall initiate a hearing to
+determine whether there has been a violation.
+§ 32.07  NOTICE OF HEARING.
+   If the Commission determines that a hearing regarding allegations contained
+in the complaint is necessary, the Commission shall issue an order, and mail it
+to the alleged violator within a reasonable time, setting the matter for a
+hearing within 30 days of the date the order is issued, unless the alleged
+violator petitions the Commission for a later date.
+§ 32.08  HEARING PROCEDURE.
+   (A)   The State Rules of Civil Procedure and the State Rules of Evidence
+shall not apply to hearings conducted by the Commission; however, the hearing
+shall be conducted in accordance with this section and in accordance with any
+additional rules and regulations adopted by the Commission so as to afford all
+parties the full range of due process rights required by the nature of the
+proceedings.
+   (B)   Prior to the commencement of the hearing, the alleged violator, or his
+or her representative, shall have a reasonable opportunity to examine all
+documents and records prepared by the Commission in connection with the matters
+to be heard. The Commission shall inform the alleged violator, or his or her
+representative, of any exculpatory evidence in its possession.
+   (C)   All testimony in a Commission hearing shall be taken under oath,
+administered by the presiding officer. All parties shall have the right to call
+and examine witnesses, to introduce exhibits, to cross examine witnesses, to
+submit evidence, and to be represented by counsel. All witnesses shall have the
+right to be represented by counsel.
+   (D)   Any person whose name is mentioned during the hearing and who may be
+adversely affected thereby may appear personally before the Commission, with or
+without counsel, to give a statement regarding the adverse mention, or may file
+a written statement regarding the adverse mention for incorporation into the
+record of the proceeding.
+   (E)   The Commission may, upon its own motion or that of any party, grant a
+continuance of a hearing for the receipt of taking of further evidence.
+However, the Commission shall make all efforts to complete the hearing and
+taking of the evidence at the earliest possible time so as to not unduly burden
+the alleged violator or any other interested party.
+   (F)   After conclusion of the hearing, the Commission shall, as soon as
+practicable, begin deliberations for purpose of reviewing the evidence in
+making a determination of whether a violation of this chapter has been proven.
+Within 30 days after the conclusion of the hearing, the Commission shall issue
+a written report of its findings and conclusions.
+   (G)   If the Commission concludes in its report that no violation has
+occurred, it shall immediately send written notice of this determination to the
+officer or employee who was the subject of the complaint, to the party who
+filed the complaint, to the Mayor, and to the City Commission or the governing
+board of the appropriate city agency.
+   (H)   If the Commission concludes in its report that, based upon the
+evidence, there is clear and convincing proof of a violation, the Commission
+may do one or more of the following:
+      (1)   Issue an order requiring the violator to cease and desist the
+violation;
+      (2)   In writing, publicly reprimand the violator for the violations and
+provide a copy of the reprimand to the Mayor, City Commission and the governing
+board of the appropriate city agency;
+      (3)   In writing, recommend to the Mayor and City Commission that the
+violator be sanctioned as recommended by the Commission, which may include
+discipline, dismissal or removal from office;
+      (4)   Issue an order requiring the violator to pay, within a specified
+period of time, a civil penalty, as set forth in this chapter; and/or
+      (5)   Refer evidence of criminal violation of this chapter or state law
+to the County Attorney or Commonwealth’s Attorney of the jurisdiction for
+prosecution.
+Penalty, see §
+32.99
+§ 32.09  APPEALS.
+   Any person who is found guilty of a violation may appeal the finding to the
+Circuit Court within 30 days after the date of the final action of the Ethics
+Commission by filing a petition with the court against the Commission.
+§ 32.10  LIMITATION OF ACTION.
+   Except when the period of limitation is otherwise established by state law,
+an action for a violation of this chapter must be brought within one year after
+the violation is discovered.
+§ 32.99  PENALTY.
+   (A)   Any violation of §
+32.02 shall constitute a Class A misdemeanor, and upon conviction, the court
+may void any contract entered into in violation thereof. Additionally, such a
+violation shall be grounds for removal from office or from employment with the
+city in accordance with any applicable provisions of state law and ordinances,
+rules or regulations of the city, or other remedies as set forth in §
+32.08(H)(1) through (H)(5), as determined by the Commission.
+   (B)   Any person who fails to or refuses to file the financial disclosure
+statement under §
+32.03, or who fails or refuses to remedy a deficiency in the filing of a
+financial disclosure statement under §
+32.03 within the time period required, shall be guilty of a civil offense and
+shall be subject to a civil fine imposed by the Commission in an amount not to
+exceed $25 per day, up to a maximum total civil fine of $500. Any civil fine
+imposed by the Commission under this section may be recovered by the city in a
+civil action in the nature of debt if the offender fails or refuses to pay the
+penalty within the prescribed period of time.
+   (C)   Any person who intentionally files a financial disclosure statement
+under §
+32.03 which he or she knows to contain false information or intentionally omits
+required information shall be guilty of a Class A misdemeanor or other remedies
+as set forth in §
+32.08(H)(1) through (H)(5), as determined by the Commission.
+   (D)   Any person who knowingly files with the Commission a false complaint
+alleging a violation of this chapter shall be guilty of a Class A misdemeanor
+or other remedies as set forth in §
+32.08(H)(1) through (H)(5), as determined by the Commission.
+   (E)   Except when another penalty is specifically set forth in this chapter,
+any officer or employee of the city or one of its agencies who is found by the
+Commission to have violated any provisions of this chapter shall be deemed
+guilty of a civil offense and may be subject to a civil fine imposed by the
+Commission not to exceed $1,000 which may be recovered by the city in a civil
+action in the nature of debt if the offender fails to pay the penalty in a
+prescribed period of time.
+   (F)   In addition to all other penalties which may be imposed under this
+chapter, any officer or employee of the city or one of its agencies who is
+found by the Commission to have violated any provision of this chapter shall
+forfeit to the city an amount equal to the economic benefit or gain which the
+officer or employee is determined by the Commission to have realized as the
+result of the violation. The amount of any forfeiture that may be recovered by
+the city is a civil action in the nature of debt, if the offender fails to pay
+the amount of the forfeiture within a prescribed period of time.
+   (G)   In addition to all other penalties which may be imposed in this
+chapter any officer or employee of the city or one of its agencies who is found
+by the Commission to have violated any provisions of this chapter shall be
+subject to removal, suspension, demotion or other disciplinary action as
+determined by the Mayor.
+CHAPTER 33:  FINANCE AND REVENUE; TAXES
+Section
+   
+33.01   City contracts
+   
+33.02   Tax assessments
+§ 33.01  CITY CONTRACTS.
+   (A)   Every contract greater than $500 entered into by the city shall be
+authorized and approved by the Commission and signed by the Mayor and/or the
+authorized Commissioner in charge of that specific service which is the subject
+matter of the contract.
+(Prior Code, § 2.1)
+   (B)   No contract shall be entered or purchase made, which is inconsistent
+with the annual budget and any amendments thereto, without the approval of the
+City Commission.
+(Prior Code, § 2.2)
+§ 33.02  TAX ASSESSMENTS.
+   There shall be an annual ordinance to adopt the county ad valorem property
+tax assessment for the city and to levy an ad valorem tax thereon for the
+general operation of the city. Current assessment date is January 1, for the
+fiscal year July 1 to June 30. (Taxes are billed the first business day of
+January of the assessment year, and payable with a 40% discount if received by
+the end of the following February; face value is due up to March 31. If paid
+any time in April, a 15% penalty applies; 4% interest per month thereafter.)
+Note: tax bills are mailed to the owner of record (or mortgage company) as of
+January 1 of the assessment year.
+(Prior Code, § 19.1)
+TITLE V: PUBLIC WORKS
+[Reserved]
+TITLE VII: TRAFFIC CODE
+   Chapter
+      
+70.   TRAFFIC AND PARKING REGULATIONS
+      
+71.   RECREATIONAL VEHICLES
+CHAPTER 70:  TRAFFIC AND PARKING REGULATIONS
+Section
+Operation Requirements
+   
+70.01   Commercial vehicles
+   
+70.02   Speed limits; damage to roads
+Parking Rules
+   
+70.15   Prohibited parking
+   
+70.16   Removal of vehicles and obstructions
+ 
+   
+70.99   Penalty
+OPERATION REQUIREMENTS
+§ 70.01  COMMERCIAL VEHICLES.
+   (A)   It shall be unlawful for commercial trucks and buses of any capacity
+to travel over the public roadways of the city, except when making deliveries
+and/or conducting business for the residents of the city; provided, however,
+that, the ordinance shall in no way affect the travel over the public roadways
+of the city of trucks owned/operated by city residents and used as their
+primary transportation, or school buses, church or community buses when they
+are used for the convenience of the residents of the city.
+(Prior Code, § 3.1)
+   (B)   It shall be unlawful for any commercial vehicle to park on streets
+overnight or for extended periods of times with the exception of commercial
+moving vans or public utility companies such as LG&E, MSD, Louisville Water and
+the like.
+(Prior Code, § 3.2)
+   (C)   Commercial trucks other than personal/private pickup trucks, passenger
+vans and sports utility vehicles (SUVs) owned by residents of the city must be
+parked in private driveways so as to allow access for emergency vehicles on
+public roadways.
+(Prior Code, § 3.3)
+Penalty, see §
+70.99
+§ 70.02  SPEED LIMITS; DAMAGE TO ROADS.
+   (A)   The speed limit within the city limits shall be 25 mph unless posted
+otherwise.
+(Prior Code, § 18.1)
+   (B)   It shall be unlawful for any person to operate a motor vehicle which
+causes damage or injury to the surface, structure and/or foundations of any
+public roadways of the city.
+(Prior Code, § 18.2)
+   (C)   It shall be unlawful for any person to allow the spillage of gasoline
+or any other flammable, toxic or injurious substance to remain on the public
+roadway within the city.
+(Prior Code, § 18.3)
+Penalty, see §
+70.99
+PARKING RULES
+§ 70.15  PROHIBITED PARKING.
+   (A)   (1)   It shall be unlawful for any person to park any vehicle in the
+front yard, or in any portion of the grass, or in the area between the street
+and sidewalk, including the easement/right-of-way, other than in the driveway.
+      (2)   An exception exists for residences with easement parking pads,
+which were constructed prior to the effective date of this subchapter and in
+compliance with this code.
+(Prior Code, § 13.1)
+   (B)   It shall be unlawful to park any vehicle, or object in such a manner
+as to obstruct any sidewalk, street or public way of the city, or to otherwise
+obstruct any public or private driveway thereof.
+(Prior Code, § 13.2)
+   (C)   It shall be unlawful for anyone to park, stop or allow to stand a
+vehicle in a designated fire lane.
+(Prior Code, § 13.3)
+   (D)   It shall be unlawful for anyone to park in a “no parking here to
+corner” designated area at any time and any person, firm or corporation so
+doing shall be subject to penalty, in addition to provisions concerning removal
+of vehicles and obstructions, as contained herein.
+(Prior Code, § 13.4)
+Penalty, see §
+70.99
+§ 70.16  REMOVAL OF VEHICLES AND OBSTRUCTIONS.
+   In addition, the violation of §
+70.15(C) and (D) of this chapter may result in such vehicle or object being
+towed or otherwise removed by the city, from the place of prohibited parking.
+The operator/owner or person placing such vehicle of object shall be
+responsible for all costs and expenses, including reasonable attorneys’ fees,
+incurred as a result of the necessity of moving said improperly parked vehicle
+or object.
+(Prior Code, § 13.5)
+§ 70.99  PENALTY.
+   (A)   Any person violating any provision of this chapter for which no
+specific penalty is prescribed shall be subject to §
+10.99 of this code of ordinances.
+   (B)   (1)   (a)   The violation of §
+70.01(A) of this chapter shall constitute a violation and be punishable by a
+fine in the amount of $50 per offense.
+(Prior Code, § 3.1)
+         (b)   The violation of §
+70.01(B) of this chapter shall constitute a violation and be punishable by a
+fine in the amount of $50 per offense.
+(Prior Code, § 3.2)
+         (c)   The violation of §
+70.01(C) of this chapter shall constitute a violation and be punishable by a
+fine in the amount of $50 per offense.
+(Prior Code, § 3.3)
+      (2)   All fines shall be paid within ten days of the issuance of the
+citation or a late fee of $15 per day shall be applied. If the violation is not
+resolved and all penalties are not paid within 30 days of the issuance of the
+citation, a lien may be placed against the property.
+(Prior Code, § 3.4)
+   (C)   (1)   (a)   The penalty for failure to observe the speed limit, as per
+§
+70.02(A) of this chapter shall be consistent with the penalties contained in
+KRS Ch. 18a (and other relevant sections).
+(Prior Code, § 18.1)
+         (b)   The violation of §
+70.02(B) of this chapter shall constitute a violation which shall be punishable
+by a fine of $250.
+(Prior Code, § 18.2)
+         (c)   The violation of §
+70.02(C) of this chapter shall constitute a violation which shall be punishable
+by a fine of $250.
+(Prior Code, § 18.3)
+      (2)   All fines shall be paid within ten days of the issuance of the
+citation or a late fee of $15 per day shall be applied. If the violation is not
+resolved and all penalties are not paid within 30 days of the issuance of the
+citation, a lien may be placed against the property.
+(Prior Code, § 18.4)
+   (D)   (1)   (a)   The violation of §
+70.15(A) of this chapter shall constitute a violation and be punishable by a
+fine in the amount of $50 per day until corrected.
+(Prior Code, § 13.1)
+         (b)   The violation of §
+70.15(B) of this chapter shall constitute a violation and be punishable by a
+fine in the amount of $50 per day until corrected.
+(Prior Code, § 13.2)
+         (c)   The violation of §
+70.15(C) of this chapter shall constitute a violation and be punishable by a
+fine in the amount of $250 per offense.
+(Prior Code, § 13.3)
+         (d)   The violation of §
+70.15(D) of this chapter shall constitute a violation and be punishable by a
+fine in the amount of not less than $50 or more than $250 per offense.
+(Prior Code, § 13.4)
+      (2)   All fines shall be paid within ten days of the issuance of the
+citation or a late fee of $15 per day shall be applied. If the violation is not
+resolved and all penalties are not paid within 30 days of the issuance of the
+citation, a lien may be placed against the property.
+(Prior Code, § 13.6)
+CHAPTER 71:  RECREATIONAL VEHICLES
+Section
+   
+71.01   Prohibited keeping and storing
+   
+71.02   Exception
+   
+71.03   Non-resident parking
+ 
+   
+71.99   Penalty
+§ 71.01  PROHIBITED KEEPING AND STORING.
+   It shall be unlawful for any person to park, store or otherwise maintain a
+boat, tractor truck (an automotive vehicle with a driver’s cab used to haul
+trailers), truck trailer, trailer, house trailer, disabled vehicle,
+recreational vehicle and/or motor home on any public or private property within
+the city, unless:
+   (A)   It is enclosed within a garage or structure and it is not occupied as
+a dwelling or sleeping place; and
+   (B)   The property in question is a boat trailer, 25 feet or less in length.
+The property in question must be recessed where the vehicle/boat is as far back
+from the street as possible. The vehicle/boat in question can not exceed ten
+feet in total height and must be less than 25 feet in total length.
+(Prior Code, § 14.1)  Penalty, see §
+71.99
+§ 71.02  EXCEPTION.
+   Notwithstanding the provision of §
+71.01 of this chapter, a city resident may park his or her boat, tractor truck,
+truck trailer, house trailer or recreational vehicle and/or motor home in the
+driveway of his or her dwelling for a period not to exceed 72 hours for the
+purpose of loading, unloading, cleaning, repairing and/or servicing.
+(Prior Code, § 14.2)
+§ 71.03  NON-RESIDENT PARKING.
+   (A)   A recreational vehicle owned by a person who is not a resident of the
+city, and is a guest of a resident of the city, may be parked for a period not
+to exceed 72 hours in the driveway of the residence in which the recreational
+vehicle owner is a guest.
+(Prior Code, § 14.3)
+   (B)   For purposes of this section, the time period of 72 hours need not be
+continuous.
+(Prior Code, § 14.4)
+§ 71.99  PENALTY.
+   (A)   Failure to comply with this chapter shall constitute a violation and
+is punishable by a fine of $100 per day. Each day the violation continues shall
+be considered a separate and distinct violation.
+(Prior Code, § 14.4)
+   (B)   All fines shall be paid within ten days of the issuance of the
+citation or a late fee of $15 per day shall be applied. If the violation is not
+resolved and all penalties are not paid within 30 days of the issuance of the
+citation, a lien may be placed against the property.
+(Prior Code, § 14.5)
+TITLE IX: GENERAL REGULATIONS
+   Chapter
+      
+90.   ANIMAL CONTROL
+      
+91.   PROPERTY MAINTENANCE; NUISANCES
+CHAPTER 90:  ANIMAL CONTROL
+Section
+   
+90.01   Leash law
+   
+90.02   Pet nuisances
+ 
+   
+90.99   Penalty
+§ 90.01  LEASH LAW.
+   (A)   It shall be unlawful for any owner or person in charge of a dog or
+other domesticated animal to permit or allow such animal to run at large in the
+city and/or onto the private property of other residents within the city
+limits.
+(Prior Code, § 5.1)
+   (B)   It shall be unlawful for any owner in charge of a dog or other
+domesticated animal to permit such animal to be on the public roadways of the
+city unless said animal is on leash and under absolute control of the owner or
+his or her agent.
+(Prior Code, § 5.2)
+   (C)   It shall be unlawful for any owner in charge of a dog or other
+domesticated animal to permit such animal to defecate on the property of the
+city and/or the private property owned by someone other than the owner without
+removing same immediately thereafter.
+(Prior Code, § 5.3)
+Penalty, see §
+90.99
+§ 90.02  PET NUISANCES.
+   It shall be unlawful for a person to keep, harbor or own any dog, cat or
+other domesticated animal within the city limits, which does any one of the
+following objectionable actions:
+   (A)   Incessantly barks, howls, yelps or whines loud enough to be heard
+beyond the premises where it is kept or harbored;
+(Prior Code, § 6.1)
+   (B)   Habitually goes on any property or premises not owned or occupied by
+the persons who keeps, harbors or owns the dog, cat or other domestic animal;
+(Prior Code, § 6.2)
+   (C)   Habitually turns over or gets into garbage cans or milk containers, or
+damages shrubbery and items of personal property, located on any premises other
+than those owned by the person who keeps, harbors or owns the dog, cat or other
+domestic animal;
+(Prior Code, § 6.3)
+   (D)   When not on the property of its owner or keeper, habitually runs at,
+jumps on, chases, barks at, bites at or in any way frightens, molests or scares
+any child or adult other than the one who keeps, harbors or owns the dog, cat
+or other domestic animal;
+(Prior Code, § 6.4)
+   (E)   Chases, attacks or kills any dog or other animal besides those owned
+by the person who keeps, harbors or owns the dog, cat or other domestic animal;
+(Prior Code, § 6.5)
+   (F)   Bites any person on sidewalks, streets or any property other than that
+of its owner or keeper; and
+(Prior Code, § 6.6)
+   (G)   Chases motor vehicles, bicycles or scooters other than those owned by
+the person who keeps, harbors or owns the dog, cat or other domestic animal or
+his or her immediate family.
+(Prior Code, § 6.7)
+Penalty, see §
+90.99
+§ 90.99  PENALTY.
+   (A)   Any person violating any provision of this chapter for which no
+specific penalty is prescribed shall be subject to §
+10.99 of this code of ordinances.
+   (B)   (1)   Violation of §
+90.01 of this chapter shall constitute a violation which is punishable by a
+fine of $75.
+(Prior Code, § 5.3)
+      (2)   All fines shall be paid within ten days of the issuance of the
+citation or a late fee of $15 per day shall be applied. If the violation is not
+resolved and all penalties are not paid within 30 days of the issuance of the
+citation, a lien may be placed against the property.
+(Prior Code, § 5.4)
+   (C)   (1)   Violation of §
+90.02 of this chapter shall constitute a violation which carries a fine of up
+to $250.
+(Prior Code, § 6.7)
+      (2)   All fines shall be paid within ten days of the issuance of the
+citation or a late fee of $15 per day shall be applied. If the violation is not
+resolved and all penalties arc not paid within 30 days of the issuance of the
+citation, a lien may be placed against the property.
+(Prior Code, § 6.8)
+CHAPTER 91:  PROPERTY MAINTENANCE; NUISANCES
+Section
+Property Maintenance
+   
+91.01   Premises and landscaping; maintenance
+   
+91.02   Notice and abatement
+   
+91.03   Lien resulting from city abatement
+ 
+   
+91.99   Penalty
+PROPERTY MAINTENANCE
+§ 91.01  PREMISES AND LANDSCAPING; MAINTENANCE.
+   Any owner or his or her agent or occupant of property located within the
+city limits shall be subject to the following provisions:
+   (A)   All premises and landscape elements shall be maintained in a safe,
+sanitary and acceptable condition, including, but not limited to, steps, walks,
+driveways, fences, decks, retaining walls, shrubs, trees, grass and weeds;
+   (B)   Weeds, shrubs, grass and trees shall be kept trimmed and from becoming
+overgrown;
+   (C)   Trees and shrubs which have branches projecting into the public right-
+of-way or easements shall be kept trimmed 15 feet above the public roadways.
+Additionally, any tree or shrub or other plant form afflicted with decay or
+vegetation sickness which can be transmitted to other trees, shrubs or plants
+shall be treated or removed;
+   (D)   All fences, decks, retaining walls or similar structures shall be
+firmly anchored in the ground and maintained in good structural repair. Wooden
+structures subject to deterioration from weathering shall be maintained with
+chemicals or paint to preserve the structure and retard deterioration;
+   (E)   All yards, lots or similar non-enclosed property shall be kept free of
+accumulations of trash, garbage waste, rubbish, refuse, junk and other noxious
+or offensive materials or substances which may cause a fire hazard or may act
+as a breeding place for insects, vermin or other animals;
+   (F)   Inoperable vehicles must be stored within an enclosed structure,
+screened from view and subject to all terms and conditions of the county
+ordinance on abandoned vehicles; and
+   (G)   Public roadways shall be kept clear of all yard waste, trimmings and
+other lawn debris.
+(Prior Code, § 12.1)  Penalty, see §
+91.99
+§ 91.02  NOTICE AND ABATEMENT.
+   (A)   It shall be unlawful for any owner or his or her agent or occupant of
+property within the city limits not to remedy any violation of §
+91.01 of this chapter.
+   (B)   Notice in writing may be served upon an owner or his or her agent or
+occupant by hand delivery, first class mail, or by posting of it on the
+property. Such notice shall describe the violation and shall demand abatement
+within ten calendar days from the date of notice, except if the violation
+constitutes an immediate danger to the health, safety and well being of the
+community, it shall be abated immediately.
+(Prior Code, § 12.2)  Penalty, see §
+91.99
+§ 91.03  LIEN RESULTING FROM CITY ABATEMENT.
+   (A)   Upon failure of any owner or his or her agent or occupant to comply
+with the notice by abating such violations, the city and/or its designated
+representative is authorized to enter upon the property to remedy the
+condition. The city shall have a lien against the property for the reasonable
+value of the labor and materials used in remedying such situations. This will
+include the cost of cutting, clearing and removal of the violation in addition
+to other reasonable actions necessary to abate same.
+   (B)   The affidavit of the Mayor of the city, or the responsible agent
+designated by the city, shall constitute prima facie evidence of the amount of
+the lien and the proceedings pursuant to this subchapter, and upon the same
+being recorded in the office of the County Clerk, the document shall establish
+and constitute a lien upon and against the property wherein such labor and
+materials were utilized to abate such violation. Recording of the lien shall be
+noticed to the public at large of the existence of a lien, and the same shall
+bear interest at a rate of 12% per annum from date of lien and thereafter until
+paid.
+(Prior Code, § 12.3)
+§ 91.99  PENALTY.
+   (A)   Any person violating any provision of this chapter for which no
+specific penalty is prescribed shall be subject to §
+10.99 of this code of ordinances.
+   (B)   (1)   (a)   Any owner or his or her agent or occupant who has received
+notice of a violation of the provisions above and who has failed to abate the
+violation may be charged with a violation of §§
+91.01 through
+91.03 of this chapter in a criminal complaint in the county’s District Court.
+         (b)   Any owner or his or her agent or occupant who violates any
+provision of §§
+91.01 through
+91.03 of this chapter shall be guilty of a violation which shall be punishable
+by a fine of up to $250.
+(Prior Code, § 12.3)
+      (2)   All fines shall be paid within ten days of the issuance of the
+citation or a late fee of $15 per day shall be applied. If the violation is not
+resolved and all penalties are not paid within 30 days of the issuance of the
+citation, a lien may be placed against the property.
+(Prior Code, § 12.4)
+TITLE IX: BUSINESS REGULATIONS
+   Chapter
+      
+110.   PEDDLERS AND SOLICITORS
+CHAPTER 110:  PEDDLERS AND SOLICITORS
+Section
+   
+110.01   Traveling from place to place prohibited
+ 
+   
+110.99   Penalty
+§ 110.01  TRAVELING FROM PLACE TO PLACE PROHIBITED.
+   It shall be unlawful for any person to conduct any form of solicitation,
+whether for commercial, religious, civic, charitable or educational purposes,
+by traveling from place to place within the city.
+(Prior Code, § 17.1)  Penalty, see §
+110.99
+§ 110.99  PENALTY.
+   Any person conducting activities in the city in violation of §
+110.01 of this chapter shall be guilty of a misdemeanor and, upon conviction,
+shall be subject to a fine of not more than $250.
+(Prior Code, § 17.2)
+TITLE XIII: GENERAL OFFENSES
+   Chapter
+      
+130.   FIREARMS AND WEAPONS
+CHAPTER 130:  FIREARMS AND WEAPONS
+Section
+   
+130.01   Discharge prohibited
+ 
+   
+130.99   Penalty
+§ 130.01  DISCHARGE PROHIBITED.
+   It shall be unlawful within the city for any person to use or discharge any
+firearm or weapon from which a projectile, metal shot or metal pellet is or may
+be propelled. This includes items commonly known as “air rifles”, “air pistols”
+or “BB guns”.
+(Prior Code, § 23.1)  Penalty, see §
+130.99
+§ 130.99  PENALTY.
+   (A)   Any person violating any provision of §
+130.01 of this chapter shall be guilty of a misdemeanor and fined not less than
+$5, nor more than $50, for each offense; and any such weapon as described in §
+130.01 of this chapter found in the possession of any person convicted under
+the provisions of §
+130.01 of this chapter may be ordered by the District Court of the county to be
+confiscated and destroyed.
+   (B)   All fines shall be paid within ten days of the issuance of the
+citation or a late fee of $15 per day shall be applied. If the violation is not
+resolved, and all penalties are not paid within 30 days of the issuance of the
+citation, a lien may be placed against the property.
+(Prior Code, § 23.2)
+TITLE XV: LAND USAGE
+   Chapter
+      
+150.   BUILDING REGULATIONS; CONSTRUCTION
+      
+151.   STREETS, SIDEWALKS AND DRIVEWAYS
+      
+152.   TREES
+      
+153.   SIGNS
+      
+154.   TEMPORARY STRUCTURES AND CONTAINERS
+CHAPTER 150:  BUILDING REGULATIONS; CONSTRUCTION
+Section
+   
+150.01   Structural alterations; construction
+   
+150.02   Driveways and landscaping; drainage
+   
+150.03   Easements
+   
+150.04   Fences
+   
+150.05   House numbering
+ 
+   
+150.99   Penalty
+§ 150.01  STRUCTURAL ALTERATIONS; CONSTRUCTION.
+   (A)   It shall be unlawful for any person, firm, partnership and/or
+corporation to construct, alter, change, erect or in any manner structurally
+change any building or structure or improvement upon the land in the corporate
+limits of the city without first seeking the approval and obtaining a permit
+from the City Commission. Before seeking approval, the applicant must submit an
+outline of the plans, specifications and proposals.
+(Prior Code, § 4.1)
+   (B)   Before a building permit is issued for the improvement of any property
+within the city limits, it shall be the duty of any person, firm, partnership
+and/or corporation so constructing or erecting any such improvement and/or
+repairs to deposit with the City Clerk the sum of $1,000 as bond to be held in
+escrow for said depositor for the purpose of indemnifying the city for any
+damage occasioned during the construction of said improvements or structural
+alterations to any property owned by the city, including sidewalks, lighting
+equipment, conduit standards, roads or any other property of the city or upon
+which it is the duty of the city to maintain.
+(Prior Code, § 4.2)
+   (C)   It is expressly provided that prior to the use of any money so
+deposited, the depositor shall be notified by first class mail to his or her
+last known address of the intention of the city to utilize the funds. The city
+may elect to repair, replace or construct any damage for the deposit made by
+said depositor. Upon the satisfactory completion of the work, the city shall
+properly adjust said deposit and return any remainder to the depositor.
+(Prior Code, § 4.3)
+Penalty, see §
+150.99
+§ 150.02  DRIVEWAYS AND LANDSCAPING; DRAINAGE.
+   (A)   Any person constructing a new driveway or landscape of an area, or
+replacing an existing one, within ten feet of the street must have the approval
+of the Commission of the city.
+(Prior Code, § 7.1)
+   (B)   All driveway approaches and landscape areas within ten feet of the
+street must be installed according to the city code and must not interfere with
+the city’s drainage. The driveway approach must be below the drainage point or
+have a pipe installed underneath it.
+(Prior Code, § 7.2)
+Penalty, see §
+150.99
+§ 150.03  EASEMENTS.
+   (A)   It is the duty of the property owner to maintain the front landscape
+easement area and utility easements behind and abutting his or her respective
+properties in a safe and acceptable condition.
+(Prior Code, § 8.1)
+   (B)   (1)   Front easements/rights-of-way must be kept mowed and otherwise
+maintained by the property owner.
+      (2)   Plantings shall not exceed 30 inches in height from grade of yard
+at sidewalk level.
+      (3)   In addition, the area shall be kept free of debris and other
+objects so as to not impede drainage.
+(Prior Code, § 8.2)
+   (C)   Utility easements behind properties in the city are the responsibility
+of the adjoining property owner and must be kept mowed and free of any rubbish
+(including tree/shrub cuttings and other yard waste).
+(Prior Code, § 8.3)
+Penalty, see §
+150.99
+§ 150.04  FENCES.
+   (A)   (1)   A FENCE is any enclosure constructed of wood, metal, wire mesh,
+masonry or any other material, including shrubbery and plantings, erected for
+the purpose of privacy and or protection.
+      (2)   Any person erecting, building and/or constructing a fence within
+the city limits shall be required to provide a plan, specifications and/or
+proposal concerning said fence to the City Commission and receive its approval
+before the erecting, building and/or constructing any such structure.
+(Prior Code, § 9.1)
+   (B)   (1)   No fence is permitted in front of a residence.
+      (2)   Residences on corner lots or on lots where the side and/or back of
+the property fronts on a street shall not have fence above four feet high and
+said fence must remain five feet from the street or sidewalk.
+(Prior Code, § 9.2)
+   (C)   In addition to the requirements as set out in division (B) above, any
+proposed fencing must meet the standards and all other requirements imposed by
+the city (i.e., a maximum of six feet for side and rear yards, and made of
+solid materials).
+(Prior Code, § 9.3)
+Penalty, see §
+150.99
+§ 150.05  HOUSE NUMBERING.
+   (A)   In order to have adequate and prompt fire, police and emergency
+medical service protection to the residents of the city, it is necessary for
+such personnel to readily identify house numbers at all times during the day
+and night, and the city encourages its residents to place their residential
+addresses in a conspicuous place, which is clearly visible from the street, and
+kept free and clear of any obstructions hindering visibility from the street
+passing in front of the residence.
+   (B)   Further, for visibility purposes, the numbers should be in standard
+Arabic form of size of at least three inches by two inches and in a color
+distinguishable from the background and color of the residence.
+(Prior Code, § 10.1)
+§ 150.99  PENALTY.
+   (A)   Any person violating any provision of this chapter for which no
+specific penalty is prescribed shall be subject to §
+10.99 of this code of ordinances.
+   (B)   (1)   Violation of §
+150.01 of this chapter shall constitute a violation and be punishable by a fine
+of $250 and/or the issuance of a stop work order and/or the removal of the
+offending structure.
+(Prior Code, § 4.4)
+      (2)   All fines shall be paid within ten days of the issuance of the
+citation or a late fee of $15 per day shall be applied. If the violation is not
+resolved and all penalties are not paid within 30 days of the issuance of the
+citation, a lien may be placed against the property.
+(Prior Code, § 4.5)
+   (C)   (1)   Violations of §
+150.02 of this chapter will result in the correction (at the property owner’s
+expense) of the driveway approach or landscape area. Failure to comply with §
+150.02 of this chapter shall constitute a violation and shall result in a fine
+of $100 per day.
+(Prior Code, § 7.3)
+      (2)   All fines shall be paid within ten days of the issuance of the
+citation or a late fee of $15 per day shall be applied. If the violation is not
+resolved and all penalties are not paid within 30 days of the issuance of the
+citation, a lien may be placed against the property.
+(Prior Code, § 7.4)
+   (D)   (1)   A violation of §
+150.03 of this chapter shall be punishable by a fine in the amount of $50 per
+offense. In addition, the Commission may elect, upon proper notice to the
+homeowner, to remedy the violation and to place a lien against the property.
+(Prior Code, § 8.3)
+      (2)   All fines shall be paid within ten days of the issuance of the
+citation or a late fee of $15 per day shall be applied. If the violation is not
+resolved and all penalties are not paid within 30 days of the issuance of the
+citation, a lien may be placed against the property.
+(Prior Code, § 8.4)
+   (E)   (1)   Failure to comply with §
+150.04 of this chapter shall constitute a violation and be punishable by a fine
+of $250 and/or removal of the offending structure.
+(Prior Code, § 9.3)
+      (2)   All fines shall be paid within ten days of the issuance of the
+citation or a late fee of $15 per day shall be applied. If the violation is not
+resolved and all penalties are not paid within 30 days of the issuance of the
+citation, a lien may be placed against the property.
+(Prior Code, § 9.4)
+CHAPTER 151:  STREETS, SIDEWALKS AND DRIVEWAYS
+Section
+Sidewalks
+   
+151.01   General maintenance
+   
+151.02   Cost
+   
+151.03   Criteria for repair, replacement
+   
+151.04   Notification to property owner
+SIDEWALKS
+§ 151.01  GENERAL MAINTENANCE.
+   General maintenance of sidewalks is the duty of the owner of the property
+abutting the sidewalk.
+(Prior Code, § 15.1)
+§ 151.02  COST.
+   The cost of any qualifying sidewalk repair and/or replacement shall be
+shared between the city and the property owner: each party responsible for 50%
+of the repair/replacement costs.
+(Prior Code, § 15.2)
+§ 151.03  CRITERIA FOR REPAIR, REPLACEMENT.
+   (A)   A sidewalk will be deemed to be in need of repair and/or replacement,
+if the city, by and through the Commissioner in charge of sidewalks, determines
+such repair/replacement is needed, under the following rating scale:
+      (1)   Rating Scale 1 through 5:
+         (a)   Sidewalk is rough, uneven, holds water, cracked, no grade
+difference: 1;
+         (b)   Less than one inch of grade difference: 2;
+         (c)   Between one and two inches of grade difference: 3;
+         (d)   Between two and three inches of grade difference: 4; and
+         (e)   Over three inches of grade difference and/or contains serious
+defects: 5.
+      (2)   Other considerations to be considered in the discretion of the City
+Commission:
+         (a)   The location of the sidewalk; and
+         (b)   Whether a tree (or its roots) is involved.
+(Prior Code, § 15.3)
+   (B)   If the sidewalk is rated 3 through 5, it will be repaired and/or
+replaced as a sole responsibility of the city. If the rating is 1 or 2, the
+homeowner shall pay 100% any repair/replacement.
+(Prior Code, § 15.4)
+§ 151.04  NOTIFICATION TO PROPERTY OWNER.
+   Once the defects are ascertained, it shall be the duty of the city to notify
+the property owner that repair/replacement is suggested.
+(Prior Code, § 15.5)
+CHAPTER 152:  TREES
+Section
+   
+152.01   Cost; payment for removal
+   
+152.02   Prior approval required
+   
+152.03   Purchasing, planting new trees
+   
+152.04   Shade, ornamental trees
+ 
+   
+152.99   Penalty
+§ 152.01  COST; PAYMENT FOR REMOVAL.
+   (A)   (1)   The city shall pay 50% of the cost for the removal of any tree,
+including the stump, that is located in the front easement and/or right-of-way
+and has been declared dead, dying and/or hazardous by the City Commission after
+consultation with a qualified arborist.
+      (2)   The property owner shall be responsible for payment of the
+remaining 50%.
+(Prior Code, § 20.1)
+   (B)   (1)   The city will pay for the partial removal of any tree that due
+to a storm or other natural condition has blocked a public roadway or sidewalk.
+      (2)   This obligation shall extend only to the clearing of the public
+roadway or sidewalk and the remainder of the removal cost shall be borne by the
+homeowner.
+(Prior Code, § 20.2)
+§ 152.02  PRIOR APPROVAL REQUIRED.
+   Except as stated in §
+152.01 of this chapter, it shall be unlawful for any person, firm, partnership
+or corporation to remove any tree(s) from the easement or right-of-way in the
+city without the prior approval of the City Commission.
+(Prior Code, § 20.3)  Penalty, see §
+152.99
+§ 152.03  PURCHASING, PLANTING NEW TREES.
+   The city shall pay up to $150 toward the purchasing and planting of a wide
+range of hardwood trees planted within 15 feet of the street, but not closer
+than ten feet of the street or a driveway. Approved tree species include black
+maple, sugar maple, beech, blue ash, ginkgo, white oak and others. A person
+shall contact City Clerk or Mayor for approval.
+(Prior Code, § 20.4)
+§ 152.04  SHADE, ORNAMENTAL TREES.
+   (A)   It shall be unlawful for any person to cut, damage or remove any shade
+or ornamental tree on any of the public ways of the city without having first
+secured a permit to do so from the City Commission. (See tree removal request
+application.)
+(Prior Code, § 24.1)
+   (B)   It is the responsibility of the homeowner to maintain any tree or
+shrub on his or her property. If the tree is covered with ivy or any other
+potentially hazardous vine, then it is the responsibility of the homeowner to
+have the vine removed from the tree, as it will eventually kill the tree.
+(Prior Code, § 24.2)
+Penalty, see §
+152.99
+§ 152.99  PENALTY.
+   (A)   Any person violating any provision of this chapter for which no
+specific penalty is prescribed shall be subject to §
+10.99 of this code of ordinances.
+   (B)   (1)   The violation of §
+152.02 of this chapter will result in a fine of $250 for each offense.
+(Prior Code, § 20.3)
+      (2)   All fines shall be paid within ten days of the issuance of the
+citation or a late fee of $15 per day shall be applied. If the violation is not
+resolved and all penalties are not paid within 30 days of the issuance of the
+citation, a lien may be placed against the property.
+(Prior Code, § 20.5)
+   (C)   All fines for violation of §
+152.04 of this chapter shall be paid within ten days of the issuance of the
+citation or a late fee of $15 per day shall be applied. If the violation is not
+resolved and all penalties are not paid within 30 days of the issuance of the
+citation, a lien may be placed against the property.
+(Prior Code, § 24.3)
+CHAPTER 153:  SIGNS
+Section
+   
+153.01   Damage or destruction of signs
+   
+153.02   Affixing signs to property
+   
+153.03   Commercial signage
+ 
+   
+153.99   Penalty
+§ 153.01  DAMAGE OR DESTRUCTION OF SIGNS.
+   It shall be unlawful for any person to damage, deface and/or destroy any
+sign or other property belonging to the city.
+(Prior Code, § 16.1)  Penalty, see §
+153.99
+§ 153.02  AFFIXING SIGNS TO PROPERTY.
+   (A)   No sign of any type, including yard, political and/or lost animal
+signs shall be affixed to any property owned, operated and/or controlled by the
+city, including traffic signs, street signs, light posts and easements.
+(Prior Code, § 16.2)
+   (B)   No real estate signage of any type relating to the sale of real estate
+within the city shall be placed on any property owned, operated and/or
+controlled by the city including the entrances to the city or any traffic
+island bordering the entrances to the city.
+(Prior Code, § 16.3)
+Penalty, see §
+153.99
+§ 153.03  COMMERCIAL SIGNAGE.
+   No commercial signage of any type shall be erected or placed within the city
+limits. Exception: temporary commercial signage relating to business being
+conducted within the city limits shall be allowable for a 30-day period;
+provided, the signage is no larger than 24 x 24 and is removed immediately once
+the business being conducted within the city is completed.
+(Prior Code, § 16.4)  Penalty, see §
+153.99
+§ 153.99  PENALTY.
+   (A)   Any person violating any provision of this chapter for which no
+specific penalty is prescribed shall be subject to §
+10.99 of this code of ordinances.
+   (B)   All fines shall be paid within ten days of the issuance of the
+citation or a late fee of $15 per day shall be applied. If the violation is not
+resolved and all penalties are not paid within 30 days of the issuance of the
+citation, a lien may be placed against the property.
+(Prior Code, § 16.5)
+   (C)   The violation of §
+153.01 of this chapter shall constitute a misdemeanor which carries a fine of
+up to $500, including court costs, and 12 months’ imprisonment.
+(Prior Code, § 16.1)
+   (D)   (1)   The violation of §
+153.02(A) of this chapter shall constitute a violation and be punishable by a
+fine in the amount of $50.
+(Prior Code, § 16.2)
+      (2)   Any violation of §
+153.02(B) of this chapter shall constitute a violation and shall be punishable
+by a fine in the amount of $50. In addition, the violation of §
+153.02(B) of this chapter will result in confiscation of the sign in question
+by the city.
+(Prior Code, § 16.3)
+   (E)   The violation of §
+153.03 of this chapter shall constitute a violation and be punishable by a fine
+in the amount of $50. In addition, the violation of §
+153.03 of this chapter will result in confiscation of the sign in question by
+the city.
+(Prior Code, § 16.4)
+CHAPTER 154:  TEMPORARY STRUCTURES AND CONTAINERS
+Section
+   
+154.01   Placement; time limit
+ 
+   
+154.99   Penalty
+§ 154.01  PLACEMENT; TIME LIMIT.
+   It shall be unlawful to place or allow to be placed any portable on demand
+storage container (PODS), dumpster or temporary construction structure,
+including portable toilets, within 25 feet of the street, or within the city
+limits for more than 30 days without the written approval of the City Clerk.
+(Prior Code, § 21.1)  Penalty, see §
+154.99
+§ 154.99  PENALTY.
+   (A)   (1)   Violation of §
+154.01 of this chapter by any person, corporation or other entity shall
+constitute a violation and be punishable by a fine in the amount of $100 per
+day until such structure is removed. Each day that the violator remains in
+violation shall constitute a separate offense.
+      (2)   Fines issued in violation of §
+154.01 of this chapter shall be paid within ten days of the issuance of the
+citation or a late fee of $25 shall be applied.
+(Prior Code, § 21.1)
+   (B)   All fines shall be paid within ten days of the issuance of the
+citation or a late fee of $15 per day shall be applied. If the violation is not
+resolved and all penalties are not paid within 30 days of the issuance of the
+citation, a lien may be placed against the property.
+(Prior Code, § 21.2)
+PARALLEL REFERENCES
+References to Kentucky Revised Statutes
+References to Prior Code
+REFERENCES TO KENTUCKY REVISED STATUTES
+KRS Cites Code Section
+KRS Cites        Code Section
+2.110            30.01
+18a              70.99
+61               30.03
+61.805 to 61.884 30.02
+83A              30.03
+83A.010(3)       10.02
+83A.010(6)       10.02
+83A.010(8)       10.02
+83A.065          10.99
+91A.010(4)       10.02
+91A.010(8)       10.02
+446.010(1)       10.02
+446.010(2)       10.02
+446.010(9)       10.02
+446.010(10)      10.02
+446.010(12)      10.02
+446.010(13)      10.02
+446.010(14)      10.02
+446.010(15)      10.02
+446.010(17)      10.02
+446.010(18)      10.02
+446.010(23)      10.02
+446.010(25)      10.02
+446.010(26)      10.02
+446.010(27)      10.02
+446.010(28)      10.02
+446.010(30)      10.02
+446.010(31)      10.02
+446.010(33)      10.02
+446.010(37)      10.02
+446.010(39)      10.02
+446.010(43)      10.02
+446.010(46)      10.02
+446.010(47)      10.02
+446.010(49)      10.02
+446.010(55)      10.02
+446.020(1)       10.03
+446.020(2)       10.03
+446.030          10.04
+446.050          10.05
+446.060          10.06
+446.080(1)       10.03
+446.080(3)       10.03
+446.080(4)       10.03
+446.090          10.07
+446.100          10.08
+446.110          10.09
+446.140          10.01
+534.040(2)(c)    10.99
+                 
+ 
+REFERENCES TO PRIOR CODE
+Prior Code 2020 Code
+Prior Code 2020 Code
+1.1.1      11.01
+1.2.5.1.3  10.19
+1.2.5.4    10.20
+1.2.1      30.01
+1.2.2      30.02
+1.2.3      30.03
+1.2.4      30.04
+1.2.5.6.1  30.15
+1.2.5.6.2  30.16
+1.2.5.6.3  30.17
+1.3.1      31.15
+1.3.2      31.16
+1.3.3      31.17
+1.3.4      31.01
+1.3.5      31.18
+1.3.6      31.02
+2.1        33.01
+2.2        33.01
+3.1        70.01;
+           70.99
+3.2        70.01;
+           70.99
+3.3        70.01;
+           70.99
+3.4        70.99
+4.1        150.01
+4.2        150.01
+4.3        150.01
+4.4        150.99
+4.5        150.99
+5.1        90.01
+5.2        90.01
+5.3        90.01;
+           90.99
+5.4        90.99
+6.1        90.02
+6.2        90.02
+6.3        90.02
+6.4        90.02
+6.5        90.02
+6.6        90.02
+6.7        90.02;
+           90.99
+6.8        90.99
+7.1        150.02
+7.2        150.02
+7.3        150.99
+7.4        150.99
+8.1        150.03
+8.2        150.03
+8.3        150.03;
+           150.99
+8.4        150.99
+9.1        150.04
+9.2        150.04
+9.3        150.04;
+           150.99
+9.4        150.99
+10.1       150.05
+12.1       91.01
+12.2       91.02
+12.3       91.03;
+           91.99
+12.4       91.99
+13.1       70.15;
+           70.99
+13.2       70.15;
+           70.99
+13.3       70.15;
+           70.99
+13.4       70.15;
+           70.99
+13.5       70.16
+13.6       70.99
+14.1       71.01
+14.2       71.02
+14.3       71.03
+14.4       71.03;
+           71.99
+14.5       71.99
+15.1       151.01
+15.2       151.02
+15.3       151.03
+15.4       151.03
+15.5       151.04
+16.1       153.01;
+           153.99
+16.2       153.02;
+           153.99
+16.3       153.02;
+           153.99
+16.4       153.03;
+           153.99
+16.5       153.99
+17.1       110.01
+17.2       110.99
+18.1       70.02;
+           70.99
+18.2       70.02;
+           70.99
+18.3       70.02;
+           70.99
+18.4       70.99
+19.1       33.02
+20.1       152.01
+20.2       152.01
+20.3       152.02;
+           152.99
+20.4       152.03
+20.5       152.99
+21.1       154.01;
+           154.99
+21.2       154.99
+23.1       130.01
+23.2       130.99
+24.1       152.04
+24.2       152.04
+24.3       152.99
+           
+ 
