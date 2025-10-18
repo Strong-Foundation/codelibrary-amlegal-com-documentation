@@ -12,7 +12,7 @@ const BROWSER_NAVIGATION_TIMEOUT_MS = 60000; // 60 seconds timeout for all navig
 const ASSET_OUTPUT_BASE_DIRECTORY = "assets"; // Base directory where all downloaded files will be saved
 const EXPORT_FILE_EXTENSION = ".txt"; // The desired file extension for the final downloaded code
 const VERSION_FILE_SUFFIX = "-1"; // Suffix used in the expected filename (e.g., 'sandpoint-ak-1.txt')
-const CHECK_IF_FILE_EXISTS = true; // Flag to enable/disable checking for existing files before processing a client
+const CHECK_IF_FILE_EXISTS = false; // Flag to enable/disable checking for existing files before processing a client
 
 // API Domain and Endpoints
 const API_BASE_DOMAIN = "https://codelibrary.amlegal.com"; // Base domain for API requests (client/region data)
