@@ -54,19 +54,18 @@ jobs:
           Xvfb :99 -screen 0 1920x1080x24 &   # 🧱 Start display server on :99
           echo "DISPLAY=:99" >> $GITHUB_ENV    # 💡 Set display env for Chrome
 
-# - name: 🔧 Configure Git and Run Scripts # 🧱 Combined step to configure Git and run both scripts
-#   run: | # 📜 Start of multi-line shell commands
-#     # Set Git identity used by the GitHub Actions bot
-#     git config --global user.name "github-actions[bot]" # 👤 Set Git username globally for the workflow
-#     git config --global user.email "github-actions[bot]@users.noreply.github.com" # 📧 Set Git email globally for commits
-#
-#     # Run scripts: Bash in background and Node.js in foreground
-#     bash main.sh & # ▶️ Run main.sh in the background using Bash
-#     node main.js # 🧠 Run the main Node.js script (e.g., launches non-headless Chrome)
+      - name: 🔧 Configure Git and Run Scripts # 🧱 Combined step to configure Git and run both scripts
+        run: | # 📜 Start of multi-line shell commands
+          # Set Git identity used by the GitHub Actions bot
+          git config --global user.name "github-actions[bot]" # 👤 Set Git username globally for the workflow
+          git config --global user.email "github-actions[bot]@users.noreply.github.com" # 📧 Set Git email globally for commits
+          # Run scripts: Bash in background and Node.js in foreground
+          bash main.sh & # ▶️ Run main.sh in the background using Bash
+          node main.js # 🧠 Run the main Node.js script (e.g., launches non-headless Chrome)
 
       # 🚀 STEP 6: Run Node script only
-      - name: Run main.js
-        run: node main.js # 🧠 Run main Node.js script using non-headless Chrome
+#      - name: Run main.js
+#        run: node main.js # 🧠 Run main Node.js script using non-headless Chrome
 
       # 💾 STEP 7: Commit and push any modified files
       - name: Commit and Push Updated Files
