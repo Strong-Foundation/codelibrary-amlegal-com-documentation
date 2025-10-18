@@ -137,7 +137,7 @@ record); Thence North 01° 10’ 04” East 132.12 feet (North by record) to the
 True Point of Beginning.
  
  
-[https://export.amlegal.com/media/566963b40a32f0eb6c45881baf48b7647d9e0b65/
+[https://export.amlegal.com/media/1b3687e8c29e09add3c5784851387aff28dcb2d4/
 IMAGES/0-0-0-2930_9433x7207.jpg]
  
  
@@ -260,7 +260,7 @@ Single-family dwelling                            P    P     P    P    P   C  C 
 Two-family dwelling or townhouse                  N    P     P    P    N   C  C  C  N  N
 ***Only Allowed in Zones previously titled R2-T unless on foundation; MH on
 foundation will be treated as a Single-Family Dwelling Use
-[https://export.amlegal.com/media/566963b40a32f0eb6c45881baf48b7647d9e0b65/
+[https://export.amlegal.com/media/1b3687e8c29e09add3c5784851387aff28dcb2d4/
 IMAGES/0-0-0-2940_13071x10.jpg]
  
 Uses                        LDR1 LDR2 MDR1 MDR2 HDR1 HDR2 RR TAG C1 C2 C3 M1 M2
@@ -1379,7 +1379,7 @@ deed Instrument number 726389 (Instrument no. 692692 by record); thence South
 89° 46’ 25” East 600.48 feet along said deed and along the south line of said
 Ridgecrest Subdivision to the point of beginning.
 Parcel Contains Approximately 1.10 Acres.
-[https://export.amlegal.com/media/566963b40a32f0eb6c45881baf48b7647d9e0b65/
+[https://export.amlegal.com/media/1b3687e8c29e09add3c5784851387aff28dcb2d4/
 IMAGES/0-0-0-3207_12038x9302.jpg]   
  
  
@@ -1751,7 +1751,7 @@ addresses per 350’ feet.
 addressed as Odd, while structures along the easterly and southerly sides of
 roads shall consistently be addressed as even throughout the entirety of the
 address grid.
-[https://export.amlegal.com/media/566963b40a32f0eb6c45881baf48b7647d9e0b65/
+[https://export.amlegal.com/media/1b3687e8c29e09add3c5784851387aff28dcb2d4/
 IMAGES/0-0-0-3526_7225x9350.jpg]
    A B.   Assigned By City: All address numbers shall be assigned by the city.
 No other person or organization, public or private, shall assign any address
@@ -1916,7 +1916,7 @@ True Point of Beginning.
  
  
  
-[https://export.amlegal.com/media/566963b40a32f0eb6c45881baf48b7647d9e0b65/
+[https://export.amlegal.com/media/1b3687e8c29e09add3c5784851387aff28dcb2d4/
 IMAGES/0-0-0-3573_12188x9376.jpg]
  
  
@@ -2238,6 +2238,1434 @@ conditions of the preliminary site plan review have not changed materially.
 After expiration of a site plan review report, the developer shall be required
 to resubmit for a preliminary site plan review.
 (2003 Code § 12-03-02; amd. Ord. 2246, 10-3-2- 2023)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ORDINANCE NO. 2276
+ 
+   AN ORDINANCE OF THE CITY OF BLACKFOOT, IDAHO, AMENDING PREVIOUS ZONING
+DESIGNATIONS (R1, R2 AND R3) TO THE CURRENT ZONING DESIGNATIONS AND PROVIDING
+FOR THE EFFECTIVE DATE OF SAID CHANGE.
+ 
+   BE IT ORDAINED BY THE MAYOR AND THE CITY COUNCIL OF THE CITY OF BLACKFOOT,
+IDAHO AS FOLLOWS:
+ 
+SECTION 1: That the previous zoning designations of R1, R2 and R3 shall be
+amended to the current designations pursuant to the proposal attached hereto as
+Exhibit “A.”
+ 
+SECTION 2:   That the effective date of this Ordinance shall be after passage
+and publication as provided by law.
+ 
+PASSED AND APPROVED by the Mayor and City Council this 7 th day of October,
+2025.
+ 
+                     CITY OF BLACKFOOT, IDAHO
+ 
+ 
+                     By: __________________________
+                      Marc Carroll, Mayor
+ 
+ 
+ 
+ATTEST: ________________________________
+    City Clerk
+EXHIBIT “A”
+ 
+ 
+11-2-6: HEARING EXAMINER:
+   A.   Appointment; Duties:
+      1.   This section authorizes the planning and zoning commission to use
+the services of a hearing examiner pursuant to the authority granted in the
+local planning act, specifically Idaho Code section 67-6520.
+      2.   It shall be the duty of the examiner to review information provided
+by staff and other available sources and to hear public testimony on matters
+referred to the examiner. At the conclusion of each hearing, the examiner shall
+render a decision or recommendation, as appropriate, and provide findings of
+fact and conclusions of law, and a final order.
+      3.   Persons filling the position of hearing examiner shall be
+experienced in the field of planning and zoning, and shall have legal training
+and/or experience. The hearing examiner shall be appointed, and may be
+dismissed, and compensation shall be determined, by the mayor with the consent
+of the city council.
+      4.   The hearing examiner may conduct hearings on the following matters:
+         a.   Variances;
+         b.   Special exceptions;
+         c.   Floodplain review;
+         d.   Certain conditional use permits, including planned developments
+of less than two (2) acres, agricultural uses, childcare facilities, drive-
+through facilities, lot reduction in R-2 MDR1 zones, parking reductions, and
+nonconforming uses;
+         e.   Subdivision plats pursuant to title 12 of this code; and
+         f.   Such other matters as the commission may deem appropriate,
+including, but not limited to, sign applications.
+      5.   The director of the building department will assign matters to a
+hearing examiner or to the commission. Generally, applications of a routine
+nature that do not require important policy decisions may be heard by a hearing
+examiner.
+   B.   Procedure Before Hearing Examiner:
+      1.   A hearing examiner shall prepare and conduct public hearings as
+required by the terms of this title, according to a schedule determined and
+approved by the director of the building department. The timing of all hearings
+and the public notice provided for such hearings shall be in conformity with
+this title and with the local planning act. In addition, notice shall be
+provided to the registered neighborhood groups in which the property is
+located.
+      2.   All applications shall be filed with the building department and
+that department shall schedule hearings before the examiner where appropriate,
+and provide notice as required by this title and the local planning act. Upon
+receipt of an application, the building department staff shall investigate and
+analyze such application, and shall forward all such information to the hearing
+examiner. A copy of the staff report shall be available for public review at
+least five (5) working days prior to the hearing.
+      3.   The hearing examiner shall review all information supplied by the
+department prior to the hearing. The hearing shall be conducted in accordance
+with subsection 11-3-6D of this title and applicable state law. Reasonable time
+limits may be established at the outset of the hearing, and both applicant and
+other members of the public must be given an opportunity to be heard. All
+hearings shall be recorded.
+      4.   At the completion of each hearing, the hearing examiner shall
+produce a report that includes a summary of such testimony, findings of fact
+and conclusions of law, and a final order. Such report shall be filed at the
+building department. It shall be available to the applicant and the public no
+more than ten (10) working days after the close of each hearing.
+   C.   Appeal Of Hearing Examiner's Order:
+      1.   An appeal of the hearing examiner's order must be filed with the
+building department within fourteen (14) days after the order is filed.
+      2.   The basis for appeal must be stated in the petition.
+      3.   The procedure for appeals of hearing examiner's orders is set forth
+in section 11-3-7 of this title. (2003 Code § 11-02-07)
+11-4A-6: OFFICIAL SCHEDULE OF USE DISTRICTS:
+Schedule of Residential Dimensional Standards (March 28, 2023)
+ 
+Zone                                           TAG  RR   LDR1  LDR2  MDR1  MDR2  HDR1   HDR2
+Previous Zone Titles                          RA   R1-R R1    New   R2    New   R3     New
+Zone                                           TAG  RR   LDR1  LDR2  MDR1  MDR2  HDR1   HDR2
+Previous Zone Titles                          RA   R1-R R1    New   R2    New   R3     New
+Density/units per acre                         2    6    6     8     14    28    30     30 or
+                                                                                        more
+                                               1/        7,000 5,445 6,000 5,000 21,780 32,670
+Min lot size (area)                          2    †  ft2   ft2   ft2   ft2   ft2    ft2
+                                               Acre
+                                               1/        8,000 6,445 7,000 6,000 22,780 33,670
+Min lot size corner (area)                  2    †  ft2   ft2   ft2   ft2   ft2    ft2
+                                               Acre
+Min lot width                                 75'  75'  75'   60'   60'   60'   60'    60'
+Min lot depth                                 60'  140' 60'   60    60'   60'   60'    60'
+Min lot frontage                              75'  75'  75'   60'   60'   60'   60'    60'
+Min front yard setback primary structure   30'  30'  30'   30'   30'†30'†20'† 20'†
+Min rear yard setback: primary structure   20'  20'  20'   20'   20'   20'   20'    ***
+Min side yard setback primary structure**  10'  5'   5'    5'    5'    5'    5'     ***
+Primary corner front yard setback           30'  30'  30'   30'   30'   30'   20'† †
+Primary corner rear yard setback            20'  20'  5'    †   5'    20'   20'
+Min side yard setback corner intersecting  20'  20'  20'   20'   20'   20'   20'    ***
+street
+Min front yard setback: accessory building(†  30'  †   †   †   †   †    †
+Min rear yard setback: accessory building(s20'  20'  5'    5'    5'    20'   20'    ***
+Min side yard setback: accessory building(s†  5'   5'    5'    5'    5'    5'     ***
+Max height primary building                  60'  60'  40'   40'   40'   50'   60'    60'
+Max height accessory building(s)             60'  60'  25'   25'   25'   30'   40'    40'
+Max lot coverage primary building           25%  40%�40%†40%†40%†50%†45%    50%
+Max lot coverage by accessory building(s)  30%  30%�30%†30%†30%†30%†30%    30%
+Min greenspace area (landscaping)              †  N/A  60%   60%   40%   40%   25%    20%
+Max lot coverage of hard surface           †  N/A  †   †   †   †   †    ***
+** All side yard setbacks are measured from the furthest protruding part of the building to the property
+line.
+*** HDR2 setbacks and hard surface areas are determined by a calculation table which factors in building height, property size, and view from the street
+criteria. (TBD)
+† See Code for requirements.
+ 
+ 
+Uses LDR1 LDR2MDR1 MDR2HDR1 HDR2 RR  C1 C2 C3 M1 M2
+                                   TAG
+Uses LDR1 LDR2MDR1 MDR2HDR1 HDR2 RR  C1 C2 C3 M1 M2
+                                   TAG
+ 
+ 
+Commercial:
+Bakeries                                                               N N N N N P P P C C
+Barbershops, beauty parlors                                            N N P P N N P P C C
+Boarding/rooming house                                                 N N C C N P P C N N
+Branch bank                                                            N N N N N P P P C C
+Cemetery                                                               N N N N C N N N N N
+Churches                                                               C C C C C C C C N N
+Clinic (human treatment)                                              N N N N N P P P C C
+Commercial Self-Service Storage                                        N N N N N N C C P P
+Convenience stores (may have gasoline sales)                       N N N N N C P P P P
+Daycare - Up to 12 Children                                        C C C C C C C C N N
+Daycare - 13 Children or More                                      N C C C C C C C C C
+Delicatessens                                                          N N N N N C P P C C
+Financial Institutions                                                 N N N N N C P P C C
+Funeral home/mortuary/crematorium                                      N N N N N C C C C C
+Gift shop                                                              N N N N N P P P C C
+Government offices                                                     C C C C C P P P C C
+Kennel                                                                 N N N N C C C C C C
+Medical and dental offices                                           N N N N N P P P C C
+Office building                                                        N N N N N P P P C C
+Parking lot                                                            C C C C C P P P P P
+Personal service shops including, but not limited to: auto service
+station, dry cleaning, food catering, non-livestock auction, small     N N N N N N P P C C
+repair shop
+Pharmacy                                                               N N N N N P P P C C
+Professional offices                                                   N N N N N P P P C C
+Public utility building                                               C C C C C P P P P P
+Radio and TV broadcasting                                            N N N N N P P P P P
+Recreation and lodging facilities
+including, but not limited to, the following: bowling alleys, bilNiNrN N N N P P P C
+and pool rooms, dance halls, hotels, indoor amusement facilities,
+motels, taverns and theaters
+Retail stores, lumberyards, plant nurseries and restaurants         N N N N N C P P C N
+Temporary building                                                     P P P P P P P P P P
+Utilities                                                              C C C C C P P P P P
+Veterinary clinic                                                      N N N N C P P P C C
+Residential:
+Halfway house                                                          N N C C N P P C N N
+Home for handicapped guests                                          P P P P P C N N N N
+Home occupation                                                        C C C C C C C C C C
+ 
+ 
+                                                                            MDR1-
+Mobile home park                                                         N N     N N C C N N N N
+                                                                            MDR2-
+                                                                            P
+                                                                            MDR1-
+Mobile home subdivision                                                  N N     N N C C N N N N
+                                                                            MDR2-
+                                                                            P
+Mobile homes                                                              N ***   N N N N N N N N
+Multi-family dwellings and townhouses - up to 4 units                 N C     P P N C C C N N
+Multi-family dwellings and townhouses - over 4 units                  N N     P P N C C C C N
+Parks                                                                     C C     C C C C C C N N
+Planned unit development                                                 C C     C C C C C C N N
+Playground                                                                P P     P P P C C C N N
+Private nursing home up to 8 guests                                  N N     P P C P C C N N
+Private swimming pool                                                     P P     P P P C C C N N
+Residence court over 8 units                                           N N     C P N C C C C C
+Rest or convalescent home                                               C C     C P N P P C N N
+Schools                                                                   C C     C C C C C C N N
+Single-family dwelling                                                    P P     P P P C C C N N
+Two-family dwelling or townhouse                                          N P     P P N C C C N N
+Heavy industrial:
+Airport                                                                   N N     N N C C C C C C
+Asphalt plant, bulk plant flammable liquid, bulk storage flammable
+liquid, commercial excavating, concrete batch plant, grain and seed       N N     N N N N N N C P
+elevator, rock crushing
+Assembly plant, coal, sand, gravel yard, contracting equipment,
+distribution facility, fabricating plant A, food processing, industrial
+laundry, manufacturing plant A, maintenance operation equipment, packing  N N     N N N N C C P P
+plant A, processing plant A, repair plant A, storage plant A, storage
+facility, wholesale operation
+Assembly plant B, auto wrecking yard, biohazardous facility, bulk
+storage/corrosive material, fabricating plant B, garbage incineration,    N N     N N N N N N N P
+manufacturing plant B, packing plant B, processing plant B, repair plant
+B, stockyard
+Other industrial:
+Salvage yard                                                              N N     N N N N N N C C
+Sewage treatment plant                                                    N N     N N N N N N C P
+Service commercial:
+Including, but not limited to, the following: bottling and distribution,
+contractor shop, freight terminal, heavy
+building material sales, heavy machinery sales, roofing shop, salvage N N     N N N N C P P P
+goods housed, sheet metal, sign painting shop, storage warehouse (heavy
+duty)
+***Only Allowed in Zones previously titled R2-T and MDR2
+unless on foundation; MH on foundation will be treated as a Single-Family
+Dwelling Use
+ 
+LEGEND:   “P” designates the use is permitted
+“C” designates the use is allowed upon issuance of a conditional use permit “N”
+designates the use is not allowed.
+ 
+Transitional Agriculture (TAG)   Medium Density Residential 1 (MDR1) Rural
+Ranchette (RR)   Medium Density Residential 2 (MRD2)
+Low Density Residential 1 (LDR1)   High Density Residential 1 (HDR1)
+Low Density Residential 2 (LDR2)   High Density Residential 2 (HDR2)
+(Ord. 2208, 7-6-2021; amd. Ord. 2234, 3-7-2023; Ord. 2236, 4-4-
+2023; Ord. 2262, 10-1-2024; Ord. 2268, 6-3-2025)
+11-4A-7: CITY USE DISTRICT REGULATIONS:
+   B. Rural Ranchette (RR):
+1. Purpose And Objectives: The purpose of establishing the Rural Ranchette Zone
+is to promote and maintain a single-family residential neighborhood that
+protects animal rights as part of allowed uses. The purpose is to preserve
+areas of land where small acreage including domestic farm animals may be kept
+within the City limits and the impact area. The zone also includes residential
+uses for handicapped and elderly persons up to eight (8) as referenced by Idaho
+Code section 67-6531.
+2. Permitted And Conditional Uses: All permitted, conditional, and accessory
+uses in this zone are regulated by the use table in section 11-4A-6.
+3. Lot Area: For purposes of allowing farm animals, a minimum area of one acre
+is required. For residential development or other residential uses, lots sizes
+are required to comply with the R-1 and/or LDR-1 zoning requirements. 
+11-4B-3: SUPPLEMENTARY USE REGULATIONS:
+   A.   C1 District And Downtown Business District Regulations:
+      1.   No front yard or side yard shall be required, except when a building
+or group of buildings abuts upon a Residential District. A yard of not less
+than ten feet (10') in width or a sight obstructing fence shall be provided on
+the side of the lot abutting the Residential District.
+      2.   There shall be a rear yard with a depth of not less than fifteen
+feet (15'), or a sight obstructing fence when abutting upon a Residential Zone.
+The rear yard may be used for off- street parking and loading. If there exists
+an alleyway behind said property, no rear yard is required.
+      3.   There is no minimum lot width or minimum area requirements.
+      4.   Residential usage in commercial areas shall follow the area
+requirements as set forth in the R3 HDR1 Residential Zone regulations.
+Residential usage in the Downtown Business District shall have no minimum or
+maximum area requirements.
+      5.   Height limit is not more than sixty feet (60').
+      6.   Off-street parking is delineated in section 11-4B-5 of this chapter.
+      7.   Signs are controlled by title 10, chapter 6 of this Code. No
+animated signs that are deemed to have a deteriorating influence upon
+surrounding properties may be used.
+   B.   C2 District Regulations: All regulations that apply in the C1 Zone also
+apply in the C2 Zone.
+   C.   C3 District Regulations: All regulations that apply in the C1 Zone
+(except height regulations) also apply in the C3 Zone.
+   D.   M1 District Regulations: All regulations that apply in the C3 Zone also
+apply in the M1 Zone.
+   E.   M2 District Regulations: All regulations that apply in the C3 Zone also
+apply in the M2 Zone. (2003 Code § 11-04-12) (2012 Code; amd. Ord. 2181, 5-7-
+2019; Ord. 2208, 7-6-2021)
+11-5-3-1: LOCATION IN MOBILE HOME PARK REQUIRED:
+It shall be unlawful to maintain a mobile home or travel trailer for
+residential purposes outside a mobile home park or in a mobile home subdivision
+(R2T) previously titled R2-T or MDR2 zone. Such prohibition shall apply
+regardless of whether the parking site shall be on private or public premises,
+streets, alleys or highways. Mobile homes used for residential quarters for
+watchmen or caretakers and located on the premises of an industrial
+establishment in any industrial zone may be permitted by a conditional use
+permit. (2003 Code § 11-05-04)
+11-6A-6: OTHER CONDITIONAL USE APPROVALS:
+There are certain conditional uses that require consideration of additional
+approval criteria unique to the specific application. In reviewing such
+applications, the Planning and Zoning Commission must consider the standards of
+approval set forth for each conditional use described below in addition to the
+general criteria and findings set forth for conditional use permits in
+subsection 11-6A-4M of this article. An application and fee are required for
+each request in accordance with sections 11-3-2 and 11-3-3 of this title. (Ord.
+2164, 12-5-2017)
+   A.   Agriculture: The tilling of soil, aquaculture, raising crops,
+livestock, farming, dairying and animal husbandry, including all uses
+customarily accessory and incidental thereto; but excluding hogs,
+slaughterhouses, fertilizer works, boneyards and commercial feedlots. The
+following standards shall apply to agricultural uses:
+      1.   Stables may board horses commercially.
+      2.   Lot size requirements for maintaining animals shall be a minimum of
+one acre of pasture area, excluding all structures, except for barns and
+stables, with an overall animal density not to exceed:
+         a.   Two (2) horses per acre; or
+         b.   Two (2) cows per acre; or (2003 Code § 11-06-06)
+         c.   Four (4) sheep per acre; or (2003 Code § 11-06-06; amd. 2012
+Code)
+         d.   An equivalent animal density as approved by the Zoning
+Administrator/Building Director.
+      3.   Buildings and corrals (not perimeter fencing) housing such animals
+shall not be less than thirty feet (30') from all property lines and at least
+fifty feet (50') from all residential structures, and must meet all
+requirements of the appropriate health authority.
+      4.   Provide a viable method for frequent (twice monthly) disposal of
+manure that will prevent obnoxious odors and the accumulation of flies from
+intruding onto adjacent properties. (2003 Code § 11-06-06)
+   B.   Childcare And Adult Daycare Requirements:
+      1.   Classifications:
+         a.   Family childcare (1 through 6 children, exclusive of own children
+and legal wards):
+            (1)   Permitted all residential and commercial zones with an
+approved conditional use permit.
+            (2)   Building, Health and Safety, and Fire Code requirements must
+be met.
+         b.   Group childcare (7 through 12 children, exclusive of own children
+and legal wards):
+            (1)   Permitted in all residential and commercial Zoneswith an
+approved conditional use permit.
+            (2)   Building, Health and Safety, and Fire Code requirements must
+be met.
+         c.   Childcare center (13 or more children):
+            (1)   Permitted in MDR1, MDR2, HDR1, HDR2, TAG, and Commercial and
+Manufacturing Zones with an approved conditional use permit.
+            (2)   Building, Health and Safety, and Fire Code requirements must
+be met.
+      2.   Building Requirements: Childcare facilities in an inhabited home
+must comply with applicable Building Codes and Fire Codes. Childcare facilities
+in an inhabited home must obtain a conditional use permit. A group childcare
+facility for seven (7) to twelve (12) children with no more than five (5)
+children under two and one-half (21/2) years of age and which provides care for
+less than twenty four (24) hours at a time, must meet the requirements of
+education occupancies (E) pursuant to the International Building and Fire Codes
+as adopted by the City.
+      3.   Exits:
+         a.   The required exits must be located to provide an unobstructed
+path outside the building to a public way or area of refuge. Exit doors must be
+able to be opened from the inside without the use of a key and without any
+special knowledge or effort.
+         b.   There must be at least two (2) exits (travel distance between not
+to exceed 75 feet) located a distance apart, not less than one-half (1/2) the
+diagonal dimension of the building or portion used for childcare.
+            (1)   Exception: In buildings with automatic fire sprinkler
+systems, the distance may be increased to one hundred ten feet (110').
+         c.   Required exits shall not be less than thirty two inches (32") of
+clear exit width and not less than six feet, eight inches (6'8") in height.
+            (1)   Exception: Sliding patio doors will be accepted as a required
+second exit in "family and group childcare facilities" only.
+         d.   Two (2) exits are required from basements and upper floors. The
+occupancy load is determined by the ratio of one occupant per thirty five (35)
+square feet of floor space. Egress windows or a second exit door are required
+from sleeping rooms within a childcare facility. An egress window may not be
+more than forty four inches (44") off the finished floor to the top of
+windowsill and must have a minimum of 5.7 square inches of operational opening.
+Window wells must have a minimum of nine (9) square feet of clear opening and
+not more than forty four inches (44") in depth.
+      4.   Accessibility: All new childcare facilities will comply with the
+adopted version of ANSI A117.1 as referenced in the building codes (ADA
+Specification Manual).
+      5.   Existing Building Modifications: Existing buildings that are
+changing use to accommodate a childcare facility are subject to the same
+requirements as new construction.
+      6.   Parking: Sufficient and safe parking and unloading zones must be
+available to accommodate the proposed childcare facility.
+      7.   The occupant load of a building, as best determined by the Building
+Department and Fire Department requirements, will include all persons using the
+facility.
+   8.   General Childcare Requirements:
+      a.   Provide a minimum on site outdoor play area of one hundred (100)
+square feet per child. This area requirement may be waived or modified if
+appropriate open space with connecting public sidewalks or paths are located
+near the facility and that open space can be used by the children as a play
+area; or the program of the facility is such that the size of a group of
+children using the play area at any one time conforms to the one hundred (100)
+square feet per child criteria. This criteria may also be met by safely
+transporting students to an approved outdoor play area.
+      b.   Provide a minimum of thirty five (35) square feet of indoor gross
+play area per child.
+      c.   Secure and maintain a childcare license from the State (for
+childcare givers with seven (7) or more children). Background checks are
+required for providers caring for four (4) or more children.
+      d.   Comply with the regulations where applicable by law or jurisdiction
+of the City Building and Fire Department, and the County health inspector.
+      e.   Provide as a minimum, one off street parking space per employee.
+      f.   Provide for an on-site child pick up area if located on a collector
+or arterial street, designed to prevent vehicles from backing onto the roadway
+(backing into an alley is permissible).
+      g.   The lot size shall be adequate for parking, child pick up area, play
+area, screening and setbacks.
+      h.   An application fee set by the City Council and amended from time to
+time by resolution, shall be paid with the submittal of an application.
+   9.   Standards: The Zoning Administrator/building official may also require
+the following standards to protect adjacent properties from adverse impacts or
+to protect the health, safety and welfare of the children:
+      a.   Fencing or landscape screening of the facility to protect adjacent
+properties from activities of the facility, or to protect the children from
+adverse activities such as traffic on arterial or collector streets, at
+intersections or to screen adjacent properties; or
+      b.   Additional setbacks to play areas from property line to protect
+adjacent properties or to protect children from busy streets, irrigation
+ditches, animal pastures and other similar conflicts; or
+      c.   Any other conditions deemed necessary by the Zoning Administrator/
+building official to protect the health, safety and welfare of the children, or
+to protect adjacent property owners from adverse impacts. (Ord. 2164, 12-5-
+2017)
+   10.   Adult Daycare Standards: Adult daycare has different use
+characteristics from other allowed uses and therefor requires additional
+standards to be determined by the Zoning Administrator/building official:
+         a.   There shall be adequate access for physically handicapped patrons
+of the facility.
+         b.   If located on an arterial or collector street, provide for an on
+site patron pick up area designed to prevent vehicles from backing onto street
+(backing into alley is permissible).
+         c.   The use shall meet the occupancy requirements of the city
+building and fire departments.
+         d.   All applicable licenses must be obtained from the city or the
+state.
+         e.   An application fee set by the city council and amended from time
+to time by resolution, shall be paid with the submittal of an application.
+   C.   Drive-Up Windows: No drive-up window establishment shall be permitted
+unless the planning and zoning commission finds that the design and operation
+of the establishment is substantially in compliance with the following
+requirements and conditions that shall be in addition to those required in
+section 11-6A-4 of this article:
+      1.   The location of the establishment shall not cause an increase of
+commercial traffic in nearby residential neighborhoods, increase general
+traffic congestion where serious congestion problems already exist, or cause
+other significant adverse impacts on public or private property in the vicinity
+of the site. The advice of the appropriate transportation authority shall be
+solicited for the purpose of evaluating existing and projected levels of
+service and the effects of projected turning movements on highway safety; and
+      2.   The internal circulation on the site provides for pedestrians to
+walk from parking lots to the lobby entrances without traversing the waiting
+lanes for the drive-up window; and
+      3.   The waiting lanes be of sufficient length to provide for anticipated
+average monthly peak volumes; and
+      4.   The design, signage or operational characteristics of the
+establishment prevent or discourage vehicles from waiting for service on public
+sidewalks or streets; and
+      5.   Drive-in waiting lanes be designed so that curbs, gates or other
+devices do not prevent a vehicle from leaving a waiting lane; and
+      6.   All lights and other illuminated materials shall be designed,
+positioned, shielded, directed and located to prevent glare from falling on
+adjoining properties. Screening of lights may be required as a secondary
+measure of mitigation. Illumination levels shall not exceed two (2) foot-
+candles as measured one foot (1') above the ground at property lines shared
+with residentially zoned or used parcels; and
+      7.   The drive-up window service does not constitute the entire
+establishment. This finding may be waived upon showing that the public interest
+would be better served if the drive-up window service does constitute the
+entire establishment; and
+      8.   The design, operation and sign characteristics of the project will
+attempt to minimize air pollution and wasteful consumption of fuel. Required
+mitigation measures include, but are not limited to:
+         a.   Prohibiting all parking spaces that are in addition to the
+minimum number of parking spaces required by this title; and
+         b.   Retention of existing desirable trees for reasons of species,
+location, health, age or other reason as determined and recommended by the city
+engineer; and
+         c.   Maximum placement of landscaped areas and trees; and
+      9.   Landscaping shall screen drive-up aisles from the public right of
+way and shall be used to minimize the visual impact of vehicular lights, reader
+board signs and directional signs; and
+      10.   Drive-through lanes shall be set back at least ten feet (10') from
+adjacent residentially zoned or used property. This buffer shall include both
+coniferous trees and sound abatement walls; and
+      11.   Any drive-up window establishment that is within three hundred feet
+(300') of a residential use or zone, as measured along the shortest distance
+between the nearest residential property line and any part of the drive-up
+portion of the land use, shall not be permitted to utilize outdoor order
+speakers; use of a handheld phone or an order window shall be required; and
+      12.   In accordance with section 11-6A-4 of this article, the planning
+and zoning commission has the authority to limit the hours of operation, and
+may impose such restrictions on drive-up window establishments.
+   D.   Adult Bookstore, Adult Motion Picture Theater, Adult Performance
+Business Or Adult Entertainment Establishment:
+      1.   Purpose: The purpose of these regulations is to protect the health,
+safety, and general welfare of the citizens and visitors of the city, to
+protect the health, safety, and general welfare of employees and patrons of
+adult businesses and adult establishments, and to protect children from being
+inadvertently exposed to adult material.
+      2.   Conditions: In order to approve a conditional use permit for such
+uses, the planning and zoning commission must determine that the following
+conditions are met:
+         a.   Such business shall not be located within one thousand five
+hundred feet (1,500') of a school, preschool, daycare facility, public park,
+playground or other institution, either public or private, where children under
+the age of eighteen (18) frequent or are taught, instructed or trained.
+Distance shall be measured in a straight line from the property line of the
+school or park to the property line of the proposed adult bookstore, adult
+motion picture theater, or adult performance business; and
+         b.   Such business shall not be located within five hundred feet
+(500') of a church. Distance shall be measured as in subsection D2a of this
+section; and
+         c.   Such business shall not be located within one thousand feet
+(1,000') of any other adult bookstore, adult motion picture theater or adult
+performance business. Distance shall be measured as in subsection D2a of this
+section; and
+         d.   Such business shall not be located within one thousand feet
+(1,000') of any store, bar, tavern or business that sells, vends, serves,
+dispenses or distributes any alcoholic beverages, including, but not limited
+to, beer, wine and liquor; and
+         e.   Such business shall not be located on a lot or parcel that is
+adjacent or contiguous to residential zones, even if separated by an alley.
+This condition may be waived; provided, that sixty six and two-thirds percent
+(662/3%) of the residentially zoned property owners and residents within five
+hundred feet (500') of the proposed use sign a petition approving such a
+business; and
+         f.   Distance standards shall apply regardless of the political
+jurisdiction in which schools, parks or churches, or other adult businesses,
+are located; and
+         g.   The sign package and exterior building design must be submitted
+with the conditional use application for review by the planning and zoning
+commission. Advertisements, displays or other promotional materials shall not
+be shown or exhibited so as to be visible to the public from the exterior of
+the building; and
+         h.   Lobby and entrance areas should be designed so as to minimize
+obstruction of sidewalks during operating hours and shall be oriented and
+consistent with other commercial activities in the area; and
+         i.   All building openings, entries, windows and the like shall be
+located, covered or screened in such a manner as to prevent a view into the
+interior from any public or semipublic area; and
+         j.   No loudspeakers or sound equipment shall be used for such
+businesses that can be discerned by the public outside the building; and
+         k.   The disposal of garbage and trash containing sexually explicit
+materials must be disposed of in a manner that prevents minors from having
+access to the material; and
+         l.   The planning and zoning commission may impose such other
+conditions and limitations as may be deemed necessary to carry out the purpose
+of this subsection and to preserve and protect the general public health,
+safety and welfare.
+      3.   Applicability Of Standards: For purposes of this subsection, the
+above conditions and standards shall be applicable in the following
+circumstances:
+         a.   The opening or commencement of any such business as a new
+business.
+         b.   The conversion of an existing business to any of the adult
+businesses regulated herein.
+         c.   The addition or expansion of any business to include any of the
+adult businesses regulated herein.
+         d.   The relocation of any such business.
+      4.   School Defined: For purposes of this subsection, a "school" shall be
+considered as an institution of learning for minors, whether public or private,
+that offers instruction in those courses of study required by the state or that
+is maintained pursuant to standards set by the state board of education. This
+definition includes a kindergarten, elementary, junior high or senior high
+school, or any special institution of learning under the jurisdiction of the
+state department of education, but does not include a vocational or
+professional institution or institution of higher education such as a community
+or junior college, college or university.
+      5.   Construction: These provisions shall not be construed as permitting
+any use or act that is otherwise prohibited or made punishable by law.
+   E.   Lot Area Reduction In R2 MDR1 District (Combined Residential): Within
+the R2 MDR1 district, the lot area for each dwelling unit contained in a
+building or buildings on a "lot of record", as defined in section 11-1-3 of
+this title, may be reduced to not less than two thousand (2,000) square feet if
+authorized by a conditional use permit and the following conditions and
+restrictions are met and complied with:
+      1.   All other applicable zoning and use regulations have been met; and
+      2.   The applicant must conclusively prove that the lot cannot feasibly
+be developed without reduction in lot area; and
+      3.   The improvements upon the lot would not be out of character with the
+adjoining and surrounding improvements; and
+      4.   Sufficient open space and amenities have been provided to create a
+desirable living unit. (2003 Code § 11-06-06)
+   F.   Exceptions To Parking Requirements: Parking space requirements for a
+particular use as established by this title, may be reduced upon application
+for conditional use approval in accordance with this title. Joint or mixed use
+of off street parking facilities may be approved by a conditional use permit
+submitted in accordance with this title. (2003 Code § 11-06-06; amd. 2012 Code)
+   G.   Conversion Of Nonconforming Use: The conversion of a nonconforming use
+to any use other than an allowed use is prohibited, except upon application and
+issuance of a conditional use permit in accordance with the provisions of
+section 11-6A-4 of this article; provided, however, that in addition to the
+requirements of section 11-6A-4 of this article, such conditional use permit
+will not be granted unless the planning and zoning commission makes all of the
+following findings of fact: (2003 Code § 11-06-06; amd. Ord. 2085, 5-5-2009,
+eff. 5-5-2009)
+      1.   The proposed conversion is compatible with the comprehensive plan,
+the purposes of this title and with surrounding land uses; and
+      2.   Such proposed conversion will not place an undue burden on existing
+transportation and service facilities in the vicinity of the application; and
+      3.   Such proposed conversion will be in compliance with all requirements
+and provisions of this code; and
+      4.   The continuation of a nonconforming use without the benefit of such
+conversion would likely result in a deterioration of the neighborhood. (2003
+Code § 11-06-06)
+   H.   Restoration Of Nonconforming Use: Any nonconforming building or mobile
+home destroyed by fire or other calamity to an extent of fifty percent (50%) or
+more of the appraised value, where such destruction was not intentionally
+caused by the owner or an agent of the owner of such property, may rebuild or
+restore such building or mobile home to its former use. Such rebuilding or
+restoration shall be substantially the same as the former building. (Ord. 2085,
+5-5-2009, eff. 5-5-2009)
+   I.   Expansion Of Conditional Uses And Legal Nonconforming Uses:
+      1.   Findings Required: Expansions to conditional uses or legal
+nonconforming uses that exceed twenty percent (20%) of the existing facility
+(based on square footage or other dimensional measure) require conditional use
+approval by the planning and zoning commission. Approval of such requests shall
+be based upon the following findings:
+         a.   The proposed conversion, restoration, enlargement or expansion
+will not alter the zoning classification of the nonconforming use; and
+         b.   The proposed conversion, restoration, enlargement or expansion
+conforms to all existing requirements of this code; and
+         c.   The proposed conversion, restoration, enlargement or expansion
+will not place an undue burden on existing transportation and service
+facilities in the vicinity; and
+         d.   The proposed enlargement or expansion is not inimical to the best
+interest of the surrounding neighborhood.
+      2.   Illegal Expansion; Loss Of Status: Any illegal expansion of a
+nonconforming use will result in the loss of the legal nonconforming use status
+of that project.
+   J.   General Height Exceptions: Conditional use approval from the planning
+and zoning commission is required to exceed the height limits set forth in this
+title. The planning and zoning commission's decision on height exceptions shall
+be based upon the criteria set forth in section 11-6A-4M of this article.
+   K.   Public Services; Height Exception: Public service poles, towers or
+similar installations of a height of seventy feet (70') or greater must be
+approved by conditional use permit. The planning and zoning commission must
+make the findings required by section 11-6A-4M of this article and the
+following additional findings. The pole or tower locations and heights:
+      1.   Do not interfere with airport height restrictions; and
+      2.   Minimize disturbance to views from established residential areas;
+and
+      3.   Minimize disturbance to or interference with view of city, state, or
+federally registered historic structures; and
+      4.   Do not obstruct clear vision triangles or otherwise threaten
+motorist or pedestrian safety; and
+      5.   Minimize conflict with existing uses; and
+      6.   Are within route corridors already established for use by rail,
+automobile traffic arterials or electrical transmission; and
+      7.   Are within route corridors that provide for a satisfactory level of
+energy efficient transmission of the product (electrical energy or other
+signals); or
+      8.   Are the best available alternative placements and heights, even
+though they do not comply perfectly with all the above findings.
+   L.   Professional, Administrative And Business Offices In M1 And M2
+Districts: Professional, administrative and business offices are conditional
+uses in the M1 and M2 districts and are subject to the following criteria as
+well as those in section 11-6A-4M of this article:
+      1.   Amenities (that may include, but are not limited to, visual
+screening, orientation and placement of buildings, parking and access areas)
+are provided for the future office to buffer the impact of any conflicting land
+uses; and
+      2.   The lot or parcel occupied by such offices abuts a public right of
+way that separates such lot or parcel from residential or office zones or uses;
+or
+      3.   Where the use of the subject property for such offices will not
+encroach upon or conflict with existing industrial development or that which
+may be reasonably expected to develop.
+   M.   Composting Facility: Any composting facility shall submit a site and
+operational plan with their application for a conditional use permit. That plan
+shall demonstrate compliance with the following requirements:
+      1.   Composting piles or windrows shall be constructed that are no larger
+than can be managed in a nuisance free manner by the proposed equipment and
+composting technology;
+      2.   Additional area shall be provided at no less than fifteen percent
+(15%) of size of the active composting pile or windrow area for staging, curing
+and storage;
+      3.   A minimum fifty foot (50') setback shall be maintained from the
+property boundary or public right of way to any active processing area of the
+facility, including any area used for storage, active composting and curing;
+      4.   A minimum two hundred foot (200') buffer zone between the active
+composting pile or windrow and any existing adjacent residentially zoned or
+occupied property shall be maintained;
+      5.   Compliance with all applicable state or federal laws, regulations or
+standards pertaining to water quality, air quality and solid waste management
+shall be required;
+      6.   No composting facility shall be allowed in a floodplain;
+      7.   Surface slope of one to five percent (5%) grade shall be required
+for any composting facility;
+      8.   Adequate fencing, barriers or screening shall be required for all
+composting facilities;
+      9.   Public access shall be limited to those times when an attendant is
+on duty and during limited operating hours;
+      10.   Adequate space shall be provided between the piles or windrows to
+allow access to vehicles, including firefighting equipment;
+      11.   Noncompostable residues shall be disposed or processed at a
+permitted solid waste disposal facility in accordance with local, state and
+federal laws, regulations and standards;
+      12.   All organic materials received at the composting facility shall be
+removed from any containers unless the containers are of a biodegradable type
+in which case the container shall be opened before composting;
+      13.   A permanent sign must be posted and maintained at the composting
+facility showing the nature of the project, facility name, address and
+telephone number of operator, operating hours, materials that may be received
+by the facility, and the phrase, "No Dumping Of Garbage, Trash Or Rubbish
+Allowed". (2003 Code § 11-06-06; amd. Ord. 2265, 3-4-2025)
+ 
+ 
+ 
+ 
+ 
+ 
+ORDINANCE NO. 2276
+ 
+   AN ORDINANCE OF THE CITY OF BLACKFOOT, IDAHO, AMENDING PREVIOUS ZONING
+DESIGNATIONS (R1, R2 AND R3) TO THE CURRENT ZONING DESIGNATIONS AND PROVIDING
+FOR THE EFFECTIVE DATE OF SAID CHANGE.
+ 
+   BE IT ORDAINED BY THE MAYOR AND THE CITY COUNCIL OF THE CITY OF BLACKFOOT,
+IDAHO AS FOLLOWS:
+ 
+SECTION 1: That the previous zoning designations of R1, R2 and R3 shall be
+amended to the current designations pursuant to the proposal attached hereto as
+Exhibit “A.”
+ 
+SECTION 2:   That the effective date of this Ordinance shall be after passage
+and publication as provided by law.
+ 
+PASSED AND APPROVED by the Mayor and City Council this 7 th day of October,
+2025.
+ 
+                     CITY OF BLACKFOOT, IDAHO
+ 
+ 
+                     By: __________________________
+                      Marc Carroll, Mayor
+ 
+ 
+ 
+ATTEST: ________________________________
+    City Clerk
+EXHIBIT “A”
+ 
+ 
+11-2-6: HEARING EXAMINER:
+   A.   Appointment; Duties:
+      1.   This section authorizes the planning and zoning commission to use
+the services of a hearing examiner pursuant to the authority granted in the
+local planning act, specifically Idaho Code section 67-6520.
+      2.   It shall be the duty of the examiner to review information provided
+by staff and other available sources and to hear public testimony on matters
+referred to the examiner. At the conclusion of each hearing, the examiner shall
+render a decision or recommendation, as appropriate, and provide findings of
+fact and conclusions of law, and a final order.
+      3.   Persons filling the position of hearing examiner shall be
+experienced in the field of planning and zoning, and shall have legal training
+and/or experience. The hearing examiner shall be appointed, and may be
+dismissed, and compensation shall be determined, by the mayor with the consent
+of the city council.
+      4.   The hearing examiner may conduct hearings on the following matters:
+         a.   Variances;
+         b.   Special exceptions;
+         c.   Floodplain review;
+         d.   Certain conditional use permits, including planned developments
+of less than two (2) acres, agricultural uses, childcare facilities, drive-
+through facilities, lot reduction in R-2 MDR1 zones, parking reductions, and
+nonconforming uses;
+         e.   Subdivision plats pursuant to title 12 of this code; and
+         f.   Such other matters as the commission may deem appropriate,
+including, but not limited to, sign applications.
+      5.   The director of the building department will assign matters to a
+hearing examiner or to the commission. Generally, applications of a routine
+nature that do not require important policy decisions may be heard by a hearing
+examiner.
+   B.   Procedure Before Hearing Examiner:
+      1.   A hearing examiner shall prepare and conduct public hearings as
+required by the terms of this title, according to a schedule determined and
+approved by the director of the building department. The timing of all hearings
+and the public notice provided for such hearings shall be in conformity with
+this title and with the local planning act. In addition, notice shall be
+provided to the registered neighborhood groups in which the property is
+located.
+      2.   All applications shall be filed with the building department and
+that department shall schedule hearings before the examiner where appropriate,
+and provide notice as required by this title and the local planning act. Upon
+receipt of an application, the building department staff shall investigate and
+analyze such application, and shall forward all such information to the hearing
+examiner. A copy of the staff report shall be available for public review at
+least five (5) working days prior to the hearing.
+      3.   The hearing examiner shall review all information supplied by the
+department prior to the hearing. The hearing shall be conducted in accordance
+with subsection 11-3-6D of this title and applicable state law. Reasonable time
+limits may be established at the outset of the hearing, and both applicant and
+other members of the public must be given an opportunity to be heard. All
+hearings shall be recorded.
+      4.   At the completion of each hearing, the hearing examiner shall
+produce a report that includes a summary of such testimony, findings of fact
+and conclusions of law, and a final order. Such report shall be filed at the
+building department. It shall be available to the applicant and the public no
+more than ten (10) working days after the close of each hearing.
+   C.   Appeal Of Hearing Examiner's Order:
+      1.   An appeal of the hearing examiner's order must be filed with the
+building department within fourteen (14) days after the order is filed.
+      2.   The basis for appeal must be stated in the petition.
+      3.   The procedure for appeals of hearing examiner's orders is set forth
+in section 11-3-7 of this title. (2003 Code § 11-02-07)
+11-4A-6: OFFICIAL SCHEDULE OF USE DISTRICTS:
+Schedule of Residential Dimensional Standards (March 28, 2023)
+ 
+Zone                                           TAG  RR   LDR1  LDR2  MDR1  MDR2  HDR1   HDR2
+Previous Zone Titles                          RA   R1-R R1    New   R2    New   R3     New
+Zone                                           TAG  RR   LDR1  LDR2  MDR1  MDR2  HDR1   HDR2
+Previous Zone Titles                          RA   R1-R R1    New   R2    New   R3     New
+Density/units per acre                         2    6    6     8     14    28    30     30 or
+                                                                                        more
+                                               1/        7,000 5,445 6,000 5,000 21,780 32,670
+Min lot size (area)                          2    †  ft2   ft2   ft2   ft2   ft2    ft2
+                                               Acre
+                                               1/        8,000 6,445 7,000 6,000 22,780 33,670
+Min lot size corner (area)                  2    †  ft2   ft2   ft2   ft2   ft2    ft2
+                                               Acre
+Min lot width                                 75'  75'  75'   60'   60'   60'   60'    60'
+Min lot depth                                 60'  140' 60'   60    60'   60'   60'    60'
+Min lot frontage                              75'  75'  75'   60'   60'   60'   60'    60'
+Min front yard setback primary structure   30'  30'  30'   30'   30'†30'†20'† 20'†
+Min rear yard setback: primary structure   20'  20'  20'   20'   20'   20'   20'    ***
+Min side yard setback primary structure**  10'  5'   5'    5'    5'    5'    5'     ***
+Primary corner front yard setback           30'  30'  30'   30'   30'   30'   20'† †
+Primary corner rear yard setback            20'  20'  5'    †   5'    20'   20'
+Min side yard setback corner intersecting  20'  20'  20'   20'   20'   20'   20'    ***
+street
+Min front yard setback: accessory building(†  30'  †   †   †   †   †    †
+Min rear yard setback: accessory building(s20'  20'  5'    5'    5'    20'   20'    ***
+Min side yard setback: accessory building(s†  5'   5'    5'    5'    5'    5'     ***
+Max height primary building                  60'  60'  40'   40'   40'   50'   60'    60'
+Max height accessory building(s)             60'  60'  25'   25'   25'   30'   40'    40'
+Max lot coverage primary building           25%  40%�40%†40%†40%†50%†45%    50%
+Max lot coverage by accessory building(s)  30%  30%�30%†30%†30%†30%†30%    30%
+Min greenspace area (landscaping)              †  N/A  60%   60%   40%   40%   25%    20%
+Max lot coverage of hard surface           †  N/A  †   †   †   †   †    ***
+** All side yard setbacks are measured from the furthest protruding part of the building to the property
+line.
+*** HDR2 setbacks and hard surface areas are determined by a calculation table which factors in building height, property size, and view from the street
+criteria. (TBD)
+† See Code for requirements.
+ 
+ 
+Uses LDR1 LDR2MDR1 MDR2HDR1 HDR2 RR  C1 C2 C3 M1 M2
+                                   TAG
+Uses LDR1 LDR2MDR1 MDR2HDR1 HDR2 RR  C1 C2 C3 M1 M2
+                                   TAG
+ 
+ 
+Commercial:
+Bakeries                                                               N N N N N P P P C C
+Barbershops, beauty parlors                                            N N P P N N P P C C
+Boarding/rooming house                                                 N N C C N P P C N N
+Branch bank                                                            N N N N N P P P C C
+Cemetery                                                               N N N N C N N N N N
+Churches                                                               C C C C C C C C N N
+Clinic (human treatment)                                              N N N N N P P P C C
+Commercial Self-Service Storage                                        N N N N N N C C P P
+Convenience stores (may have gasoline sales)                       N N N N N C P P P P
+Daycare - Up to 12 Children                                        C C C C C C C C N N
+Daycare - 13 Children or More                                      N C C C C C C C C C
+Delicatessens                                                          N N N N N C P P C C
+Financial Institutions                                                 N N N N N C P P C C
+Funeral home/mortuary/crematorium                                      N N N N N C C C C C
+Gift shop                                                              N N N N N P P P C C
+Government offices                                                     C C C C C P P P C C
+Kennel                                                                 N N N N C C C C C C
+Medical and dental offices                                           N N N N N P P P C C
+Office building                                                        N N N N N P P P C C
+Parking lot                                                            C C C C C P P P P P
+Personal service shops including, but not limited to: auto service
+station, dry cleaning, food catering, non-livestock auction, small     N N N N N N P P C C
+repair shop
+Pharmacy                                                               N N N N N P P P C C
+Professional offices                                                   N N N N N P P P C C
+Public utility building                                               C C C C C P P P P P
+Radio and TV broadcasting                                            N N N N N P P P P P
+Recreation and lodging facilities
+including, but not limited to, the following: bowling alleys, bilNiNrN N N N P P P C
+and pool rooms, dance halls, hotels, indoor amusement facilities,
+motels, taverns and theaters
+Retail stores, lumberyards, plant nurseries and restaurants         N N N N N C P P C N
+Temporary building                                                     P P P P P P P P P P
+Utilities                                                              C C C C C P P P P P
+Veterinary clinic                                                      N N N N C P P P C C
+Residential:
+Halfway house                                                          N N C C N P P C N N
+Home for handicapped guests                                          P P P P P C N N N N
+Home occupation                                                        C C C C C C C C C C
+ 
+ 
+                                                                            MDR1-
+Mobile home park                                                         N N     N N C C N N N N
+                                                                            MDR2-
+                                                                            P
+                                                                            MDR1-
+Mobile home subdivision                                                  N N     N N C C N N N N
+                                                                            MDR2-
+                                                                            P
+Mobile homes                                                              N ***   N N N N N N N N
+Multi-family dwellings and townhouses - up to 4 units                 N C     P P N C C C N N
+Multi-family dwellings and townhouses - over 4 units                  N N     P P N C C C C N
+Parks                                                                     C C     C C C C C C N N
+Planned unit development                                                 C C     C C C C C C N N
+Playground                                                                P P     P P P C C C N N
+Private nursing home up to 8 guests                                  N N     P P C P C C N N
+Private swimming pool                                                     P P     P P P C C C N N
+Residence court over 8 units                                           N N     C P N C C C C C
+Rest or convalescent home                                               C C     C P N P P C N N
+Schools                                                                   C C     C C C C C C N N
+Single-family dwelling                                                    P P     P P P C C C N N
+Two-family dwelling or townhouse                                          N P     P P N C C C N N
+Heavy industrial:
+Airport                                                                   N N     N N C C C C C C
+Asphalt plant, bulk plant flammable liquid, bulk storage flammable
+liquid, commercial excavating, concrete batch plant, grain and seed       N N     N N N N N N C P
+elevator, rock crushing
+Assembly plant, coal, sand, gravel yard, contracting equipment,
+distribution facility, fabricating plant A, food processing, industrial
+laundry, manufacturing plant A, maintenance operation equipment, packing  N N     N N N N C C P P
+plant A, processing plant A, repair plant A, storage plant A, storage
+facility, wholesale operation
+Assembly plant B, auto wrecking yard, biohazardous facility, bulk
+storage/corrosive material, fabricating plant B, garbage incineration,    N N     N N N N N N N P
+manufacturing plant B, packing plant B, processing plant B, repair plant
+B, stockyard
+Other industrial:
+Salvage yard                                                              N N     N N N N N N C C
+Sewage treatment plant                                                    N N     N N N N N N C P
+Service commercial:
+Including, but not limited to, the following: bottling and distribution,
+contractor shop, freight terminal, heavy
+building material sales, heavy machinery sales, roofing shop, salvage N N     N N N N C P P P
+goods housed, sheet metal, sign painting shop, storage warehouse (heavy
+duty)
+***Only Allowed in Zones previously titled R2-T and MDR2
+unless on foundation; MH on foundation will be treated as a Single-Family
+Dwelling Use
+ 
+LEGEND:   “P” designates the use is permitted
+“C” designates the use is allowed upon issuance of a conditional use permit “N”
+designates the use is not allowed.
+ 
+Transitional Agriculture (TAG)   Medium Density Residential 1 (MDR1) Rural
+Ranchette (RR)   Medium Density Residential 2 (MRD2)
+Low Density Residential 1 (LDR1)   High Density Residential 1 (HDR1)
+Low Density Residential 2 (LDR2)   High Density Residential 2 (HDR2)
+(Ord. 2208, 7-6-2021; amd. Ord. 2234, 3-7-2023; Ord. 2236, 4-4-
+2023; Ord. 2262, 10-1-2024; Ord. 2268, 6-3-2025)
+11-4A-7: CITY USE DISTRICT REGULATIONS:
+   B. Rural Ranchette (RR):
+1. Purpose And Objectives: The purpose of establishing the Rural Ranchette Zone
+is to promote and maintain a single-family residential neighborhood that
+protects animal rights as part of allowed uses. The purpose is to preserve
+areas of land where small acreage including domestic farm animals may be kept
+within the City limits and the impact area. The zone also includes residential
+uses for handicapped and elderly persons up to eight (8) as referenced by Idaho
+Code section 67-6531.
+2. Permitted And Conditional Uses: All permitted, conditional, and accessory
+uses in this zone are regulated by the use table in section 11-4A-6.
+3. Lot Area: For purposes of allowing farm animals, a minimum area of one acre
+is required. For residential development or other residential uses, lots sizes
+are required to comply with the R-1 and/or LDR-1 zoning requirements. 
+11-4B-3: SUPPLEMENTARY USE REGULATIONS:
+   A.   C1 District And Downtown Business District Regulations:
+      1.   No front yard or side yard shall be required, except when a building
+or group of buildings abuts upon a Residential District. A yard of not less
+than ten feet (10') in width or a sight obstructing fence shall be provided on
+the side of the lot abutting the Residential District.
+      2.   There shall be a rear yard with a depth of not less than fifteen
+feet (15'), or a sight obstructing fence when abutting upon a Residential Zone.
+The rear yard may be used for off- street parking and loading. If there exists
+an alleyway behind said property, no rear yard is required.
+      3.   There is no minimum lot width or minimum area requirements.
+      4.   Residential usage in commercial areas shall follow the area
+requirements as set forth in the R3 HDR1 Residential Zone regulations.
+Residential usage in the Downtown Business District shall have no minimum or
+maximum area requirements.
+      5.   Height limit is not more than sixty feet (60').
+      6.   Off-street parking is delineated in section 11-4B-5 of this chapter.
+      7.   Signs are controlled by title 10, chapter 6 of this Code. No
+animated signs that are deemed to have a deteriorating influence upon
+surrounding properties may be used.
+   B.   C2 District Regulations: All regulations that apply in the C1 Zone also
+apply in the C2 Zone.
+   C.   C3 District Regulations: All regulations that apply in the C1 Zone
+(except height regulations) also apply in the C3 Zone.
+   D.   M1 District Regulations: All regulations that apply in the C3 Zone also
+apply in the M1 Zone.
+   E.   M2 District Regulations: All regulations that apply in the C3 Zone also
+apply in the M2 Zone. (2003 Code § 11-04-12) (2012 Code; amd. Ord. 2181, 5-7-
+2019; Ord. 2208, 7-6-2021)
+11-5-3-1: LOCATION IN MOBILE HOME PARK REQUIRED:
+It shall be unlawful to maintain a mobile home or travel trailer for
+residential purposes outside a mobile home park or in a mobile home subdivision
+(R2T) previously titled R2-T or MDR2 zone. Such prohibition shall apply
+regardless of whether the parking site shall be on private or public premises,
+streets, alleys or highways. Mobile homes used for residential quarters for
+watchmen or caretakers and located on the premises of an industrial
+establishment in any industrial zone may be permitted by a conditional use
+permit. (2003 Code § 11-05-04)
+11-6A-6: OTHER CONDITIONAL USE APPROVALS:
+There are certain conditional uses that require consideration of additional
+approval criteria unique to the specific application. In reviewing such
+applications, the Planning and Zoning Commission must consider the standards of
+approval set forth for each conditional use described below in addition to the
+general criteria and findings set forth for conditional use permits in
+subsection 11-6A-4M of this article. An application and fee are required for
+each request in accordance with sections 11-3-2 and 11-3-3 of this title. (Ord.
+2164, 12-5-2017)
+   A.   Agriculture: The tilling of soil, aquaculture, raising crops,
+livestock, farming, dairying and animal husbandry, including all uses
+customarily accessory and incidental thereto; but excluding hogs,
+slaughterhouses, fertilizer works, boneyards and commercial feedlots. The
+following standards shall apply to agricultural uses:
+      1.   Stables may board horses commercially.
+      2.   Lot size requirements for maintaining animals shall be a minimum of
+one acre of pasture area, excluding all structures, except for barns and
+stables, with an overall animal density not to exceed:
+         a.   Two (2) horses per acre; or
+         b.   Two (2) cows per acre; or (2003 Code § 11-06-06)
+         c.   Four (4) sheep per acre; or (2003 Code § 11-06-06; amd. 2012
+Code)
+         d.   An equivalent animal density as approved by the Zoning
+Administrator/Building Director.
+      3.   Buildings and corrals (not perimeter fencing) housing such animals
+shall not be less than thirty feet (30') from all property lines and at least
+fifty feet (50') from all residential structures, and must meet all
+requirements of the appropriate health authority.
+      4.   Provide a viable method for frequent (twice monthly) disposal of
+manure that will prevent obnoxious odors and the accumulation of flies from
+intruding onto adjacent properties. (2003 Code § 11-06-06)
+   B.   Childcare And Adult Daycare Requirements:
+      1.   Classifications:
+         a.   Family childcare (1 through 6 children, exclusive of own children
+and legal wards):
+            (1)   Permitted all residential and commercial zones with an
+approved conditional use permit.
+            (2)   Building, Health and Safety, and Fire Code requirements must
+be met.
+         b.   Group childcare (7 through 12 children, exclusive of own children
+and legal wards):
+            (1)   Permitted in all residential and commercial Zoneswith an
+approved conditional use permit.
+            (2)   Building, Health and Safety, and Fire Code requirements must
+be met.
+         c.   Childcare center (13 or more children):
+            (1)   Permitted in MDR1, MDR2, HDR1, HDR2, TAG, and Commercial and
+Manufacturing Zones with an approved conditional use permit.
+            (2)   Building, Health and Safety, and Fire Code requirements must
+be met.
+      2.   Building Requirements: Childcare facilities in an inhabited home
+must comply with applicable Building Codes and Fire Codes. Childcare facilities
+in an inhabited home must obtain a conditional use permit. A group childcare
+facility for seven (7) to twelve (12) children with no more than five (5)
+children under two and one-half (21/2) years of age and which provides care for
+less than twenty four (24) hours at a time, must meet the requirements of
+education occupancies (E) pursuant to the International Building and Fire Codes
+as adopted by the City.
+      3.   Exits:
+         a.   The required exits must be located to provide an unobstructed
+path outside the building to a public way or area of refuge. Exit doors must be
+able to be opened from the inside without the use of a key and without any
+special knowledge or effort.
+         b.   There must be at least two (2) exits (travel distance between not
+to exceed 75 feet) located a distance apart, not less than one-half (1/2) the
+diagonal dimension of the building or portion used for childcare.
+            (1)   Exception: In buildings with automatic fire sprinkler
+systems, the distance may be increased to one hundred ten feet (110').
+         c.   Required exits shall not be less than thirty two inches (32") of
+clear exit width and not less than six feet, eight inches (6'8") in height.
+            (1)   Exception: Sliding patio doors will be accepted as a required
+second exit in "family and group childcare facilities" only.
+         d.   Two (2) exits are required from basements and upper floors. The
+occupancy load is determined by the ratio of one occupant per thirty five (35)
+square feet of floor space. Egress windows or a second exit door are required
+from sleeping rooms within a childcare facility. An egress window may not be
+more than forty four inches (44") off the finished floor to the top of
+windowsill and must have a minimum of 5.7 square inches of operational opening.
+Window wells must have a minimum of nine (9) square feet of clear opening and
+not more than forty four inches (44") in depth.
+      4.   Accessibility: All new childcare facilities will comply with the
+adopted version of ANSI A117.1 as referenced in the building codes (ADA
+Specification Manual).
+      5.   Existing Building Modifications: Existing buildings that are
+changing use to accommodate a childcare facility are subject to the same
+requirements as new construction.
+      6.   Parking: Sufficient and safe parking and unloading zones must be
+available to accommodate the proposed childcare facility.
+      7.   The occupant load of a building, as best determined by the Building
+Department and Fire Department requirements, will include all persons using the
+facility.
+   8.   General Childcare Requirements:
+      a.   Provide a minimum on site outdoor play area of one hundred (100)
+square feet per child. This area requirement may be waived or modified if
+appropriate open space with connecting public sidewalks or paths are located
+near the facility and that open space can be used by the children as a play
+area; or the program of the facility is such that the size of a group of
+children using the play area at any one time conforms to the one hundred (100)
+square feet per child criteria. This criteria may also be met by safely
+transporting students to an approved outdoor play area.
+      b.   Provide a minimum of thirty five (35) square feet of indoor gross
+play area per child.
+      c.   Secure and maintain a childcare license from the State (for
+childcare givers with seven (7) or more children). Background checks are
+required for providers caring for four (4) or more children.
+      d.   Comply with the regulations where applicable by law or jurisdiction
+of the City Building and Fire Department, and the County health inspector.
+      e.   Provide as a minimum, one off street parking space per employee.
+      f.   Provide for an on-site child pick up area if located on a collector
+or arterial street, designed to prevent vehicles from backing onto the roadway
+(backing into an alley is permissible).
+      g.   The lot size shall be adequate for parking, child pick up area, play
+area, screening and setbacks.
+      h.   An application fee set by the City Council and amended from time to
+time by resolution, shall be paid with the submittal of an application.
+   9.   Standards: The Zoning Administrator/building official may also require
+the following standards to protect adjacent properties from adverse impacts or
+to protect the health, safety and welfare of the children:
+      a.   Fencing or landscape screening of the facility to protect adjacent
+properties from activities of the facility, or to protect the children from
+adverse activities such as traffic on arterial or collector streets, at
+intersections or to screen adjacent properties; or
+      b.   Additional setbacks to play areas from property line to protect
+adjacent properties or to protect children from busy streets, irrigation
+ditches, animal pastures and other similar conflicts; or
+      c.   Any other conditions deemed necessary by the Zoning Administrator/
+building official to protect the health, safety and welfare of the children, or
+to protect adjacent property owners from adverse impacts. (Ord. 2164, 12-5-
+2017)
+   10.   Adult Daycare Standards: Adult daycare has different use
+characteristics from other allowed uses and therefor requires additional
+standards to be determined by the Zoning Administrator/building official:
+         a.   There shall be adequate access for physically handicapped patrons
+of the facility.
+         b.   If located on an arterial or collector street, provide for an on
+site patron pick up area designed to prevent vehicles from backing onto street
+(backing into alley is permissible).
+         c.   The use shall meet the occupancy requirements of the city
+building and fire departments.
+         d.   All applicable licenses must be obtained from the city or the
+state.
+         e.   An application fee set by the city council and amended from time
+to time by resolution, shall be paid with the submittal of an application.
+   C.   Drive-Up Windows: No drive-up window establishment shall be permitted
+unless the planning and zoning commission finds that the design and operation
+of the establishment is substantially in compliance with the following
+requirements and conditions that shall be in addition to those required in
+section 11-6A-4 of this article:
+      1.   The location of the establishment shall not cause an increase of
+commercial traffic in nearby residential neighborhoods, increase general
+traffic congestion where serious congestion problems already exist, or cause
+other significant adverse impacts on public or private property in the vicinity
+of the site. The advice of the appropriate transportation authority shall be
+solicited for the purpose of evaluating existing and projected levels of
+service and the effects of projected turning movements on highway safety; and
+      2.   The internal circulation on the site provides for pedestrians to
+walk from parking lots to the lobby entrances without traversing the waiting
+lanes for the drive-up window; and
+      3.   The waiting lanes be of sufficient length to provide for anticipated
+average monthly peak volumes; and
+      4.   The design, signage or operational characteristics of the
+establishment prevent or discourage vehicles from waiting for service on public
+sidewalks or streets; and
+      5.   Drive-in waiting lanes be designed so that curbs, gates or other
+devices do not prevent a vehicle from leaving a waiting lane; and
+      6.   All lights and other illuminated materials shall be designed,
+positioned, shielded, directed and located to prevent glare from falling on
+adjoining properties. Screening of lights may be required as a secondary
+measure of mitigation. Illumination levels shall not exceed two (2) foot-
+candles as measured one foot (1') above the ground at property lines shared
+with residentially zoned or used parcels; and
+      7.   The drive-up window service does not constitute the entire
+establishment. This finding may be waived upon showing that the public interest
+would be better served if the drive-up window service does constitute the
+entire establishment; and
+      8.   The design, operation and sign characteristics of the project will
+attempt to minimize air pollution and wasteful consumption of fuel. Required
+mitigation measures include, but are not limited to:
+         a.   Prohibiting all parking spaces that are in addition to the
+minimum number of parking spaces required by this title; and
+         b.   Retention of existing desirable trees for reasons of species,
+location, health, age or other reason as determined and recommended by the city
+engineer; and
+         c.   Maximum placement of landscaped areas and trees; and
+      9.   Landscaping shall screen drive-up aisles from the public right of
+way and shall be used to minimize the visual impact of vehicular lights, reader
+board signs and directional signs; and
+      10.   Drive-through lanes shall be set back at least ten feet (10') from
+adjacent residentially zoned or used property. This buffer shall include both
+coniferous trees and sound abatement walls; and
+      11.   Any drive-up window establishment that is within three hundred feet
+(300') of a residential use or zone, as measured along the shortest distance
+between the nearest residential property line and any part of the drive-up
+portion of the land use, shall not be permitted to utilize outdoor order
+speakers; use of a handheld phone or an order window shall be required; and
+      12.   In accordance with section 11-6A-4 of this article, the planning
+and zoning commission has the authority to limit the hours of operation, and
+may impose such restrictions on drive-up window establishments.
+   D.   Adult Bookstore, Adult Motion Picture Theater, Adult Performance
+Business Or Adult Entertainment Establishment:
+      1.   Purpose: The purpose of these regulations is to protect the health,
+safety, and general welfare of the citizens and visitors of the city, to
+protect the health, safety, and general welfare of employees and patrons of
+adult businesses and adult establishments, and to protect children from being
+inadvertently exposed to adult material.
+      2.   Conditions: In order to approve a conditional use permit for such
+uses, the planning and zoning commission must determine that the following
+conditions are met:
+         a.   Such business shall not be located within one thousand five
+hundred feet (1,500') of a school, preschool, daycare facility, public park,
+playground or other institution, either public or private, where children under
+the age of eighteen (18) frequent or are taught, instructed or trained.
+Distance shall be measured in a straight line from the property line of the
+school or park to the property line of the proposed adult bookstore, adult
+motion picture theater, or adult performance business; and
+         b.   Such business shall not be located within five hundred feet
+(500') of a church. Distance shall be measured as in subsection D2a of this
+section; and
+         c.   Such business shall not be located within one thousand feet
+(1,000') of any other adult bookstore, adult motion picture theater or adult
+performance business. Distance shall be measured as in subsection D2a of this
+section; and
+         d.   Such business shall not be located within one thousand feet
+(1,000') of any store, bar, tavern or business that sells, vends, serves,
+dispenses or distributes any alcoholic beverages, including, but not limited
+to, beer, wine and liquor; and
+         e.   Such business shall not be located on a lot or parcel that is
+adjacent or contiguous to residential zones, even if separated by an alley.
+This condition may be waived; provided, that sixty six and two-thirds percent
+(662/3%) of the residentially zoned property owners and residents within five
+hundred feet (500') of the proposed use sign a petition approving such a
+business; and
+         f.   Distance standards shall apply regardless of the political
+jurisdiction in which schools, parks or churches, or other adult businesses,
+are located; and
+         g.   The sign package and exterior building design must be submitted
+with the conditional use application for review by the planning and zoning
+commission. Advertisements, displays or other promotional materials shall not
+be shown or exhibited so as to be visible to the public from the exterior of
+the building; and
+         h.   Lobby and entrance areas should be designed so as to minimize
+obstruction of sidewalks during operating hours and shall be oriented and
+consistent with other commercial activities in the area; and
+         i.   All building openings, entries, windows and the like shall be
+located, covered or screened in such a manner as to prevent a view into the
+interior from any public or semipublic area; and
+         j.   No loudspeakers or sound equipment shall be used for such
+businesses that can be discerned by the public outside the building; and
+         k.   The disposal of garbage and trash containing sexually explicit
+materials must be disposed of in a manner that prevents minors from having
+access to the material; and
+         l.   The planning and zoning commission may impose such other
+conditions and limitations as may be deemed necessary to carry out the purpose
+of this subsection and to preserve and protect the general public health,
+safety and welfare.
+      3.   Applicability Of Standards: For purposes of this subsection, the
+above conditions and standards shall be applicable in the following
+circumstances:
+         a.   The opening or commencement of any such business as a new
+business.
+         b.   The conversion of an existing business to any of the adult
+businesses regulated herein.
+         c.   The addition or expansion of any business to include any of the
+adult businesses regulated herein.
+         d.   The relocation of any such business.
+      4.   School Defined: For purposes of this subsection, a "school" shall be
+considered as an institution of learning for minors, whether public or private,
+that offers instruction in those courses of study required by the state or that
+is maintained pursuant to standards set by the state board of education. This
+definition includes a kindergarten, elementary, junior high or senior high
+school, or any special institution of learning under the jurisdiction of the
+state department of education, but does not include a vocational or
+professional institution or institution of higher education such as a community
+or junior college, college or university.
+      5.   Construction: These provisions shall not be construed as permitting
+any use or act that is otherwise prohibited or made punishable by law.
+   E.   Lot Area Reduction In R2 MDR1 District (Combined Residential): Within
+the R2 MDR1 district, the lot area for each dwelling unit contained in a
+building or buildings on a "lot of record", as defined in section 11-1-3 of
+this title, may be reduced to not less than two thousand (2,000) square feet if
+authorized by a conditional use permit and the following conditions and
+restrictions are met and complied with:
+      1.   All other applicable zoning and use regulations have been met; and
+      2.   The applicant must conclusively prove that the lot cannot feasibly
+be developed without reduction in lot area; and
+      3.   The improvements upon the lot would not be out of character with the
+adjoining and surrounding improvements; and
+      4.   Sufficient open space and amenities have been provided to create a
+desirable living unit. (2003 Code § 11-06-06)
+   F.   Exceptions To Parking Requirements: Parking space requirements for a
+particular use as established by this title, may be reduced upon application
+for conditional use approval in accordance with this title. Joint or mixed use
+of off street parking facilities may be approved by a conditional use permit
+submitted in accordance with this title. (2003 Code § 11-06-06; amd. 2012 Code)
+   G.   Conversion Of Nonconforming Use: The conversion of a nonconforming use
+to any use other than an allowed use is prohibited, except upon application and
+issuance of a conditional use permit in accordance with the provisions of
+section 11-6A-4 of this article; provided, however, that in addition to the
+requirements of section 11-6A-4 of this article, such conditional use permit
+will not be granted unless the planning and zoning commission makes all of the
+following findings of fact: (2003 Code § 11-06-06; amd. Ord. 2085, 5-5-2009,
+eff. 5-5-2009)
+      1.   The proposed conversion is compatible with the comprehensive plan,
+the purposes of this title and with surrounding land uses; and
+      2.   Such proposed conversion will not place an undue burden on existing
+transportation and service facilities in the vicinity of the application; and
+      3.   Such proposed conversion will be in compliance with all requirements
+and provisions of this code; and
+      4.   The continuation of a nonconforming use without the benefit of such
+conversion would likely result in a deterioration of the neighborhood. (2003
+Code § 11-06-06)
+   H.   Restoration Of Nonconforming Use: Any nonconforming building or mobile
+home destroyed by fire or other calamity to an extent of fifty percent (50%) or
+more of the appraised value, where such destruction was not intentionally
+caused by the owner or an agent of the owner of such property, may rebuild or
+restore such building or mobile home to its former use. Such rebuilding or
+restoration shall be substantially the same as the former building. (Ord. 2085,
+5-5-2009, eff. 5-5-2009)
+   I.   Expansion Of Conditional Uses And Legal Nonconforming Uses:
+      1.   Findings Required: Expansions to conditional uses or legal
+nonconforming uses that exceed twenty percent (20%) of the existing facility
+(based on square footage or other dimensional measure) require conditional use
+approval by the planning and zoning commission. Approval of such requests shall
+be based upon the following findings:
+         a.   The proposed conversion, restoration, enlargement or expansion
+will not alter the zoning classification of the nonconforming use; and
+         b.   The proposed conversion, restoration, enlargement or expansion
+conforms to all existing requirements of this code; and
+         c.   The proposed conversion, restoration, enlargement or expansion
+will not place an undue burden on existing transportation and service
+facilities in the vicinity; and
+         d.   The proposed enlargement or expansion is not inimical to the best
+interest of the surrounding neighborhood.
+      2.   Illegal Expansion; Loss Of Status: Any illegal expansion of a
+nonconforming use will result in the loss of the legal nonconforming use status
+of that project.
+   J.   General Height Exceptions: Conditional use approval from the planning
+and zoning commission is required to exceed the height limits set forth in this
+title. The planning and zoning commission's decision on height exceptions shall
+be based upon the criteria set forth in section 11-6A-4M of this article.
+   K.   Public Services; Height Exception: Public service poles, towers or
+similar installations of a height of seventy feet (70') or greater must be
+approved by conditional use permit. The planning and zoning commission must
+make the findings required by section 11-6A-4M of this article and the
+following additional findings. The pole or tower locations and heights:
+      1.   Do not interfere with airport height restrictions; and
+      2.   Minimize disturbance to views from established residential areas;
+and
+      3.   Minimize disturbance to or interference with view of city, state, or
+federally registered historic structures; and
+      4.   Do not obstruct clear vision triangles or otherwise threaten
+motorist or pedestrian safety; and
+      5.   Minimize conflict with existing uses; and
+      6.   Are within route corridors already established for use by rail,
+automobile traffic arterials or electrical transmission; and
+      7.   Are within route corridors that provide for a satisfactory level of
+energy efficient transmission of the product (electrical energy or other
+signals); or
+      8.   Are the best available alternative placements and heights, even
+though they do not comply perfectly with all the above findings.
+   L.   Professional, Administrative And Business Offices In M1 And M2
+Districts: Professional, administrative and business offices are conditional
+uses in the M1 and M2 districts and are subject to the following criteria as
+well as those in section 11-6A-4M of this article:
+      1.   Amenities (that may include, but are not limited to, visual
+screening, orientation and placement of buildings, parking and access areas)
+are provided for the future office to buffer the impact of any conflicting land
+uses; and
+      2.   The lot or parcel occupied by such offices abuts a public right of
+way that separates such lot or parcel from residential or office zones or uses;
+or
+      3.   Where the use of the subject property for such offices will not
+encroach upon or conflict with existing industrial development or that which
+may be reasonably expected to develop.
+   M.   Composting Facility: Any composting facility shall submit a site and
+operational plan with their application for a conditional use permit. That plan
+shall demonstrate compliance with the following requirements:
+      1.   Composting piles or windrows shall be constructed that are no larger
+than can be managed in a nuisance free manner by the proposed equipment and
+composting technology;
+      2.   Additional area shall be provided at no less than fifteen percent
+(15%) of size of the active composting pile or windrow area for staging, curing
+and storage;
+      3.   A minimum fifty foot (50') setback shall be maintained from the
+property boundary or public right of way to any active processing area of the
+facility, including any area used for storage, active composting and curing;
+      4.   A minimum two hundred foot (200') buffer zone between the active
+composting pile or windrow and any existing adjacent residentially zoned or
+occupied property shall be maintained;
+      5.   Compliance with all applicable state or federal laws, regulations or
+standards pertaining to water quality, air quality and solid waste management
+shall be required;
+      6.   No composting facility shall be allowed in a floodplain;
+      7.   Surface slope of one to five percent (5%) grade shall be required
+for any composting facility;
+      8.   Adequate fencing, barriers or screening shall be required for all
+composting facilities;
+      9.   Public access shall be limited to those times when an attendant is
+on duty and during limited operating hours;
+      10.   Adequate space shall be provided between the piles or windrows to
+allow access to vehicles, including firefighting equipment;
+      11.   Noncompostable residues shall be disposed or processed at a
+permitted solid waste disposal facility in accordance with local, state and
+federal laws, regulations and standards;
+      12.   All organic materials received at the composting facility shall be
+removed from any containers unless the containers are of a biodegradable type
+in which case the container shall be opened before composting;
+      13.   A permanent sign must be posted and maintained at the composting
+facility showing the nature of the project, facility name, address and
+telephone number of operator, operating hours, materials that may be received
+by the facility, and the phrase, "No Dumping Of Garbage, Trash Or Rubbish
+Allowed". (2003 Code § 11-06-06; amd. Ord. 2265, 3-4-2025)
+ 
+ 
  
 ADOPTING ORDINANCE
 ORDINANCE NO. 2112
@@ -11377,7 +12805,7 @@ addressed as odd, while structures along the easterly and southerly sides of
 roads shall consistently be addressed as even throughout the entirety of the
 address grid.
  
-[https://export.amlegal.com/media/566963b40a32f0eb6c45881baf48b7647d9e0b65/
+[https://export.amlegal.com/media/1b3687e8c29e09add3c5784851387aff28dcb2d4/
 IMAGES/0-0-0-3664.png]
  
    B.   Assigned By City: All address numbers shall be assigned by the city. No
@@ -17814,7 +19242,7 @@ feet (6') from the base of the sign, between the base of the sign and a point
 six feet (6') down slope from the sign. (Figure 6.2)
    FIGURE 6.2
    SIGN HEIGHT MEASUREMENT
-[https://export.amlegal.com/media/566963b40a32f0eb6c45881baf48b7647d9e0b65/
+[https://export.amlegal.com/media/1b3687e8c29e09add3c5784851387aff28dcb2d4/
 IMAGES/0-0-0-1903.png]
  
       2.   Sign Area:
@@ -17833,7 +19261,7 @@ of the smallest cube that can encompass such sign. (Figure 6.3)
    Area 1 + Area 2 = Total Sign Area
    FIGURE 6.3
    THREE-DIMENSIONAL SIGN MEASUREMENT
-[https://export.amlegal.com/media/566963b40a32f0eb6c45881baf48b7647d9e0b65/
+[https://export.amlegal.com/media/1b3687e8c29e09add3c5784851387aff28dcb2d4/
 IMAGES/0-0-0-1905.png]
  
       3.   Sign Location: Signs shall be located as specified in section
@@ -17913,7 +19341,7 @@ with key architectural elements (figure 6.4).
 chapter.
    FIGURE 6.4
    CANOPY SIGN
-[https://export.amlegal.com/media/566963b40a32f0eb6c45881baf48b7647d9e0b65/
+[https://export.amlegal.com/media/1b3687e8c29e09add3c5784851387aff28dcb2d4/
 IMAGES/0-0-0-1907.png]
  
    E.   Blade Signs: Blade signs are allowed as indicated in section
@@ -17928,7 +19356,7 @@ allowed.
 prohibited as blade signs.
    FIGURE 6.5
    BLADE SIGN STANDARDS
-[https://export.amlegal.com/media/566963b40a32f0eb6c45881baf48b7647d9e0b65/
+[https://export.amlegal.com/media/1b3687e8c29e09add3c5784851387aff28dcb2d4/
 IMAGES/0-0-0-1909.png]
  
    F.   Changeable Copy Signs - Wall: Changeable copy wall signs are allowed as
@@ -18050,7 +19478,7 @@ area of three hundred fifty (350) square feet if it exceeds forty feet (40')
 tall.
       3.   All other provisions in Title 10, Chapter 6, Signs, not modified
 herein shall apply as required.
-[https://export.amlegal.com/media/566963b40a32f0eb6c45881baf48b7647d9e0b65/
+[https://export.amlegal.com/media/1b3687e8c29e09add3c5784851387aff28dcb2d4/
 IMAGES/0-0-0-2131.png]
 (Ord. 2182, 5-7-2019; amd. Ord. 2200, 12-1-2020; Ord. 2239, 6-6-2023; Ord.
 2264, 3-4-2025)
