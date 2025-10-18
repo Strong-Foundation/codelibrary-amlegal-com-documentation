@@ -134,17 +134,17 @@ PASSED and APPROVED this 2nd day of September, 2025.
  
  
  
-[https://export.amlegal.com/media/92272c5642270007921ab518bad1e64671f1be8f/
+[https://export.amlegal.com/media/dccc045fcb28af603d587cb1a180dc0f5d19e865/
 IMAGES/0-0-0-4215.gif][https://export.amlegal.com/media/
-92272c5642270007921ab518bad1e64671f1be8f/IMAGES/0-0-0-4217.gif]
+dccc045fcb28af603d587cb1a180dc0f5d19e865/IMAGES/0-0-0-4217.gif]
 Paul Wm. Hoefert, Mayor
 ATTEST:
  
  
  
-[https://export.amlegal.com/media/92272c5642270007921ab518bad1e64671f1be8f/
+[https://export.amlegal.com/media/dccc045fcb28af603d587cb1a180dc0f5d19e865/
 IMAGES/0-0-0-4219.gif][https://export.amlegal.com/media/
-92272c5642270007921ab518bad1e64671f1be8f/IMAGES/0-0-0-4221.gif]
+dccc045fcb28af603d587cb1a180dc0f5d19e865/IMAGES/0-0-0-4221.gif]
 Karen M. Agoranos, Village Clerk
  
  
@@ -240,6 +240,378 @@ ATTEST:
  
 Karen M. Agoranos, Village Clerk
  
+ 
+ 
+Ordinance No. 6809
+ 
+AN ORDINANCE AMENDING CHAPTER 23, "OFFENSES AND MISCELLANEOUS REGULATIONS" WITH
+REGARD TO MICROMOBILITY DEVICES (ELECTRIC BIKES, LOW-SPEED ELECTRIC SCOOTERS
+AND E-SCOOTERS,) AND E-MOTOS
+ 
+WHEREAS, the Village of Mount Prospect (the “Village”) is a home rule Illinois
+Municipal Corporation pursuant to Article VII, § 6 of the Illinois Constitution
+of 1970; and
+ 
+WHEREAS, the President and Board of Trustees of the Village of Mount Prospect
+desire to make certain amendments to the Village Code of Mount Prospect (the
+“Village Code”) as set forth below; and
+ 
+WHEREAS, pursuant to its authority granted under Article VII, § 6 of the
+Illinois Constitution, the President and Board of Trustees of the Village of
+Mount Prospect find it in the best interest of the Village, the Village
+residents, and the public health, safety and welfare to amend the Village
+Code as set forth below.
+ 
+NOW, THEREFORE, BE IT ORDAINED BY THE PRESIDENT AND BOARD OF TRUSTEES OF THE
+VILLAGE OF MOUNT PROSPECT, COUNTY OF COOK, STATE OF ILLINOIS AS FOLLOWS:
+ 
+SECTION ONE:   That the recitals set forth above shall be and are hereby
+incorporated in this Section One as if restated herein.
+SECTION TWO: Article I (General Offenses) of Chapter 23 (Offenses and
+Miscellaneous Regulations) of the Village Code of Mount Prospect
+shall be amended to add a new Section 23.121 (Micromobility Devices (Electric
+Bikes and ME1 Electric Scooters) and E-Motos), to read in its entirety as
+follows:
+ 
+“23.121: MICRO-MOBILITY DEVICES (ELECTRIC BIKES AND ME2 ELECTRIC SCOOTERS) AND
+E-MOTOS:
+ 
+A. DEFINITIONS. For purposes of this section, the following definitions shall
+apply unless the context clearly indicates or requires a different meaning. Any
+reference to definitions adopted from state statute shall include any
+amendments thereto by reference:
+ 
+Bike Lane:  As defined in 605 ILCS 30/4, a restricted right-of-
+way designated for the exclusive or semi-
+exclusive use of bicycles with through travel by motor
+vehicles or pedestrians prohibited.
+ 
+E-Moto: This term is not officially recognized in the Illinois Vehicle Code,
+however. as it relates to this Section, E-Moto applies to all electric powered
+devices built on a bicycle- style frame equipped with one or more operating
+modes and a throttle, having an electric motor with a power output exceeding
+750 watts, and is capable of exceeding 20 mph using only the throttle. While
+these types of devices are not specifically defined by the Illinois
+Vehicle Code, depending on their design and motor size, they would either be
+classified by the Illinois Vehicle Code as motor vehicles or motor driven
+cycles. Both of which would require the same registration, insurance, and
+licensing requirements as other vehicles on the roadway. Some examples of E-
+Motos would be electric dirt bikes and electric mini bikes.
+ 
+E-Scooters: A device weighing less than 100 pounds, with 2 or 3 wheels,
+handlebars, and a floorboard that can be stood upon while riding, that is
+solely powered by an electric motor and human power, and whose maximum speed,
+with or without human propulsion, is more than 10 mph, but not greater than 20
+mph.
+ 
+Bicycle: Every human-powered device ME3and low-speed electric vehicleAB4ME5,
+with two or more wheels, not less than 12 inches in diameter, operable
+pedalsME6, and designated seats for the transportation of one or more persons.
+ 
+Low Speed Electric Bicycles: Is hereby defined in 625 ILCS 5/1410.10, and
+may be amended from time to time, and is currently set forth as follows:
+ 
+-   Class 1 E-Bike: A low-speed electric bicycle equipped with a
+motor that provides assistance only when the rider is pedaling and that ceases
+to provide assistance when the bicycle reaches a speed of 20 mph.
+-   Class 2 E-Bike: A low-speed electric bicycle equipped with a motor
+that may be used exclusively to propel the bicycle and that is not
+capable of providing assistance when the bicycle reaches a speed of 20 mph.
+ 
+-   Class 3 E-Bike: A low-speed electric bicycle equipped with a
+motor that provides assistance only when the rider is pedaling and that ceases
+to provide assistance when the bicycle reaches a speed of 28 mph
+ 
+A low-speed electric bike is not a moped or a motor driven cycle.
+ 
+Low-Speed E-Scooter: Is hereby defined in 625 ILCS 5/1-140.11, and may be
+amended from time to time, and is currently set forth as follows:
+ 
+A device weighing less than 100 pounds, with 2 or 3 wheels,
+handlebars, and a floorboard that can be stood upon while riding, that is
+solely powered by an electric motor and human power, and whose maximum speed,
+with or without human propulsion, is no more than 10 mph. Low Speed E-Scooter
+does not include a moped or motor- driven cycle.
+ 
+Motorized Wheelchair: As set forth in 625 ILCS 5/1-148.3, any self-
+propelled vehicle, including a three-wheeled vehicle, designed for and used
+by a person with disabilities, that is incapable of a speed in excess of 8 mph
+on level groundAB7ME8.
+ 
+Roadway: 
+That portion of a highway improvedAB9ME10, designed, or ordinarily used for
+vehicular travel.
+ 
+Reckless Operation: The operation of an E-Bike, Low-Speed E-Scooter, E-Scooter,
+or E-Moto with a conscious disregard for the safety of the operator and/or
+others, which poses a substantial and unjustifiable risk to the safety of the
+operator and/or others. Reckless Operation need not result in injury to the
+operator and/or others .
+ 
+Shared-Use Path: As defined in 605 ILCS 30/4.1, a completely separated right-
+of-way designated for the exclusive use of bicycles and pedestrians
+with crossflows by motorists minimized.
+ 
+Sidewalk: 
+The portion of a streetAB11ME12 between the curb lines or the lateral lines of
+a roadway, and the adjacent property lines, intended for the use of
+pedestrians.
+ 
+Toy Vehicle: Any battery-powered ride on toy that is designed to not exceed 10
+mph; that includes any of wheels, handlebars, steering wheel, seat, or
+platform; and is designed for children under the age of eight years (including,
+as an example Razor Kick Start scooters and Power Wheels).
+ 
+SECTION THREE: Article I (General Offenses) of Chapter 23, (Offenses and
+Miscellaneous Regulations) of the Village Code of Mount Prospect shall be
+amended to add a new Section 23.122 (General Operation of Micro-Mobility
+Devices), to read in its entirety as follows:
+ 
+23.122: GENERAL OPERATION OF MICRO-MOBILITY DEVICES
+ 
+A.   E-BIKES:
+1.   No person shall operate an E-Bike in such a manner that constitutes
+Reckless Operation, as defined in Section 23-121(A).
+ 
+2.   It shall be unlawful to operate an E-Bike while carrying a package,
+bundle, or article in a manner that prevents the operator from keeping ME13
+upon the handlebars.
+3.   It shall be unlawful to operate an E-Bike while under the influence of
+alcohol and/or drugs.
+4.   No E-Bike shall be used to carry more than one (1) person unless the E-
+Bike is specifically designed for more than one
+(1) person.
+5.   As specified in 625 ILCS 5/11-1517, all E-Bikes are required to have a
+label, from the manufacturer, permanently affixed to the E-Bike in
+a prominent location. The label shall contain the bike’s classification (Class
+1, Class 2, or Class 3), its top assisted speed, and its motor wattage.
+B.    LOW SPEED E-SCOOTERS:
+1.   No person shall operate a low-speed E-Scooter in such a manner that
+constitutes Reckless Operation, as defined in Section 23-121(A).
+2.   It shall be unlawful to operate a Low-Speed E-Scooter while
+carrying any package, bundle, or article that prevents the operator from
+keeping at least one hand upon the handlebars.
+3.   The use of a cell phone, or similar device, while operating a Low-Speed E-
+Scooter is prohibited
+4.   It shall be unlawful to operate a Low-Speed E-Scooter while under the
+influence of alcohol and/or drugs.
+5.   No passengers shall be allowed on a Low-Speed E-Scooter.
+6.   Any E-Scooter, capable of traveling faster than 10 mph, is
+prohibited from being operated within the Village, specifically roadways,
+public parking lots, parking decks, sidewalks, or upon any property owned or
+maintained by the Village.
+ 
+C.   E-SCOOTERS:
+1.   No person shall operate an E-Scooter in such a manner that constitutes
+Reckless Operation, as defined in Section 23-121(A).
+2.   It shall be unlawful to operate an E-Scooter while carrying any package,
+bundle, or article that prevents the operator from keeping at least one hand
+upon the handlebars.
+3.   The use of a cell phone, or similar device, while operating an E-Scooter
+is prohibited.
+4.   It shall be unlawful to operate an E-Scooter while under the influence of
+alcohol and/or drugs.
+5.   No passengers shall be allowed on an E-Scooter.
+ 
+D.    E-MOTOS:
+1.   In order to operate an E-Moto on a Village Roadway, the following is
+required:
+a.   Valid registration issued by the State.
+b.   Valid liability insurance.
+c.   The operator must possess a valid driver’s license, with the required
+classification, based on the type of vehicle being operated.
+d.   The operator and every passenger shall be protected by glasses, goggles,
+or a transparent shield.
+e.   The vehicle shall have all essential equipment, required by Illinois law,
+as specified in the Illinois Vehicle Code, including but not limited to:
+brakes, a headlight, taillight, turn signals, a horn, speedometer, at least one
+(1) rearview mirror, and brake lights.
+2.   Any E-Moto vehicle or device that does not possess the
+requirements outlined in this Section, or the appropriate section of the
+Illinois Vehicle Code, is prohibited from being operated within the Village,
+specifically on Village Roadways, streets, public parking
+lots, parking decks, Sidewalks, or any property owned or maintained by the
+Village.
+ 
+E.    AGE RESTRICTIONS:
+1.   A person may not operate a Class 2 or Class 3 E-Bike unless they are 16
+years of age or older (unless accompanied by a parent or legal guardian).
+2.   A person may not operate a Low-Speed E-Scooter or E-Scooter unless they
+are 16 years of age or older (unless accompanied by a parent or legal
+guardian).
+ 
+F.    LOCATION RESTRICTIONS:
+1.   ME14 Bicycles: Bicycles, other than E-Bikes, may be operated on any
+Roadway, bike lane, Sidewalk, or Shared-Use Path within the Village.
+2.   E-Bikes (Class 1 & Class 2): Except as prohibited by the Illinois Vehicle
+Code, all Class 1 and Class 2 E-Bikes, with a
+maximum assisted speed of 20 mph, shall be permitted on
+ Roadways, bike lanes, and Shared-Use Paths. Class 1 or Class 2 E-
+Bikes, while operating on a Shared-Use Path, must be operated in a safe manner
+while yielding the right of way to pedestrians. All Class 2 and 3 E-Bikes
+ are prohibited from use on Sidewalks, unless directed by a Village bikeway
+sign, or to access the pedestrian signal push button at signalized
+intersections.
+3.   E-Bikes (Class 3): All Class 3 E-bikes shall be permitted on
+ Roadways and bike lanes only. All Class 3  E- Bikes are prohibited from use on
+Sidewalks, unless directed by a Village bikeway sign, or to access the
+pedestrian signal push button at signalized intersections.
+4.   Low-Speed E-Scooters, with a maximum speed of 10 mph, are
+permitted on Village Roadways, bike lanes, and Shared-Use Paths. Low Speed E-
+Scooters are permitted to use onAB15 Sidewalks, except in downtown Mount
+Prospect (Walk Your Wheels Zone, as defined in Subsection 8 below), where such
+use is strictly prohibited. Low-Speed E- Scooters must be ME16 in a safe
+manner while yielding the right of way to all pedestrians.
+5.   E-Scooters, capable of traveling faster than 10 mph, but not greater than
+20 mph, are permitted on Village Roadways, bike lanes, and Shared-Use Paths. E-
+Scooters are permitted on Sidewalks, except in downtown Mount Prospect (Walk
+Your Wheels Zone, as defined in Subsection 8 below), where such use is strictly
+prohibited. E-Scooters must be operated in a safe manner, while yielding the
+right of way to all pedestrians. ME17
+ 
+6.   The use of E-Bikes (Class 1, Class 2, Class 3), Low-Speed E-Scooters, and
+E-Scooters is prohibited in all Village parking decks, unless accessing the
+parking deck entrance for the purposes of utilizing the bike rack.
+7.   A person may not operate a Low-Speed E-Scooter or E-Scooter on a ME18
+Roadway with a posted speed limit in excess of 30 mph.
+8.   Walk Your Wheels Zone: The use of Low-Speed E-Scooters or E-Scooters is
+prohibited on Sidewalks in the downtown Mount Prospect Walk Your Wheels Zone.
+The Walk Your Wheels Zone is divided into two areas; one south of the railroad
+tracks and one north of the railroad tracks. These two areas are geographically
+defined for the purpose of this section as:ME19
+a.   South of the railroad tracks - Prospect Avenue, between Pine Street and
+Emerson Street.
+b.   North of the railroad tracks – Northwest Hwy (along the south), Maple
+Street (along the east), Busse Ave (along the north), and the building located
+at 20 W. Northwest Hwy (along the west).
+9.   E-Bikes (Class 1, Class 2, Class 3) and low speed E- Scooters or E-Scooter
+are strictly prohibited from operating on any County or State Highway 
+(examples include, Northwest Hwy, Elmhurst Rd, Algonquin Rd). Operators are to
+walk their E-Bike or low-speed E-Scooter across these County or State Highways
+at designated crosswalks.
+G.    PARKING:
+1.   E-Bikes, Low-Speed E-Scooters, and E-Scooters that are parked on public
+right of ways shall be parked in an upright position and in a manner that does
+not obstruct the passage of pedestrians, people with disabilities, or vehicular
+traffic.
+2.   The Village reserves the right to designate specific areas or racks for
+the parking of E-Bikes, Low-Speed E-Scooters and E-Scooters. Parking in a non-
+designated area, where such an area is provided, shall constitute a violation
+of this Section.
+3.   It shall be unlawful to park an E-Bike, Low-Speed E-Scooter or E-
+Scooter in such a way that it blocks an entrance to a building, a fire hydrant,
+or a crosswalk.
+4.   E-Motos that meet the requirements outlined in this Section shall be
+parked in designated parking spaces for motor vehicles and shall not be parked
+on Sidewalks, in pedestrian walkways, or in any other area not designated for
+vehicle parking.
+ 
+H.    SAFETY & EQUIPMENT:
+1.   Lamps and Reflectors
+a.   Every bicycle, E-Bike (Class 1, 2 and 3), E-Scooter, and Low-Speed E-
+Scooter, when in use at nighttime, shall be
+equipped with a lamp on the front that emits a white light visible from a
+distance of at least 500 feet to the front and with a red reflector on the rear
+which must be visible from all distances from 100 feet to
+600 feet to the rear when directly in front of a lawful lower beam of headlamps
+on a motor vehicle. A lamp emitting a steady or flashing red light visible from
+a distance of 500 feet to the rear may be used in addition to or instead of the
+red reflector.
+2.   Speedometer:
+a.   Each Class 3 E-Bike shall be equipped with a speedometer that displays
+the speed the bicycle is traveling in miles per hour.
+3.   Brakes
+a.   Every bicycle, E-Bike (Class 1, 2 and 3), Low-Speed E- Scooter, and E-
+Scooter shall be equipped with a working brake.
+4.   Alterations to E-Bikes, E-Scooters, or Low-Speed E-Scooters
+a.   No person shall knowingly modify an E-Bike, Low-Speed E- Scooter, or E-
+Scooter to change the manufacturer’s speed capability.
+b.   No person shall operate an altered E-Bike, Low- Speed E- Scooter or E-
+Scooter that allows the device to travel faster than the manufacturer’s speed
+capability.
+5.   While not required, the use of a helmet is strongly encouraged.
+6.   As a reminder, in Illinois, all bicyclists, including those operating E-
+Bikes, Low-Speed E-Scooters, or E-Scooters, have the same rights as other
+roadway users. All bicyclists must obey the rules of the road and be
+responsible for their actions, their safety, and the safety of others.
+7.   As mandated in the Illinois Vehicle Code, and specified in the Illinois
+Secretary of State’s Bicycle Rules
+of the Road handbook, bicyclists are instructed to ride as close and
+safe as practicable to the right-hand curb or edge of roadway, unless Village
+signage permits the full use of the lane.
+ 
+ 
+I.    ADULT / PARENTAL RESPONSIBILITY:
+ 
+It shall be unlawful for a person to permit or knowingly allow any minor, under
+the age of 18, of whom they are a parent or guardian, to violate any provisions
+of this Section 23.121.
+J.    PENALTIES:
+1.   Fines:AB20 The provisions of this Ordinance shall be enforced by the Mount
+Prospect Police Department.
+2.   Any person who violates any provision of this Section shall be subject to
+a fine of not less than $75.00. but not more than $500.00 for each
+offense. Fines for repeated violations will increase.
+3.   Any person who knowingly allows any minor, under the age of 18, of whom
+they are a parent or guardian, to violate any provision of this Section
+23.121 shall be subject to the following fine of not less than
+$100.00, but not more than $500.00 for each offense. Fines for repeated
+violations will increase to a minimum fine of $200.
+K.   IMPOUNDMENT: In addition to the general fines provided herein,
+the Mount Prospect Police Department, shall have the authority to immediately
+seize and impound any E-Bike, Low-Speed E-Scooter, E-Scooter or E-
+Moto that is operated in violation of the following provisions of this Section:
+ 
+1.   Operating an E-Bike, Low-Speed E-Scooter, E-Scooter or E-Moto while under
+the influence of alcohol or drugs.
+2.   Operating an E-Bike, Low-Speed E-Scooter, E-ME21Scooter or E-Moto in a
+reckless or dangerous manner that endangers the public or property.
+3.   Repeated or habitual violations of this ordinance by a single operator,
+regardless of the specific nature of the violation.
+ 
+Any item impounded under this Section shall only be released to the owner, if
+18 years of age or older, or to the parent or guardian of a minor, after an
+administrative fee of $150.00 is paid to the Mount Prospect
+Police Department. The owner, parent, or guardian shall also be responsible for
+any additional applicable costs or fees associated with the impoundment.
+L.   EXEMPTIONS: The following are exempt from the prohibitions contained in
+this Section 23.121:
+1.   Motorized wheelchairs.
+2.   Toy vehicles.
+3.   A person under the age of 16, riding a low-speed E-
+Scooter when accompanied by a parent or guardian.
+ 
+4.   A person under the age of 16, riding a Class 3 E-
+Bike, when accompanied by a parent or guardian; and
+3.   Any police, fire, municipal, or park district E-Bike, Low-Speed E-
+Scooter, E-Scooter, or vehicle, operated by an employee of the local
+government, in the course of their official duties.
+ 
+SECTION FOUR:  That this Ordinance shall be in full force and effect from and
+after its passage, approval, and publication in pamphlet form in the manner
+provided by law.
+ 
+ 
+AYES: DiPrima, Gens, Grossi, Matuszak, Saccotelli
+NAYS: None
+ 
+ABSENT: Dante
+ 
+PASSED and APPROVED this 7th day of October, 2025
+ 
+ 
+ 
+ 
+ 
+Paul Wm. Hoefert, Mayor
+ 
+ 
+ 
+ATTEST:
+ 
+ 
+ 
+Karen M. Agoranos, Village Clerk
  
  
 CHAPTER 1
@@ -6187,22 +6559,22 @@ of the building.
 window. (Ord. 6286, 12-6-2016)
 7.702: ILLUSTRATIONS:
    SIGN TYPES
-[https://export.amlegal.com/media/92272c5642270007921ab518bad1e64671f1be8f/
+[https://export.amlegal.com/media/dccc045fcb28af603d587cb1a180dc0f5d19e865/
 IMAGES/0-0-0-26.png]
    SIGN AREA - WALL
-[https://export.amlegal.com/media/92272c5642270007921ab518bad1e64671f1be8f/
+[https://export.amlegal.com/media/dccc045fcb28af603d587cb1a180dc0f5d19e865/
 IMAGES/0-0-0-28.png]
    SIGN AREA - FREESTANDING
-[https://export.amlegal.com/media/92272c5642270007921ab518bad1e64671f1be8f/
+[https://export.amlegal.com/media/dccc045fcb28af603d587cb1a180dc0f5d19e865/
 IMAGES/0-0-0-30.png]
    BUILDING WALL AREA
-[https://export.amlegal.com/media/92272c5642270007921ab518bad1e64671f1be8f/
+[https://export.amlegal.com/media/dccc045fcb28af603d587cb1a180dc0f5d19e865/
 IMAGES/0-0-0-32.png]
    BASE OR ESTABLISHED GRADE
-[https://export.amlegal.com/media/92272c5642270007921ab518bad1e64671f1be8f/
+[https://export.amlegal.com/media/dccc045fcb28af603d587cb1a180dc0f5d19e865/
 IMAGES/0-0-0-34.png]
    VISION CLEARANCE
-[https://export.amlegal.com/media/92272c5642270007921ab518bad1e64671f1be8f/
+[https://export.amlegal.com/media/dccc045fcb28af603d587cb1a180dc0f5d19e865/
 IMAGES/0-0-0-36.png]
 (Ord. 6286, 12-6-2016)
 CHAPTER 8
@@ -17789,9 +18161,9 @@ Informal office conferences may be held between the Department of Community
 Development and the retail food establishment to discuss sanitation problems. A
 verbatim record of these informal conferences need not be made. (Ord. 4137, 1-
 16-1990)
-[https://export.amlegal.com/media/92272c5642270007921ab518bad1e64671f1be8f/
+[https://export.amlegal.com/media/dccc045fcb28af603d587cb1a180dc0f5d19e865/
 IMAGES/0-0-0-38.png]
-[https://export.amlegal.com/media/92272c5642270007921ab518bad1e64671f1be8f/
+[https://export.amlegal.com/media/dccc045fcb28af603d587cb1a180dc0f5d19e865/
 IMAGES/0-0-0-40.png]
 (1981 Code)
 ARTICLE IV
@@ -26292,22 +26664,22 @@ SECTION:
 14.2501: Illustrations
 14.2501: ILLUSTRATIONS:
    A.   Lot Width And Lot Depth Explained:
-[https://export.amlegal.com/media/92272c5642270007921ab518bad1e64671f1be8f/
+[https://export.amlegal.com/media/dccc045fcb28af603d587cb1a180dc0f5d19e865/
 IMAGES/0-0-0-4061.png]
  
    B.   Required Yards Illustrated:
-[https://export.amlegal.com/media/92272c5642270007921ab518bad1e64671f1be8f/
+[https://export.amlegal.com/media/dccc045fcb28af603d587cb1a180dc0f5d19e865/
 IMAGES/0-0-0-4063.png]
  
    C.   Transitional Yards:
-[https://export.amlegal.com/media/92272c5642270007921ab518bad1e64671f1be8f/
+[https://export.amlegal.com/media/dccc045fcb28af603d587cb1a180dc0f5d19e865/
 IMAGES/0-0-0-4065.png]
  
    D.   Lot Types:
-[https://export.amlegal.com/media/92272c5642270007921ab518bad1e64671f1be8f/
+[https://export.amlegal.com/media/dccc045fcb28af603d587cb1a180dc0f5d19e865/
 IMAGES/0-0-0-4067.png]
  
-[https://export.amlegal.com/media/92272c5642270007921ab518bad1e64671f1be8f/
+[https://export.amlegal.com/media/dccc045fcb28af603d587cb1a180dc0f5d19e865/
 IMAGES/0-0-0-4069.png]
  
 (1981 Code; amd. Ord. 5426, 4-20-2004; Ord. 6286, 12-6-2016; Ord. 6657, 12-20-
@@ -50342,7 +50714,7 @@ screened from view from all rights of way, single-family residences, or single-
 family zoned parcels by, at a minimum, a continuous hedge, fence, or masonry
 wall placed a minimum of five feet (5') from the tank.
          i.   Typical flammable liquid storage tank installation:
-[https://export.amlegal.com/media/92272c5642270007921ab518bad1e64671f1be8f/
+[https://export.amlegal.com/media/dccc045fcb28af603d587cb1a180dc0f5d19e865/
 IMAGES/0-0-0-4047.png]
  
       2.   Combustible Liquids: The storage of combustible liquids in
