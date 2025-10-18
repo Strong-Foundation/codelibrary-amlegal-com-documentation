@@ -1,8 +1,8 @@
 COUNTY OF HENDRICKS, INDIANA
 CODE OF ORDINANCES
-2024 S-2 Supplement contains:
-Local legislation current through Ord. 2023-45, passed 12-12-2023; and
-State law current through Indiana Legislative Service, 2024 Acts, Pamphlet No.
+2025 S-3 Supplement contains:
+Local legislation current through Ord. 2024-50, passed 12-10-2024; and
+State law current through Indiana Legislative Service, 2025 Acts, Pamphlet No.
 3
  
 Published by:
@@ -3488,157 +3488,160 @@ passed 6-28-2022)
 § 37.26 EROSION CONTROL UNIFORM SCHEDULE.
    (A)   Erosion control uniform schedule of fees.
 Type of Fee Fees
-Type of Fee                          Fees
+Type of Fee                             Fees
 Amenity Area
-Amendment to a development plan      $500, plus $10 per lot/acre/unit
-Secondary development plan           $500, plus $10 per lot per acre/unit
+Amendment to a development plan         $500, plus $10 per lot/acre/unit
+Secondary development plan              $500, plus $10 per lot per acre/unit
 Development Plan Review
-Amendment to a development plan      $500, plus $10 per lot/acre/unit
-Secondary development plan           $500, plus $10 per lot/acre/unit
+Amendment to a development plan         $500, plus $10 per lot/acre/unit
+Secondary development plan              $500, plus $10 per lot/acre/unit
 Miscellaneous Fees
-Blackline copies                     $2 per sheet
-Copies                               $1 per sheet
-Returned check fee                   $25
+Copies                                  $1
+Credit/debit transactions; charges less $1
+than $33
+Credit/debit transactions; charges      3% of transaction total
+Returned check fee                      $25
 Planned Unit Development
-Amendment to an approved PUD         $500, plus $10 per lot/acre/unit
-Secondary development plan           $500, plus $10 per lot/acre/unit
-Ponds*
-5,000 to 20,000 sq. ft. surface area $100
+Amendment to an approved PUD            $500, plus $10 per lot/acre/unit
+Secondary development plan              $500, plus $10 per lot/acre/unit
+Ponds (except those ponds/detention areas already reviewed, and approved, in
+the development process)
+5,000 to 20,000 sq. ft. surface area    $100
 disturbed
-20,001 to 43,559 sq. ft. surface     $200
-area disturbed
-43,560 sq. ft. or more surface area  $300
+20,001 to 43,559 sq. ft. surface area   $200
+disturbed
+43,560 sq. ft. or more surface area     $300
 disturbed
 Residential; Principal
-Accessory structures                 $100
-Additions                            $100
-Demolition                           $250
-Detached garage                      $100
-Expedited review                     $75
-Multi-family dwelling                $500 per building
-Relocation                           $100
-Single-family dwelling               $250
-Swimming pools                       $100
+Accessory structures                    $100
+Additions                               $100
+Demolition                              $100
+Detached garage                         $100
+Expedited review                        $75
+Multi-family dwelling                   $500
+Relocation                              $100
+Single-family dwelling                  $250
+Swimming pools                          $100
 Shopping Center
-Amendment to approved secondary      $1,000, plus $10 per lot/acre/unit
+Amendment to approved secondary         $1,000, plus $10 per lot/acre/unit
 development plan
-Secondary development plan           $1,000, plus $10 per lot/acre/unit
-Stop Work Orders
-Fine for continued construction      $1,000 first day, up to $500 for each
-after stop work order                additional day
-Permit reinstatement                 Minimum $500, or two times the filing fee,
-                                     whichever is greater
+Secondary development plan              $1,000, plus $10 per lot/acre/unit
 Subdivision
-Amendment to a major subdivision     $500, plus $10 per lot/acre/unit
-Major subdivision; secondary         $500, plus $10 per lot/acre/unit
-Minor subdivision; secondary         $250
+Amendment to a major subdivision        $500, plus $10 per lot/acre/unit
+Major subdivision; secondary            $500, plus $10 per lot/acre/unit
+Minor subdivision; secondary            $250
 Utility
-5,000 to 20,000 sq. ft. surface area $150
+5,000 to 20,000 sq. ft. surface area    $150
 disturbed
-20,001 to 43,559 sq. ft. surface     $250
-area disturbed
-43,560 sq. ft. or more surface area  $500
+20,001 to 43,559 sq. ft. surface area   $200
 disturbed
-Notes to Table
-*   Except those ponds/detention areas already reviewed, and approved, in the
-development process.
+43,560 sq. ft. or more surface area     $300
+disturbed
  
-   (B)   Engineering review fees. All engineering projects that require a
-stormwater pollution prevention plan for construction sites will require a
-review fee above and beyond the clean water permit fee. The review fee shall
-equate to the contract rate of the reviewing engineer, not to exceed $110 per
-hour. This fee shall be paid to the County Drainage Board, and shall be paid in
-full before any clean water permit is issue.
-   (C)   Fees. All fees are non-refundable, unless so permitted by the Drainage
-Board.
-(Ord. 2013-09, passed 4-9-2013)
+   (B)   Engineering review. All projects disturbing over an acre require a
+general stormwater permit which will be subject to review by our staff
+engineer. The reviewing engineer will bill separately to the appropriate
+parties for the review fee.
+   (C)   Non-refundable. All fees are non-refundable.
+(Ord. 2013-09, passed 4-9-2013; Ord. 2024-47, passed 11-12-2024)
 § 37.27 DRAINAGE BOARD UNIFORM SCHEDULE.
-   (A)   Drainage Board uniform schedule of fees.
+   (A)   Drainage Board and County Surveyor uniform schedule of fees.
 Type of Fee Fees
-Type of Fee                                                     Fees
-Commercial/Industrial* **
-Primary/preliminary                                             $1,000
-Secondary/final                                                 $1,000
-Development Plan Review (DPR)* **
-Primary/preliminary                                             $1,000
-Secondary/final                                                 $1,000
+Administrative Fees
+Type of Fee                                          Fees
+Administrative Fees
+Copies                                               $2 per page
+1.   Large format paper (up to 24"x36")           $5 per page
+2.   Mylar (up to 24"x36")                        $1 per page
+3.   Regular copy paper (up to 11"x17")
+Credit/debit transaction fee                         $1
+1.   Charges less than $33                        3% of transaction total
+2.   Charges over $33
+Recording fee*                                       $25
+Returned check fee (or as stipulated by the          $55
+Treasurer's Office)
+Commercial/Industrial**
+Primary/preliminary                                  $3,000
+Secondary/final                                      $3,000
+Development Plan Review (DPR)**
+Primary/preliminary                                  $1,000
+Secondary/final                                      $1,000
 Fines and Penalties
-Incomplete/non-compliance with required forms/plans¹           Up to $2,500
-Moving or destroying a corner stone (cost of repair/replacement Up to $10,000
-plus²)
-Working on/damaging/destroying a regulated drain (cost of       Up to $2,500
-repair plus)³
-Secondary/final                                                 $1,000
-Miscellaneous‡
-8.5 inches by 11 inches to 11 inches by 17 inches copies        $1 per page
-(regular copies)
-Large copies                                                    $2 per page
-Returned check fee (or as stipulated by the Treasurer’s Office$55 minimum
-Other Permits
-Address/alcohol verification permit ††                      $100
-Petition to vacate a regulated drain permit application †     $500
-Plot plan review(s) ††                                      $100
-Removal of obstruction permit application †                   $500
-Petition for a new or lengthening of a regulated drain          $500
-application***
-Variance of a regulated drain easement permit application***    $250
-Outlets, Crossings, and Encroachments***
-Individual residence and farms                                  $250 each
-1.   Regulated drain cross and encroachment                  $150 each
-2.   Regulated drain outlet permit
-Utilities, commercial and industrial                            $500 each
-1.   Regulated drain crossing permit                         $1 per ft. each
-2.   Regulated drain encroachment permit ($500 min.)         $250 each
+After the fact permits                               $250 + original fee
+Altering, damaging, relocating, or destroying a      $2,000 + cost of repair
+regulated drain or drainage easement
+Altering, damaging, relocating, or destroying        $10,000 + cost of repair
+Section Corners
+Noncompliance with Surveyor s Office policies,       $2,500
+ordinances, and technical standards
+Other Permits and Services
+County verification of business location             $100
+Petition for a new or lengthening of a regulated     $1,000
+drain***
+Petition to vacate a regulated drain permit          $1,000
+Plot plan review                                     $100
+Removal of obstruction                               $1,000
+Televising service                                   $100 per hour
+1.   Hendricks County departments                 $200 per hour
+2.   Non-Hendricks County departments
+Variance of a regulated drain easement permit        $1,000
+Outlets, Crossings, and Encroachments
+Individual residence and farms                       $250 each
+1.   Regulated drain crossing                     $250 each
+2.   Regulated drain encroachment permit          fee + $5 per ft.
+   a.   Over 100 ft.                           $150 each
 3.   Regulated drain outlet permit
-Planned Unit Development (PUD, MAP)* **
-Primary/preliminary                                             $1,000
-Secondary/final                                                 $1,000
-Subdivision*
-Major subdivision**                                             $1,000
-1.   Primary/preliminary                                     $1,000
+Utilities, commercial and industrial                 $500 each
+1.   Regulated drain crossing permit              $500 each
+2.   Regulated drain encroachment permit          fee + $5 per ft.
+   a.   Over 100 ft.                           $500 each
+3.   Regulated drain outlet permit
+Planned Unit Development (PUD)**
+Primary/preliminary                                  $1,000
+Secondary/final                                      $1,000
+                                                     Fees are equal to the
+Revisions, Amendments, and Replats                   original project application
+                                                     fees.
+Subdivision**
+Major subdivision (MAP)**                            $1,000
+1.   Primary/preliminary                          $1,000
 2.   Secondary/final
-Minor residential plat (MRP); primary and secondary**           $250
-Minor subdivision (MIP); primary and secondary**                $750
-Revision, amendment, re-plat; primary and secondary**           $500
-Television Equipment, Van, Personnel‡‡
-County departments (two-hour minimum)                           $100 per hour
-Non-county departments (two-hour minimum)                       $150 per hour
+Minor residential plat (MRP)**                       $250
+1.   Primary and secondary as one submittal       $250 each
+2.   Primary and secondary as separate submittals
+Minor subdivision (MIP)**                            $750
+1.   Primary and secondary as one submittal       $750 each
+2.   Primary and secondary as separate submittals
 Notes to Table
-*   All fees received, and all previously deposited fees in GDIF shall be
-applied.
-**   Additional review fees may apply.
-***   All fees received shall be applied to the corresponding Regulated Drain
-Fund.
-†   Fees shall be applied to Drainage Board Non-Reverting Fund.
-††   Fees shall be applied to Surveyor’s Office Non-Reverting Fund.
-‡   Fees shall be applied to County General Fund.
-‡‡   Fees shall be applied to Surveyor’s Office Non-Reverting Fund for
-Televising Equipment.
-¹   Fine/penalty shall be applied to Drainage Board Non-Reverting Fund.
-²   Fine/penalty shall be applied to Cornerstone Non-Reverting Fund.
-³   Fine/penalty shall be applied to corresponding Regulated Drain Fund.
-(If a project is continued three times, the project will be canceled/declined.
-All fees must be paid and will be forfeited, and the project must wait one year
-for the original submission date to re- apply.)
+*   Checks must be made out to the Hendricks County Recorder s Office.
+**   Additional review fees will apply.
+***   Subject to associated costs, i.e., engineering fees, construction costs,
+etc.
  
-   (B)   Engineering review fees. Most engineering projects will have a review
-fee(s) beyond the application fee(s). The review fee shall equate to the
-contracted rate and time spent by the reviewing engineer and approved by the
-Drainage Board. Each year the Drainage Board will negotiate and approve the
-engineer review rate. This fee(s) shall be paid to the County Drainage Board in
-full before the Drainage Board project approval letter is given out, and before
-any new projects can be submitted/approved. New review rates will be posted on
-the County Surveyor’s website once approved. Fees shall be applied to the
-Surveyor’s Office Project Reviews Fund.
-(Ord. 2020-08, passed 2-25-2020)
+      (1)   All fees are non-refundable. Fees on this schedule can be modified/
+waived at the discretion of the County Drainage Board. Appeals can be made to
+the Drainage Board and/or County Surveyor.
+      (2)   If an engineering project is continued three times, the project
+will be canceled/declined, and outstanding fees must be paid. Projects must
+wait one year from original submission date to re-apply, and resubmissions will
+be subject to new fees.
+   (B)   Engineering review fees. Most projects will have review fees beyond
+the application fees. The review fees shall be approved by the Drainage Board
+and equal the invoice submitted by the reviewing agency. Each year the Drainage
+Board may negotiate and approve the review rates. Fees shall be paid to the
+Drainage Board in full before the Drainage Board approval letter is given out
+and prior to additional project submittals/approvals. Review rates will be
+posted on the Surveyor s Office website when approved.
+(Ord. 2020-08, passed 2-25-2020; Ord. 2024-07, passed 3-26-2024)
 § 37.28 HEALTH BOARD UNIFORM SCHEDULE.
    (A)   Public health nursing.
+      (1)   Personal health services.
 Type of Fee Fees
 Type of Fee                         Fees
 Personal Health Services*
                                     Price based on VFC maximum allowable
 Immunizations (state provided)      administration fee.
-                                    (no charge if the patient is unable to
+                                    (No charge if the patient is unable to
                                     pay)
 Nursing services, and county-       Prices based on cost of supplies,
 purchased immunizations, tests, and vaccines, and other necessary components
@@ -3650,26 +3653,28 @@ check, and credit card are also accepted.
 Other Services
 Universal precautions training      $10 per person
 Vaccination records                 $2 per copy
-   All communicable disease outbreak control situations where it is necessary
-to immunize all persons at a place of business to protect those individuals
-exposed or endangered by the possible communicable disease and to protect the
-health of the general public, the business entity or owners of the business
-shall pay for the cost of all vaccines, supplies, and other necessary
-components of service received by all individuals at the place of business.
  
-   (B)   Vital records.
+      (2)   Outbreak control. All communicable disease outbreak control
+situations where it is necessary to immunize all persons at a place of business
+to protect those individuals exposed or endangered by the possible communicable
+disease and to protect the health of the general public, the business entity or
+owners of the business shall pay for the cost of all vaccines, supplies, and
+other necessary components of service received by all individuals at the place
+of business.
+   (B)   Vital record services.
 Type of Vital Record Service Fees
 Type of Vital Record Service                 Fees
 Birth Records
 Affidavit of amendment                       $15
 Birth certificate (per copy)                 $15
-Genealogy search (per name)                  $5
+Correction by notification                   $15
+Genealogy search (per birth or death record) $5
 Home birth registration                      $35
-Legitimization                               $15
 Paternity affidavits                         $25
-Plastic wallet size birth certificate sleeve $1
+Plastic birth certificate sleeve             $1
 Death Records
 Death certificate (per copy)                 $15
+Amended death certificate (per copy)         $10
  
    (C)   Environmental health.
       (1)   Food establishments.
@@ -3691,11 +3696,11 @@ food)                                                location
 Farmer’s market vendor (with potentially hazardous $75 per year at one
 food)                                                location
                                                      (maximum $225 per year)
-Mobile retail food establishment with no food        $50 per unit/year
+Mobile retail food establishment with no food        $50 per unit per year
 preparation
-Mobile retail food establishment with food           $100 per unit/year
+Mobile retail food establishment with food           $100 per unit per year
 preparation
-Pushcart with all food pre-packaged                  $25 per unit/year
+Pushcart with all food pre-packaged                  $25 per unit per year
 Temporary food establishment                         $40 per event
 Additional fee for late application                  $25 per application
 Re-inspection
@@ -3706,25 +3711,27 @@ conducted by the Health Department as a result of a fire or other emergency in
 a food establishment.
  
       (2)   On-site sewage disposal (septic) systems.
-Type of Fee                                                   Fees
-Permits (valid one year from date of issue)
-Gravity trench system                                         $150
-Pump assisted trench system                                   $200
-Sand mound                                                    $250
-System other than those listed above                          $250
-Repair of a system component (pipe, tank, pump)               $50
-Temporary sewage holding tank for newly constructed residence $250
-Other Septic Inspection and On-Site Visits
-On-site investigation for construction/maintenance            $75
+Type of Fee Fees
+Type of Fee                                              Fees
+Permits
+Gravity trench system                                    $150
+Pump assisted trench system                              $200
+Sand mound                                               $250
+Permanent sewage holding tank                            $250
+Temporary sewage holding tank                            $50
+System other than those listed above                     $250
+Repair of a system component (i.e., pipe, tank, or pump) $50
+Operating permit                                         $150
 Re-inspection
    A fee of $50 may be imposed for each additional inspection that is
-scheduled due to previous inspection findings or incomplete installation.v
+scheduled due to previous inspection findings or incomplete installation.
  
       (3)   Well protection. Valid one year from date of issue.
  
 Type of Permit           Fees
 New well and pump permit $45
 Replacement pump permit  $20
+Well repair              $20
  
       (4)   Solid waste.
  
@@ -3739,16 +3746,15 @@ Temporary campground inspection $50 per visit
  
       (6)   Pools.
  
-Type of Fee                   Fees
+Type of Fee Fees
 Permits
-Annual permit for public pool $200
+Pool permit $200
 -   Pool permits are valid from January 1 to December 31 of that year.
--   The term “public pool” includes a wading pool, hot tub, or spa.
 Additional inspections
    An additional fee of $50 may be imposed for each inspection that is
 scheduled due to previous inspection findings.
  
-      (7)   Tattoo operations.
+      (7)   Body modifications.
  
 Type of Fee                                 Fees
 Fixed or mobile facility                    $50 per booth/station per year
@@ -3768,7 +3774,17 @@ adopted by the County Board of Health. The Health Department accepts Medicaid,
 Medicare, and private insurance payments for these services. Cash, check, and
 credit card are also accepted.
  
-(Ord. 2018-10, passed 5-9-2018; Ord. 2022-25, passed 6-28-2022)
+   (D)   Administration and enforcement. In the event a lawsuit is necessary to
+collect the cost of fees, penalties or services under this section, the
+individual or business entity found to be liable shall also pay for reasonable
+attorney fees and cost of litigation to the county. Each of the foregoing fees
+are non-refundable and shall be paid at the time the application for service is
+made. Any failure to obtain a permit and/or payment of the fee shall be
+considered a violation of this section. Any entity, private or commercial, who
+is in violation of this section may be enjoined from any further and continuing
+violation.
+(Ord. 2018-10, passed 5-9-2018; Ord. 2022-25, passed 6-28-2022; Ord. 2024-41,
+passed 10-8-2024)
 CHAPTER 38: TAXATION
 Section
 General Provisions
@@ -3838,16 +3854,16 @@ than 22 years.
 Allocation Rate Category Existing LIT Rate Proposed LIT Rate
 Allocation Rate Category                   Existing LIT Rate Proposed LIT Rate
 Certified shares (I.C. 6-3.6-6)            1%                1%
-Correctional or rehabilitation facilities  0.20%             0.20%
+Correctional or rehabilitation facilities  0.20%             0.15%
 (I.C. 6-3.6-6-2.7)
-Economic development (I.C. 6-3.6-6)        0.25%             0.25%
+Economic development (I.C. 6-3.6-6)        0.25%             0.30%
 Property tax relief rate (I.C. 6-3.6-5)    0.15%             0.15%
 Public safety (I.C. 6-3.6-6)               0.10%             0.10%
-Special purpose rate (I.C. 6-3.6-7)        0%                0%
+Special purpose rate (I.C. 6-3.6- 7)       0%                0%
 Total                                      1.70%             1.70%
  
 (Council Ord. 2019-30, passed 8-28-2019; Council Ord. 2022-42, passed 8-23-
-2022)
+2022; Council Ord. 2024-30, passed 9-17-2024)
 § 38.02 GROSS INCOME TAX; HOMESTEAD PROPERTY.
    (A)   The County Council increases the County Adjusted Gross Income Tax rate
 imposed upon the resident county taxpayers from 1% to 1.15%.
@@ -5289,230 +5305,203 @@ Section
    (A)   Definitions. For the purpose of this section, the following
 definitions shall apply unless the context clearly indicates or requires a
 different meaning.
-      AFFIDAVIT FORM. A form provided by the County Health Department that is
-signed by the owner, notarized, and recorded.
-      BOARD OF HEALTH. The County Board of Health having jurisdiction in the
-county.
-      COMMERCIAL. Any type of building other than a one- or two-family
-dwelling.
-      COMMERCIAL ON-SITE SEWAGE SYSTEM. A State Department of Health regulation
-that establishes standards for commercial on-site sewage disposal systems, as
-defined by 410 I.A.C. 6-10.1.
-      HEALTH OFFICER. The Health Officer having jurisdiction in the county.
-      HEARING. A session in which witnesses are heard and testimony is taken.
-      NOTICE OF VIOLATION. A written notification of a section violation.
-      ORDER. A written mandate a person is directed to obey.
-      PLOT PLAN. A graphic representation certified by an engineer,
-professional surveyor, or architect currently registered in the state, which
-identifies the topography, locations, current ground elevations, and elevations
-of the proposed improvements.
+      PLOT PLAN. A graphic representation which identifies the topography,
+locations, easements, current ground elevations and elevations of the proposed
+improvements.
+      REGISTERED INSTALLER. Any individual who performs any work in furtherance
+of construction, installation, replacement, alteration, or repair of any
+residential or commercial on-site sewage system.
       REPAIR INSTALLATION. The repair or replacement of any on-site sewage
-system component, other than the replacement or expansion of a soil absorption
+system component other than the replacement or expansion of a soil absorption
 field.
-      RESIDENTIAL ON-SITE SEWAGE. A State Department of Health regulation that
-establishes standards for residential sewage systems, and any amendments
-thereto, as defined by 410 I.A.C. 6-8.3.
-      SOIL PROFILE ANALYSIS REPORT. A written description and interpretation of
-the physical and chemical properties of soil from sample sites. The written
-SOIL PROFILE REPORT must include a detailed soil profile description of the
-properties of the soil at each sample site. All sample sites must be evaluated
-and described in the SOIL PROFILE REPORT.
-      STAKED. A lathe stake, or equivalent, at each end of all proposed
-trenches, or the four corners of the basal area and aggregate bed for a sand
-mound system.
-      STATE DEPARTMENT OF HEALTH. The state agency having authority to regulate
-on-site sewage systems.
-      VIOLATION. A breach of law.
-   (B)   General requirements. All residential on-site sewage systems shall be
-designed and installed in accordance with 410 I.A.C. 6-8.3, “Residential On-
-Site Sewage Systems”, except as stated below:
-      (1)   The minimum size of a new septic tank used in all installations
-shall be a minimum of 1,000 gallons;
-      (2)   An outlet filter shall be required for all installations;
-      (3)   All subsurface drain system trenches installed shall be filled to
-within six inches of final grade with aggregate which meets the minimum
-requirements of 410 I.A.C. 6-8.3-68, washed aggregate with a gradation in the
-range of INDOT specifications 8-11, INDOT specification 23 sand, or equivalent,
-and the final six inches to final grade with cover soil material;
-      (4)   Temporary sewage holding tanks must be watertight, and constructed
-of durable material such as concrete, fiberglass, or polyethylene; that is,
-equipped with both audible and visible alarms;
-      (5)   All designs for commercial on-site sewage systems must have
-approval from the State Department of Health, prior to installation. All
-designs and installations must be done in accordance with 410 I.A.C. 6-10.1
-“Commercial On-Site Sewage Systems” and amendments, unless specific written
-exemption is obtained from the State Department of Health;
-      (6)   Whenever a public, or semi-public, sewer becomes available and is
-within 300 feet of the property line of a residential or commercial property
-served by an on-site sewage system, holding tank, or sanitary vault privy, a
-direct connection shall be made to said sewer, and the on-site sewage system,
-holding tank, or sanitary vault privy be abandoned according to 410 I.A.C. 6-
-8.3-90; and
-      (7)   The on-site sewage system shall be installed by a person who is
-certified by the State On-Site Wastewater Professionals Association, or by a
-certification entity recognized by the Health Officer.
+   (B)   General requirements.
+      (1)   All persons owning, leasing, or otherwise occupying property that
+has a residence, residential outbuilding or commercial facility with plumbing
+not connected to sanitary sewer shall comply with the requirements of 410
+I.A.C. 6-8.3 et seq., 410 I.A.C. 6-10.1 et seq., and/or Bulletin S.E. 11, 2021
+version, as applicable, and the provisions of this section for an on-site
+sewage system.
+      (2)   Any installation, repair, replacement, alteration or modification
+must be completed by a registered installer who shall be deemed responsible for
+the work. A registered installer must:
+         (a)   Apply to the County Health Department for registration on a form
+provided by the department.
+         (b)   Provide proof of a valid installer certificate issued from the
+Indiana Onsite Wastewater Professionals Association (IOWPA) or another entity
+recognized by the Health Officer.
+      (3)   In the event of a residential or commercial on-site sewage system
+failure the residence, residential outbuilding, or commercial facility shall be
+required to make a connection to sanitary sewer, if the sanitary sewer is
+available within 300 feet of the affected property line and is available for
+connection at a construction cost and connection fee estimated not to exceed
+150% of the cost estimated for installing an on-site sewage system to serve the
+residence, residential outbuilding or commercial facility.
+      (4)   In the event that a sewage holding tank is not operated in a safe
+and sanitary manner and in accordance with I.C. 16-41-25-9 and this section,
+the County Health Department may require the residence, residential
+outbuilding, or commercial facility to:
+         (a)   Connect to sanitary sewer if the sanitary sewer is available
+within 300 feet of the affected property line and is available for connection
+at a construction cost and connection fee estimated not to exceed 150% of the
+cost estimated for installing an on-site sewage system to serve the residence,
+residential outbuilding or commercial facility; or
+         (b)   Install an on-site sewage system with a soil absorption field in
+compliance with 410 I.A.C. 6-8.3 or 410 I.A.C. 6-10.1 or connect to an existing
+system that has not failed.
+      (5)   Any lot subdivided after the adoption of this section, being served
+by an on-site sewage system, and requiring approval utilizing the County
+Subdivision Control Ordinance, must be at least one and one half acres and
+provide a soil absorption field area. A soil profile analysis prepared by a
+soil scientist consisting of at least three sample sites in the area of the
+proposed soil absorption field is required. The sample sites must be
+representative of the soils within the absorption field and meet the
+requirements in 410 I.A.C. 6-8.3 or 410 I.A.C. 6-10.1.
+      (6)   Sewage holding tanks.
+         (a)   Sewage holding tanks must meet all requirements of a septic tank
+as defined in 410 I.A.C. 6-8.3 and 410 I.A.C. 6-10.1.
+         (b)   All permanent sewage holding tanks must hold at least three
+times the design daily flow.
+         (c)   Pump receipts must be submitted to the County Health Department
+within 30 days of the tank being pumped.
+         (d)   All holding tanks shall be required to have an operating permit
+issued by the County Health Department. Operating permits shall be renewed
+annually and are valid from January 1 to December 31 of the same year.
    (C)   Permitting.
-      (1)   The application for an on-site sewage system permit shall be made
-on a form provided by the County Health Department. At all times, from the
-start of construction to the time of inspection, the approved plot plan and
-permit shall be available on site.
-      (2)   Any deviation from the permit or approved plan must be approved by
-the County Health Department prior to modification. An as-built plot plan
-showing the actual installation details, including the unplanned modifications,
-will be required before final approval.
-      (3)   All permits are valid for a period of one year after the date
-issued. After expiration of the permit, construction may not begin without
-reapplication and payment of the permit fee. This reapplication procedure may
-be waived by the County Health Department.
-      (4)   The applicant shall provide the following:
-         (a)   For a residential on-site sewage system permit:
-            1.   A signed application for an on-site sewage system permit;
-            2.   Two copies of the plot plan prepared by an engineer,
-professional surveyor, or architect currently registered in the state. The plot
-plan shall certify that the sewage system will comply with this section and 410
-I.A.C. 6-8.3, “Residential On-Site Sewage Systems”, is properly constructed,
-operated, and maintained;
-            3.   A soil profile analysis report prepared by a soil scientist
-consisting of at least three samples sites within the proposed soil absorption
-field. The samples sites must be representative of the soils within the
-absorption field;
-            4.   A floor plan of the proposed dwelling;
-            5.   Confirmation that the proposed on-site sewage system has been
-staked prior to the on-site plan review by the County Health Department;
-            6.   All appropriate fees outlined in §
-37.27; and
-            7.   Any additional information deemed necessary by the Health
-Officer.
-         (b)   For a residential on-site sewage system repair permit:
-            1.   A signed application for an on-site sewage system repair
-permit;
-            2.   A drawing of the proposed repair, unless waived by the County
-Health Department;
-            3.   All appropriate fees as outlined in §
-37.27; and
-            4.   Any additional information deemed necessary by the Health
-Officer.
-         (c)   For a commercial on-site sewage system permit:
-            1.   A signed application for an on-site sewage system permit;
-            2.   A soil profile analysis report prepared by a soil scientist
-consisting of at least three samples sites within the proposed soil absorption
-field;
-            3.   An approval letter, and two copies of the approved plot plan
-from the State Department of Health, or the technical specification data
-report, with two copies of the plot plan that meets the specified requirements,
-prepared by an engineer or architect currently registered in the state;
-            4.   All appropriate fees as outlined in §
-37.27; and
-            5.   Any additional information deemed necessary by the Health
-Officer.
-   (D)   Approval. The Health Officer, or agent, shall be allowed to inspect
-the work at any stage of construction. The permittee shall notify the Health
-Officer, or agent, when the work is ready for final inspection, and at least
-two working days before any underground portions are covered. The inspection
-shall be made within two working days of the receipt of notice by the Health
-Officer, or agent. The Health Officer, or agent, bearing proper credentials and
-identification, shall be permitted to enter upon all properties for the
-purposes of inspection, observation, measurement, sampling, and testing
-necessary to carry out the provisions of this section, and 410 I.A.C. 6-8.3 or
-410 I.A.C. 6-10.1. Final approval of the installation for an on-site sewage
-system or privy shall not become effective until the installation is completed
-to the satisfaction of the Health Officer, or agent.
-   (E)   Permit denial.
-      (1)   Upon denial of a valid permit application, the applicant may
-request a hearing with the County Board of Health. The request must be in
-writing and received within ten calendar days after receipt of the denial. Upon
-receipt of a request of a hearing, the Health Officer, or agent, shall arrange
-a time and place for the hearing, and shall give the petitioner written notice
-thereof. Such hearing shall be held as soon as practical after receipt of the
-request, provided that I.C. 5-14-1.5-5 (Open Door Law) is complied with. If no
-such request is received within ten calendar days after receipt of the denial,
-the denial shall stand.
-      (2)   At such hearing, the petitioner shall be given an opportunity to be
-heard and to show evidence as to why the permit should be granted.
-Additionally, the Health Officer, or agent, shall be given time to explain why
-the permit was denied. At the conclusion of the hearing, the County Board of
-Health shall sustain, or overrule, the permit denial depending upon it findings
-as to compliance with the provisions of this section, 410 I.A.C. 6-8.3,
-“Residential On-Site Sewage Systems”, or 410 I.A.C. 6-10.1, “Commercial On-Site
-Sewage Systems”. If the Board of Health shall overrule the permit denial, then
-a permit shall be issued and signed by the Chairperson of the Board of Health.
-      (3)   All proceedings of such hearing, including the findings and
-decision of the Board of Health, shall be summarized, reduced to writing, and
-entered as a matter of public record in the office of the County Board of
-Health. In addition, all pertinent information (permit application and written
-correspondence) shall be included in the public record. Any person may seek
-relief from any decision in any court of competent jurisdiction as provided by
-the laws of the state.
-   (F)   Enforcement.
-      (1)   Whenever the Health Officer, or agent, determines there are
+      (1)   At all times, from the start of installation to the time of
+inspection, the approved plan and permit shall be available on site.
+      (2)   Any deviation from the permit or approved plan must be approved in
+writing by the County Health Department prior to modification. A plot plan
+showing the installation details including the unplanned modifications will be
+required.
+      (3)   All construction permits are valid for a period of two years after
+the date issued. After expiration of the permit, construction may not begin
+without reapplication, payment of the permit fee, and reissuance of a permit.
+      (4)   The applicant shall provide the following with their signed permit
+application:
+         (a)   Residential on-site sewage system permit.
+            1.   Two copies of the plot plan.
+            2.   A soil profile analysis prepared by a soil scientist
+consisting of at least three sample sites in the area of the proposed soil
+absorption field. The sample sites must be representative of the soils within
+the absorption field.
+            3.   A floor plan of the proposed/existing dwelling showing all
+doors, windows, closets, and walls.
+            4.   Confirmation that the proposed on-site sewage system has been
+staked or marked at each end of all proposed trenches, any bends, the four
+corners of the basal area for a sand-based system, and aggregate bed for an
+elevated sand mound system.
+            5.   If a recorded affidavit is supplied, it must be on a form
+provided by the County Health Department that is signed by the owner, notarized
+and recorded with the County Recorder’s Office.
+            6.   All appropriate fees as outlined in the County Ordinance for
+Collection of Fees.
+         (b)   Residential on-site sewage system repair permit.
+            1.   An IOWPA inspection form completed by a registered installer
+may be required.
+            2.   All appropriate fees as outlined in the County Ordinance for
+Collection of Fees.
+         (c)   Sewage holding tank permits.
+            1.   A sewage holding tank construction permit requires:
+               a.   A signed application for an on-site sewage holding tank
+permit.
+               b.   A construction plan of sufficient clarity to show
+compliance with this section.
+               c.   A copy of a written contract with an operator of a septage
+management vehicle providing for the removal of septage at regular intervals.
+               d.   If a recorded affidavit is supplied, it must be on a form
+provided by the County Health Department that is signed by the owner, notarized
+and recorded with the County Recorder’s Office.
+               e.   All appropriate fees as outlined in the County Ordinance
+for Collection of Fees.
+            2.   An operating permit issuance or renewal requires:
+               a.   A signed application for an on-site sewage holding tank
+operating permit.
+               b.   An inspection report by a registered installer for
+verification of proper operation of the tank and alarm system.
+               c.   All appropriate fees as outlined in the County Ordinance
+for Collection of Fees.
+         (d)   Commercial on-site sewage system permit.
+            1.   A signed application for an on-site sewage system permit.
+            2.   A soil profile analysis prepared by a soil scientist
+consisting of at least three sample sites in the area of the proposed soil
+absorption field. The sample sites must be representative of the soils within
+the absorption field.
+            3.   An approval letter and two copies of the approved plot plan
+from the State Department of Health, or the technical specification data report
+indicating the project has been delegated to the County Health Department with
+two copies of the plot plan that meets the specified requirements.
+            4.   Confirmation that the proposed on-site sewage system has been
+staked or marked at each end of all proposed trenches, any bends, the four
+corners of the basal area for a sand-based system, and aggregate bed for a sand
+mound system.
+            5.   All appropriate fees as outlined in the County Ordinance for
+Collection of Fees.
+   (D)   Approval. The Health Officer or agent shall be allowed to inspect the
+construction work at any stage of installation of the on-site sewage system.
+   (E)   Enforcement.
+      (1)   Whenever the Health Officer or agent determines there are
 reasonable grounds to believe that there has been a violation of this section,
-410 I.A.C. 6-8.3, “Residential On-Site Sewage Systems”, or 410 I.A.C. 6-10.1,
-“Commercial On-Site Sewage Systems”, the Health Officer, or agent, shall give
-notice of such alleged violation to the person, or persons, responsible, as
+410 I.A.C. 6-8.3, or 410 I.A.C. 6-10.1, the Health Officer or agent shall give
+notice of such alleged violation to the person or persons responsible, as
 hereafter provided. Such notice shall:
-         (a)   Indicate the date and location of the violation;
+         (a)   Indicate the date and location of the violation.
          (b)   Clearly indicate the nature of the violation and the related
-section citation;
+ordinance citation.
          (c)   Allow a reasonable time for the performance of necessary
-remediation; and
-         (d)   Be properly served upon the person, or persons, responsible,
+remediation.
+         (d)   Be properly served upon the person or persons responsible,
 provided that such notice is deemed to be properly served. Proper service shall
 be any of the following:
-            1.   Sent to the person directly;
-            2.   Sent by registered mail to the last known mailing address of
+            1.   Sent to the person directly via first class mail;
+            2.   Sent by certified mail to the last known mailing address of
 the person;
-            3.   Posted in a conspicuous place in, or about, the property
+            3.   Posted in a conspicuous place in or about the property
 affected by the notice; or
-            4.   Other method of service authorized, or required, under the
-laws of the state.
-      (2)   Any person, or persons, affected by any such notice issued by the
-Health Officer, or agent, may request, and shall be granted, a hearing on the
-matter before the County Board of Health. The request shall be in writing and
-received within ten calendar days of receipt of the notice of violation at the
-office of the County Health Department.
-      (3)   Such request shall briefly state the reasons for the requested
-hearing. Upon receipt of a request for a hearing, the Health Officer, or agent,
-shall arrange a time and a place for such hearing, and shall give the
-petitioner written notice thereof.
-      (4)   Such hearing shall be held as soon as practical after receipt of
-request hereof, provided that I.C. 5-14-1.5-5 (Open Door Law) is complied with.
-Any notice served pursuant to division (E) above shall automatically become an
-order if a written request for a hearing is not received within ten calendar
-days after receipt of the notice of violation is served.
-      (5)   At such hearing, the petitioner shall be given the opportunity to
-be heard and to show evidence as to why such notice of violation should be
-modified or withdrawn. Additionally, the Health Officer, or agent, shall be
-given time to explain the circumstances of the notice of violation.
-      (6)   After such hearing, the County Board of Health shall sustain,
+            4.   Other method of service authorized or required under the laws
+of this state.
+      (2)   Whenever the Health Officer or agent finds that an emergency exists
+which requires immediate action to protect the public health, the Health
+Officer may, without notice or hearing, issue an order reciting the existence
+of such an emergency and require that such action be taken as he deems
+necessary to alleviate the emergency. Notwithstanding the other provisions of
+this section, 410 I.A.C. 6-8.3, and 410 I.A.C. 6-10.1, such order shall be
+effective immediately.
+   (F)   Appeal process.
+      (1)   Any person or persons affected by enforcement or permit denial
+issued by the Health Officer or agent may request and shall be granted a
+hearing on the matter before the County Board of Health. The request shall be
+in writing and received within ten calendar days of receipt of notice of
+violation at the office of the County Health Department.
+      (2)   Such request shall briefly state the reasons for the requested
+hearing. Upon receipt of a request for a hearing, the Health Officer or agent
+shall arrange a time and a place for such hearing and shall give the petitioner
+written notice thereof. Such hearing shall be held as soon as practical but no
+later than 30 days after receipt of request unless the Health Officer and the
+petitioner agree in writing to a later date.
+      (3)   Any notice served pursuant to division (E) of this section shall
+automatically become an order if a written request for a hearing is not
+received within ten calendar days after receipt of the notice of violation is
+served.
+      (4)   At such hearing, the petitioner shall be given the opportunity to
+be heard and to show evidence as to why the notice of violation should be
+modified or withdrawn, or the permit should be issued. Additionally, the Health
+Officer or agent shall be given time to explain the circumstances of the notice
+of violation.
+      (5)   After such hearing, the County Board of Health shall sustain,
 modify, or withdraw the notice of violation, depending upon its findings as to
-whether the provisions of this section, 410 I.A.C. 6-8.3, “Residential On-Site
-Sewage Systems”, or 410 I.A.C. 6-10.1, “Commercial On-Site Sewage Systems”,
+whether the provisions of this section, 410 I.A.C. 6-8.3, or 410 I.A.C. 6-10.1,
 have been met. If the County Board of Health sustains or modifies such notice
-of violation, it shall then be deemed to be an order.
-      (7)   The proceedings at such hearing, including the findings and
-decision of the County Board of Health, shall be summarized, reduced to
-writing, and entered as a matter of public record in the office of the County
-Board of Health. Such record shall also include a copy of every notice of
-violation, or order, issued in connection with the matter as well as any other
-pertinent information. Any person may seek relief thereof from any court of
-competent jurisdiction, as provided by the law of the state.
-      (8)   Whenever the Health Officer, or his or her representative, find
-that an emergency exists which requires immediate action to protect the public
-health, the Health Officer may, without notice or hearing, issue an order
-reciting the existence of such an emergency, and require that such action be
-taken as he or she deems necessary to meet the emergency. Notwithstanding the
-other provisions of this section, 410 I.A.C. 6-8.3, “Residential On-Site Sewage
-Systems”, and 410 I.A.C. 6-10.1, “Commercial On-Site Sewage Systems”, such
-order shall be effective immediately.
-      (9)   Any person to whom such an order is directed shall comply therewith
-immediately, but upon petition to the Health Officer, shall be afforded a
-hearing, as soon as possible, in the manner provided in division (E) above.
-      (10)   After such hearing, depending upon the findings as to whether the
-provisions of this section, 410 I.A.C. 6-8.3, “Residential On-Site Sewage
-Systems”, or 410 I.A.C. 6-10.1, “Commercial On-Site Sewage Systems”, have been
-met, the County Board of Health shall continue such order in effect, modify it,
-or revoke it.
-(Ord. 2013-05, passed 3-26-2013) Penalty, see §
+of violation, it shall then be deemed to be an order. If the Board of Health
+shall overrule the permit denial, then a permit shall be issued and signed by
+the Chairperson of the Board of Health. The proceedings at such hearing,
+including the findings and decision of the County Board of Health, shall be
+summarized, reduced to writing, and entered as a matter of public record in the
+office of the County Board of Health. Such record shall also include a copy of
+every notice of violation or order issued in connection with this matter as
+well as any other pertinent information. Any person may seek relief thereof
+from any court of competent jurisdiction as provided by the law of the state.
+(Ord. 2013-05, passed 3-26-2013; Ord. 2024-22, passed 6-25-2024; Ord. 2024-50,
+passed 12-10-2024) Penalty, see §
 50.99
 § 50.02 GROUND WATER WELLS.
    (A)   Definitions.
@@ -5996,16 +5985,15 @@ crossing, or encroachment so as to provide inspection.
 (Ord. 2001-28, passed 11-26-2013) Penalty, see §
 50.99
 § 50.99 PENALTY.
-   (A)   Any person violating any provisions of this chapter, for which no
-specific penalty is prescribed, shall be subject to §
+   (A)   Any person violating any provisions of this chapter for which no
+specific penalty is prescribed shall be subject to §
 10.99.
-   (B)   Any person, or persons, who shall continue to violate §
-50.01, 410 I.A.C. 6-8.3 “Residential On-Site Sewage Systems”, or 410 I.A.C. 6-
-10.1 “Commercial On-Site Sewage Systems” beyond the time limit provided in the
-order shall be cited for said violation in a court having jurisdiction. The
-violator, or violators, shall be punished by a fine of no more than $2,500,
-plus court costs. Each individual day that a violation is in existence may be
-deemed a separate offense.
+   (B)   Any person or persons who shall continue to violate any provision of §
+50.01, 410 I.A.C. 6-8.3, or 410 I.A.C. 6-10.1 beyond the time limit provided in
+the order shall be cited for said violation in a court having jurisdiction. The
+violator or violators shall be punished by a fine as described in I.C. 16-20-1-
+26. Each individual day that a violation is in existence may be deemed a
+separate offense.
    (C)   Any person who shall continue to violate §
 50.02, I.C. 14-25, I.C. 25-39, 312 I.A.C. 12, or 312 I.A.C. 13 beyond the time
 limit provided in the order shall be cited for said violation in a court having
@@ -6024,7 +6012,8 @@ repaired by the county shall be billed directly to the individual, utility, or
 entity. The relocation of any utility or obstruction will be at the expense of
 the violator, and will meet county standards.
 (Ord. 2001-28, passed 11-26-2001; Ord. 2013-05, passed 3-26-2013; Ord. 2016-37,
-passed 12-27-2016)
+passed 12-27-2016; Ord. 2024-22, passed 6-25-2024; Ord. 2024-50, passed 12-10-
+2024)
 CHAPTER 51: WASTE, SANITATION
 Section
    
@@ -7431,6 +7420,7 @@ passed 3-23-2004; Ord. 2006-09, passed 5-23-2006; Ord. 2008-13, passed 11-18-
 SCHEDULE II. STOP SIGNS.
 Intersection Location of Stop Sign(s)
 Intersection                         Location of Stop Sign(s)
+Co. Rd. 0 and Co. Rd. 900 S          All four directions at intersection
 Co. Rd. 200 S at Cartersburg Road    All four directions at intersection
 Co. Rd. 500 N at Co. Rd. 600 E       All four directions at intersection
 Co. Rd. 700 N and Co. Rd. 900 E      All four directions at intersection
@@ -7449,7 +7439,7 @@ approaching Shelton Drive
  
 (Ord. 2006-02, passed 3-7-2006; Ord. 2012-07, passed 2-14-2012; Ord. 2017-31,
 passed 8-22-2017; Ord. 2020-3, passed 1-28-2020; Ord. 2023-02, passed 1-10-
-2023; Ord. 2023-20, passed 7-11-2023)
+2023; Ord. 2023-20, passed 7-11-2023; Ord. 2024-23, passed 6-25-2024)
 SCHEDULE III. SPEED LIMITS.
    (A)   Current speed limits.
 Preferential Highway Location Speed Limit
@@ -7458,6 +7448,8 @@ Avon Avenue                   Avon corporate limits to Brownsburg  45 mph
                               corporate limits
 Broyles Road                  Co. Rd. 550 E to Co. Rd. 575 E       35 mph
 Casco Drive                   U.S. Highway 36 to the dead end      25 mph
+Co. Rd. 0                     500 feet south of US 40 to 500 feet  35 mph
+                              north of US 40
 Co. Rd. 50 E                  Danville corporate limits north to   40 mph
                               Co. Rd. 200 N
 Co. Rd. 50 E                  Sycamore Lane to Danville corporate  40 mph
@@ -7478,6 +7470,8 @@ Co. Rd. 500 E                 U.S. Highway 40 to the dead end      30 mph
 Co. Rd. 550 N                 Co. Rd. 400 E to Co. Rd. 500 E       40 mph
 Co. Rd. 600 N                 Co. Rd. 900 E to Raceway Road        45 mph
 Co. Rd. 700 W                 S.R. 75 to Co. Rd. 450 S             40 mph
+Co. Rd. 725 N                 County jurisdiction between Co. Rd.  30 mph
+                              800 E and Co. Rd. 850 E
 Co. Rd. 750 N                 About 2,100 feet west of Race Road   50 mph
                               to Co. Rd. 900 E
                               Raceway Road to about 2,100 feet
@@ -7485,12 +7479,19 @@ Co. Rd. 750 N                 west; west property line of 10752    35 mph
                               east of Co. Rd. 750 N
 Co. Rd. 750 N                 St. Malachy property line to         25 mph
                               property line
+Co. Rd. 750 N                 Co. Rd. 850 E to railroad crossing   30 mph
+Co. Rd. 800 E                 County jurisdiction between Co. Rd.  30 mph
+                              700 N and Co. Rd. 725 N
 Co. Rd. 800 S                 Co. Rd. 1050 E to S.R. 67            35 mph
+Co. Rd. 850 E                 County jurisdiction between Co. Rd.  30 mph
+                              725 N and Co. Rd. 750 N
 Co. Rd. 900, Co. Rd. 925 N    S.R. 39 to Co. Rd. 75 E              40 mph
 Co. Rd. 900 N                 About 1,325 feet west of S.R. 267 to 35 mph
                               S.R. 267
 Co. Rd. 900 N                 Co. Rd. 500 E to about 1,325 feet    45 mph
                               west of S.R. 267
+Co. Rd. 900 S                 From S.R. 39 to Co. Rd. 100 E        35 mph
+Co. Rd. 900 S                 From Co. Rd. 100 E to Tudor Road     50 mph
 Co. Rd. 925 E, Co. Rd. 800 S, Co. Rd. 825 E to Co. Rd. 1050 E      45 mph
 county line south
 Co. Rd. 975 E                 Co. Rd. 700 S to Co. Rd. 800 S       45 mph
@@ -7503,8 +7504,14 @@ Co. Rd. 1000 N                S.R. 267 to Co. Rd. 750 E            35 mph
 Co. Rd. 1050 E                Co. Rd. 700 S to Co. Rd. 800 S       40 mph
 Eagle Drive                   E 600 N to Eagle Village Drive       20 mph
 Eaglevillage Drive            E 600 N to Pine Valley Path          20 mph
+East Hendricks County Road    0.25 mile west of S.R. 39 to 0.25    40 mph
+                              mile east of S.R. 39
 Forest Lake Court             Forest Lake Subdivision              20 mph
 Hill Valley Drive             Hill Valley Estates                  20 mph
+Ladoga Road                   Town limits to 1320 feet NW of town  40 mph
+                              linits
+Northridge Drive              From Washington St. to the end of    20 mph
+                              cul-de-sac
 Pheasant Run Drive            Pheasant Run Subdivision             25 mph
 Reitzel Drive                 Ivy Ridge Estates                    25 mph
 Station Hill Drive            Station Hill Subdivision             20 mph
@@ -7627,17 +7634,26 @@ passed 2-14-2012; Ord. 2012-13, passed 3-13-2012; Ord. 2012-14, passed 3-13-
 2016-06, passed 2-23-2016; Ord. 2016-21, passed 7-12-2016; Ord. 2016-23, passed
 7-26-2016; Ord. 2017-34, passed 9-12-2017; Ord. 2017-35, passed 9-12-2017; Ord.
 2017-36, passed 9-12-2017; Ord. 2017-37, passed 9-12-2017; Ord. 2019-23, passed
-6-11-2019; Ord. 2020-21, passed 5-26-2020; Ord. 2020-31, passed 9-22-2020)
+6-11-2019; Ord. 2020-21, passed 5-26-2020; Ord. 2020-31, passed 9-22-2020; Ord.
+2024-08, passed 3-26-2024; Ord. 2024-09, passed 3-26-2024; Ord. 2024-24, passed
+6-25-2024; Ord. 2024-28, passed 8-13-2024; Ord. 2024-29, passed 8-13-2024; Ord.
+2024-46, passed 11-12-2024)
 SCHEDULE IV. TRUCK TRAFFIC.
    “No Truck Traffic” shall be posted for the following road segments.
+Street Location
+Street                              Location
+Black Oak Drive                     Co. Rd. (Center Street) to Co. Rd. 825 E
+                                    (Indiana Street)
+Co. Rd. 825 E (Indiana Street)      Old S.R. 267 to Co. Rd. 700 S
+Co. Rd. 850 S                       Co. Rd. 425 E to Co. Rd. 525 E
+Co. Rd. 875 S                       S.R. 39 to Co. Rd. 375 E
+Co. Rd. 875 S/Hendricks County Road Co. Rd. 525 E to Old S.R. 267
+Co. Rd. 950 E                       1000 N to Boone County Line
+Co. Rd. 1000 E                      County jurisdiction between I-74 and Co.
+                                    Rd. 600 N
  
-Street                         Location
-Black Oak Drive                Co. Rd. (Center Street) to Co. Rd. 825 E
-                               (Indiana Street)
-Co. Rd. 825 E (Indiana Street) Old S.R. 267 to Co. Rd. 700 S
-Co. Rd. 950 E                  1000 N to Boone County Line
- 
-(Ord. 2020-32, passed 9-22-2020; Ord. 2020-39, passed 10-27-2020)
+(Ord. 2020-32, passed 9-22-2020; Ord. 2020-39, passed 10-27-2020; Ord. 2024-36,
+passed 9-10-2024; Ord. 2024-40, passed 9-24-2024)
 CHAPTER 73: PARKING SCHEDULES
 Schedule
       
@@ -10612,7 +10628,7 @@ a consumer, or to a conveyance used to transport people;
          (j)   A commissary;
          (k)   A cottage industry;
          (l)   A health facility, as defined in I.C. 16-18-2; and
-         (m)   An assisted living facility, as defined in I.C. 12-10-11.5-8.
+         (m)   An assisted living facility, as defined in state statute.
       (2)   Relinquishes possession of food to a consumer directly, or
 indirectly, through a delivery service, such as home delivery of grocery orders
 or restaurant takeout orders, or a delivery service that is provided by common
@@ -14345,7 +14361,7 @@ alleviate the applicant’s responsibility to comply with chapter, policy, or
 resolution requirements of the local jurisdictional entity.
 Figure 1: Permit Approval Process
 (Within Unincorporated Areas)
-[https://export.amlegal.com/media/cef5bf576dc764e2a2d92b15a7ddb2708da059c5/
+[https://export.amlegal.com/media/d388becf48597be7a7bb8b712925cf87a6851671/
 IMAGES/0-0-0-966.png]
 (Ord. 2023-45, passed 12-12-2023)
 § 152.092 SWPPP REVIEW TIME LIMITS.
@@ -14786,8 +14802,8 @@ protective measures shall be the responsibility of the owner of the property
 upon which the work is being done and the responsibility of any person carrying
 out or participating in the work.
       (2)   The jurisdiction entity may bring an action under I.C. 34-28-5-1
-(b), to be read together with I.C. 34-6-2-86(1)(B) and I.C. 13-21-3-12(4), to
-enforce a stop work order against any person who neglects or fails to comply
+(b), to be read together with I.C. 34-6-2.1-130(1)(B) and I.C. 13-21-3-12(4),
+to enforce a stop work order against any person who neglects or fails to comply
 with a stop work order.
       (3)   For construction projects that are operating under a SWPPP approved
 by the county, if a stop work order is issued on the grounds that the erosion
@@ -14833,7 +14849,7 @@ this section shall immediately comply and stop or eliminate its endangering
 discharge. In the event of a discharger’s failure to immediately comply
 voluntarily with the emergency order, the county may commence court action
 against such person under I.C. 34-28-5-1(b), to be read together with I.C. 34-
-6-2-86(1)(B) and I.C. 13-21-3-12(4), to enforce a stop work order.
+6-2.1-130(1)(B) and I.C. 13-21-3-12(4), to enforce a stop work order.
          (c)   The county may allow the person to recommence its discharge when
 it has demonstrated to the satisfaction of the county that the period of
 endangerment has passed, unless further termination proceedings are initiated
@@ -14880,7 +14896,7 @@ the enforcement of this chapter, including sampling and monitoring expenses.
 timely manner as determined by the decision of the county or by the expiration
 of the time in which to file an appeal, the county may commence a court action
 to recover the costs assessed under I.C. 34-28-5-1(b), to be read together with
-I.C. 34-6-2-86(1)(B) and I.C. 13-21-3-12(4).
+I.C. 34-6-2.1-130(1)(B) and I.C. 13-21-3-12(4).
 (Ord. 2023-45, passed 12-12-2023)
 § 152.113 APPEALS.
    (A)   Appeal of notice of violation. Any person to whom any provision of
@@ -14914,8 +14930,8 @@ upholding the decision of the county, then representatives of the county shall
 enter upon the subject private property and are authorized to take any and all
 measures necessary to abate the violation and/or restore the property,
 including the commencing of a court action under I.C. 34-28-5-1(b),to be read
-together with I.C. 34-6-2-86(1)(B) and I.C. 13-21-3-12(4), to enforce the order
-of the County Board of Commissioners.
+together with I.C. 34-6-2.1-130(1)(B) and I.C. 13-21-3-12(4), to enforce the
+order of the County Board of Commissioners.
 (Ord. 2023-45, passed 12-12-2023)
 CHAPTER 153: LAND USE REGULATIONS
 Section
@@ -14938,7 +14954,8 @@ passed 10-24-2017; Ord. 2017-49, passed 10-24-2017; Ord. 2017-43, passed 9-26-
 2017; Ord. 2019-15, passed 4-23-2019; Ord. 2019-16, passed 4-23-2019; Ord.
 2019-32, passed 9-24-2019; Ord. 2019-40, passed 11-26-2019; Ord. 01-21-04,
 passed 2-23-2021; Ord. 2022-31, passed 6-28-2022; Ord. 2022-32, passed 6-28-
-2022; Ord. 2022-34, passed 7-26-2022)
+2022; Ord. 2022-34, passed 7-26-2022; Ord. 2024-16, passed 4-23-2024; Ord.
+2024-34, passed 8-27-2024)
 TABLE OF SPECIAL ORDINANCES
    Table
       
@@ -16584,6 +16601,16 @@ No.
 2023- 10-24- S&J Investment Corp, Lincoln Township; 4.23 acres located at 10095 E. U.S. 136,
 34    2023   Indianapolis, IN 46234. Changed from “GB”, General Business District to “LI”, Light
              Industrial District (510/23).
+             Connection Pointe Christian Church of Brownsburg, Inc., Washington Township; two parcels
+2024- 7-23-  totaling 10.4 acres located at 125 feet west of the intersection of E. Main Street and
+26    2024   N. Co. Rd. 500 E on the south side of E. Main Street and extending south to U.S. 36.
+             Changed from “PB”, Planned Business Park District to “NB”, Neighborhood Business
+             District (515/24).
+2024- 8-27-  Brownsburg Youth Sports PUD District established, containing 60.852 acres, more or less.
+34    2024   Underlying district to be “PP”, Preservation and Park District (516/24).
+2024- 11-26- Angels Touch, Washington Township; 5.33 acres located at 4055 E. Main Street - Avon.
+49    2024   Changed from “AGR”, Agriculture Residential District to “RE”, Multi-Family Residential
+             District (519/24).
             
  
 TABLE III: ANNEXATIONS AND INCORPORATIONS
@@ -16831,6 +16858,20 @@ R.      12-22- Agreement between the county and the Town of Danville to waive 50
         11-14- Agreement between the county and the Town of Plainfield related to improvements
 2023-42 2023   along Co. Rd. 300 S, including a new roundabout at the intersection with Avon
                Avenue (a.k.a. S.R. 267).
+Council 2-20-  Agreement between the county and the Town of Avon related to a bridge
+R.      2024   improvement on Bridge 290 on Dan Jones Road over CSX Railroad.
+2024-04
+2024-05 11-14- Agreement between the county and the City of Indianapolis related to replacement
+        2023   of County Bridge 39 on Raceway Road.
+R.      2-27-  Agreement between the county and the Town of Avon related to replacement of
+2024-06 2024   County Bridge 290 on Dan Jones Road.
+R.      3-12-  Agreement between the county and Morgan County related to improvements at the
+2024-10 2024   intersection of Hendricks County Road and Old S.R. 267.
+Council 3-19-  Agreement between the county and Morgan County related to improvements at the
+R.      2024   intersection of Hendricks County Road and Old S.R. 267.
+2024-12
+R.      4-9-   Agreement between the county and the Town of Mooresville related to improvements
+2024-14 2024   at the intersection of Hendricks County Road and Old. S.R. 267.
               
  
 PARALLEL REFERENCES
@@ -16841,7 +16882,7 @@ REFERENCES TO INDIANA CODE
 I.C. Cites Code Section
 I.C. Cites                        Code Section
 1-1-1-5                           10.04
-1-1-1-7                           10.11
+1-1-1-7                           10.12
 1-1-1-8                           10.06
 1-1-4-5                           10.05
 1-1-5-1                           10.11
@@ -16867,7 +16908,6 @@ I.C. Cites                        Code Section
 5-13-9-1                          31.09
 5-14-1.5-1 et seq.                31.13
 5-14-1.5-2(a)(5)                  32.02
-5-14-1.5-5                        50.01
 5-14-1.5-5(d)                     35.13;
                                   35.15
 5-14-3                            113.07
@@ -16955,7 +16995,6 @@ I.C. Cites                        Code Section
 11-8-8-21                         37.04
 11-12-2-12                        36.04
 11-12-5-5                         36.23
-12-10-11.5-8                      113.02
 12-18-8-1                         34.24
 12-18-8-1 et seq.                 34.20;
                                   34.24
@@ -16998,9 +17037,11 @@ I.C. Cites                        Code Section
 16-20-1-23                        50.02;
                                   114.02
 16-20-1-25                        92.36
-16-20-1-26                        92.36
+16-20-1-26                        50.99;
+                                  92.36
 16-20-8-5                         113.07
 16-20-8-8                         113.07
+16-41-25-9                        50.01
 16-41-31                          113.02
 16-42-1                           113.01
 16-42-1 through 16-42-2           113.06
@@ -17055,7 +17096,7 @@ I.C. Cites                        Code Section
 32-29-7-3(b)                      37.01
 33-40-3                           34.04
 33-40-7-5                         34.04
-34-6-2-86(1)(B)                   152.111-
+34-6-2.1-130(1)(B)                152.111-
                                   152.113
 34-13-3-3                         39.17
 34-28-5-1(b)                      152.111-
@@ -17151,6 +17192,11 @@ Council 2018-28 12-4-2018   31.07
 2021-11         3-23-2021   35.19
 2021-32         6-1-2021    31.13
 2022-36         8-9-2022    36.25
+Council 2024-04 2-20-2024   TSO Table VI
+2024-06         2-27-2024   TSO Table VI
+2024-10         3-12-2024   TSO Table VI
+Council 2024-12 3-19-2024   TSO Table VI
+2024-14         4-9-2024    TSO Table VI
                            
  
 REFERENCES TO ORDINANCES
@@ -17920,7 +17966,29 @@ Council 2022-42 8-23-2022   38.01
                             152.099;
                             152.110-
                             152.113
+2024-05         11-14-2023  TSO Table VI
+2024-07         3-26-2024   37.27
+2024-08         3-26-2024   Ch. 72 Schd. III
+2024-09         3-26-2024   Ch. 72 Schd. III
+2024-16         4-23-2024   153.01
+2024-22         6-25-2024   50.01;
+                            50.99
+2024-23         6-25-2024   Ch. 72 Schd. II
+2024-24         6-25-2024   Ch. 72 Schd. III
+2024-26         7-23-2024   TSO Table II
+2024-28         8-13-2024   Ch. 72 Schd. III
+2024-29         8-13-2024   Ch. 72 Schd. III
+Council 2024-30 9-17-2024   38.01
+2024-34         8-27-2024   153.01;
+                            TSO Table II
+2024-36         9-10-2024   Ch. 72 Schd. IV
+2024-40         9-24-2024   Ch. 72 Schd. IV
+2024-41         10-8-2024   37.28
+2024-46         11-12-2024  Ch. 72 Schd. III
+2024-47         11-12-2024  37.26
+2024-49         11-26-2024  TSO Table II
+2024-50         12-10-2024  50.01;
+                            50.99
                            
- 
  
  
